@@ -1,0 +1,12 @@
+pytrends>=4.9.2
+urllib3<2
+pandas>=2.2
+matplotlib>=3.8
+PyYAML>=6.0
+
+# Japanese noun extraction. The code also falls back when these are absent.
+sudachipy>=0.6.8
+sudachidict-core>=20241021
+
+# Optional LLM classifier support. Enable it in config/settings.yml.
+# openai>=1.0
