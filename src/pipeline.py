@@ -14,11 +14,13 @@ from src.preprocess.japanese import JapaneseTextPreprocessor
 from src.scoring.scorer import (
     add_previous_period_comparison,
     build_audience_breakdown,
+    build_generation_breakdown,
     build_theme_ranking,
     build_theme_time_series,
 )
 from src.topic.audience import AudienceEstimator
 from src.topic.classifier import KeywordTopicClassifier
+from src.topic.generation import GenerationEstimator
 from src.visualize.charts import plot_theme_ranking, plot_theme_time_series
 from src.visualize.site import build_static_site
 
@@ -27,6 +29,7 @@ def run_pipeline(
     settings_path: str | Path = "config/settings.yml",
     themes_path: str | Path = "config/themes.yml",
     audience_path: str | Path | None = None,
+    generation_path: str | Path | None = None,
     seeds_path: str | Path | None = None,
     input_csv: str | Path | None = None,
     output_dir: str | Path | None = None,
@@ -46,14 +49,24 @@ def run_pipeline(
     classifier = KeywordTopicClassifier.from_configs(themes, settings)
     classified = classifier.classify_frame(preprocessed)
     classified = _add_audience_segments(classified, settings, audience_path)
+    classified = _add_generation_segments(classified, settings, generation_path)
 
     top_n = int(settings.get("output", {}).get("top_n", 20))
     time_series = build_theme_time_series(classified)
     ranking = build_theme_ranking(classified, top_n=top_n, latest_only=True)
     ranking = add_previous_period_comparison(ranking, time_series)
     audience_breakdown = build_audience_breakdown(classified)
+    generation_breakdown = build_generation_breakdown(classified)
 
-    paths = _write_outputs(settings, output_directory, classified, ranking, time_series, audience_breakdown)
+    paths = _write_outputs(
+        settings,
+        output_directory,
+        classified,
+        ranking,
+        time_series,
+        audience_breakdown,
+        generation_breakdown,
+    )
     _write_charts(settings, output_directory, ranking, time_series)
     if settings.get("output", {}).get("build_site", False):
         build_static_site(output_directory, settings.get("output", {}).get("site_dir", "site"))
@@ -71,6 +84,20 @@ def _add_audience_segments(
     configured_path = audience_path or audience_settings.get("config_path", "config/audience.yml")
     audience_config = load_yaml(configured_path)
     estimator = AudienceEstimator.from_config(audience_config)
+    return estimator.classify_frame(classified)
+
+
+def _add_generation_segments(
+    classified: pd.DataFrame,
+    settings: dict[str, Any],
+    generation_path: str | Path | None,
+) -> pd.DataFrame:
+    generation_settings = settings.get("generation", {})
+    if not generation_settings.get("enabled", True):
+        return classified
+    configured_path = generation_path or generation_settings.get("config_path", "config/generation.yml")
+    generation_config = load_yaml(configured_path)
+    estimator = GenerationEstimator.from_config(generation_config)
     return estimator.classify_frame(classified)
 
 
@@ -149,6 +176,7 @@ def _write_outputs(
     ranking: pd.DataFrame,
     time_series: pd.DataFrame,
     audience_breakdown: pd.DataFrame,
+    generation_breakdown: pd.DataFrame,
 ) -> dict[str, Path]:
     output_config = settings.get("output", {})
     paths = {
@@ -156,6 +184,7 @@ def _write_outputs(
         "theme_ranking": output_dir / output_config.get("theme_ranking_csv", "theme_ranking.csv"),
         "theme_timeseries": output_dir / output_config.get("theme_timeseries_csv", "theme_timeseries.csv"),
         "audience_breakdown": output_dir / output_config.get("audience_breakdown_csv", "audience_breakdown.csv"),
+        "generation_breakdown": output_dir / output_config.get("generation_breakdown_csv", "generation_breakdown.csv"),
         "ranking_chart": output_dir / output_config.get("ranking_chart", "theme_ranking.png"),
         "timeseries_chart": output_dir / output_config.get("timeseries_chart", "theme_timeseries.png"),
     }
@@ -163,6 +192,7 @@ def _write_outputs(
     ranking.to_csv(paths["theme_ranking"], index=False, encoding="utf-8-sig")
     time_series.to_csv(paths["theme_timeseries"], index=False, encoding="utf-8-sig")
     audience_breakdown.to_csv(paths["audience_breakdown"], index=False, encoding="utf-8-sig")
+    generation_breakdown.to_csv(paths["generation_breakdown"], index=False, encoding="utf-8-sig")
     return paths
 
 
@@ -185,6 +215,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--settings", default="config/settings.yml", help="Path to settings YAML.")
     parser.add_argument("--themes", default="config/themes.yml", help="Path to theme YAML.")
     parser.add_argument("--audience", default=None, help="Path to audience signal YAML.")
+    parser.add_argument("--generation", default=None, help="Path to generation signal YAML.")
     parser.add_argument("--seeds", default=None, help="Path to seed keyword YAML.")
     parser.add_argument("--input", default=None, help="Optional CSV input. Skips Google Trends collection.")
     parser.add_argument("--output-dir", default=None, help="Output directory.")
@@ -201,6 +232,7 @@ def main(argv: list[str] | None = None) -> int:
         settings_path=args.settings,
         themes_path=args.themes,
         audience_path=args.audience,
+        generation_path=args.generation,
         seeds_path=args.seeds,
         input_csv=args.input,
         output_dir=args.output_dir,

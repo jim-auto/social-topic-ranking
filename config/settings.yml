@@ -50,6 +50,10 @@ audience:
   enabled: true
   config_path: config/audience.yml
 
+generation:
+  enabled: true
+  config_path: config/generation.yml
+
 pipeline:
   period: daily
   sample_when_empty: true
@@ -62,5 +66,6 @@ output:
   theme_ranking_csv: theme_ranking.csv
   theme_timeseries_csv: theme_timeseries.csv
   audience_breakdown_csv: audience_breakdown.csv
+  generation_breakdown_csv: generation_breakdown.csv
   ranking_chart: theme_ranking.png
   timeseries_chart: theme_timeseries.png

@@ -283,12 +283,14 @@ def build_static_site(
     time_series_path = outputs / "theme_timeseries.csv"
     classified_path = outputs / "classified_keywords.csv"
     audience_path = outputs / "audience_breakdown.csv"
+    generation_path = outputs / "generation_breakdown.csv"
     if not ranking_path.exists():
         raise FileNotFoundError(f"Missing ranking output: {ranking_path}")
 
     ranking = _read_csv(ranking_path)
     time_series = _read_csv(time_series_path) if time_series_path.exists() else []
     audience = _read_csv(audience_path) if audience_path.exists() else []
+    generation = _read_csv(generation_path) if generation_path.exists() else []
     latest_date = ranking[0].get("date", "") if ranking else ""
 
     _copy_if_exists(outputs / "theme_ranking.png", assets / "theme_ranking.png")
@@ -297,6 +299,7 @@ def build_static_site(
     _copy_if_exists(time_series_path, data_dir / "theme_timeseries.csv")
     _copy_if_exists(classified_path, data_dir / "classified_keywords.csv")
     _copy_if_exists(audience_path, data_dir / "audience_breakdown.csv")
+    _copy_if_exists(generation_path, data_dir / "generation_breakdown.csv")
 
     (site / "styles.css").write_text(SITE_CSS, encoding="utf-8")
     (site / ".nojekyll").write_text("", encoding="utf-8")
@@ -305,6 +308,7 @@ def build_static_site(
             ranking=ranking,
             time_series=time_series,
             audience=audience,
+            generation=generation,
             latest_date=latest_date,
         ),
         encoding="utf-8",
@@ -316,6 +320,7 @@ def _render_html(
     ranking: list[dict[str, str]],
     time_series: list[dict[str, str]],
     audience: list[dict[str, str]],
+    generation: list[dict[str, str]],
     latest_date: str,
 ) -> str:
     top = ranking[0] if ranking else {}
@@ -325,6 +330,7 @@ def _render_html(
 
     rows = "\n".join(_render_ranking_row(row) for row in ranking)
     audience_rows = "\n".join(_render_audience_row(row) for row in audience)
+    generation_rows = "\n".join(_render_generation_row(row) for row in generation)
     max_share = max((_to_float(row.get("interest_share_pct")) for row in ranking), default=0.0)
     subtitle = (
         f"{html.escape(latest_date)} / {theme_count} themes / {total_keywords} keywords"
@@ -422,6 +428,28 @@ def _render_html(
 
     <section class="section">
       <div class="section-header">
+        <h2>Generation Signals</h2>
+        <span>life-stage signal in query text, not user age</span>
+      </div>
+      <table class="ranking-table">
+        <thead>
+          <tr>
+            <th class="rank">#</th>
+            <th>Segment</th>
+            <th class="num">Interest Share</th>
+            <th class="num">Index</th>
+            <th class="num">Keywords</th>
+            <th>Top Keywords</th>
+          </tr>
+        </thead>
+        <tbody>
+          {generation_rows}
+        </tbody>
+      </table>
+    </section>
+
+    <section class="section">
+      <div class="section-header">
         <h2>Data</h2>
         <span>{len(time_series)} trend rows</span>
       </div>
@@ -429,6 +457,7 @@ def _render_html(
         <a class="download-link" href="data/theme_ranking.csv">theme_ranking.csv</a>
         <a class="download-link" href="data/theme_timeseries.csv">theme_timeseries.csv</a>
         <a class="download-link" href="data/audience_breakdown.csv">audience_breakdown.csv</a>
+        <a class="download-link" href="data/generation_breakdown.csv">generation_breakdown.csv</a>
         <a class="download-link" href="data/classified_keywords.csv">classified_keywords.csv</a>
       </div>
     </section>
@@ -467,6 +496,22 @@ def _render_audience_row(row: dict[str, str]) -> str:
           <tr>
             <td class="rank">{html.escape(row.get("rank", ""))}</td>
             <td class="topic">{html.escape(row.get("audience_segment", ""))}</td>
+            <td class="num bar-cell">{share:.2f}%<div class="share-bar"><span style="width: {width:.2f}%"></span></div></td>
+            <td class="num">{index:.2f}</td>
+            <td class="num">{html.escape(row.get("keyword_count", ""))}</td>
+            <td class="keywords">{keywords}</td>
+          </tr>"""
+
+
+def _render_generation_row(row: dict[str, str]) -> str:
+    share = _to_float(row.get("interest_share_pct"))
+    index = _to_float(row.get("attention_index"))
+    keywords = html.escape(row.get("top_keywords", ""))
+    width = max(0.0, min(100.0, share))
+    return f"""\
+          <tr>
+            <td class="rank">{html.escape(row.get("rank", ""))}</td>
+            <td class="topic">{html.escape(row.get("generation_segment", ""))}</td>
             <td class="num bar-cell">{share:.2f}%<div class="share-bar"><span style="width: {width:.2f}%"></span></div></td>
             <td class="num">{index:.2f}</td>
             <td class="num">{html.escape(row.get("keyword_count", ""))}</td>
