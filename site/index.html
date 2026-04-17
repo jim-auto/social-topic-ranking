@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Social Topic Ranking</title>
   <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
 </head>
 <body>
   <main class="page">
@@ -41,7 +42,49 @@
     <section class="section">
       <div class="section-header">
         <h2>Ranking</h2>
-        <span>2026-04-17 / 11 themes / 303 keywords</span>
+        <span id="ranking-subtitle">2026-04-17 / 11 themes / 303 keywords</span>
+      </div>
+      <div class="filters" aria-label="ranking filters">
+        <label class="filter-control" for="audience-filter">
+          <span>男女寄り</span>
+          <select id="audience-filter">
+            <option value="__all__">すべて</option>
+            <option value="男性寄り">男性寄り</option>
+            <option value="女性寄り">女性寄り</option>
+            <option value="中立・不明">中立・不明</option>
+          </select>
+        </label>
+        <label class="filter-control" for="generation-filter">
+          <span>世代</span>
+          <select id="generation-filter">
+            <option value="__all__">すべて</option>
+            <option value="10代・学生">10代・学生</option>
+            <option value="20代">20代</option>
+            <option value="30代">30代</option>
+            <option value="40代">40代</option>
+            <option value="50代以上">50代以上</option>
+            <option value="世代不明">世代不明</option>
+          </select>
+        </label>
+        <button class="filter-reset" id="filter-reset" type="button">Reset</button>
+      </div>
+      <div class="filter-summary" aria-label="filtered summary">
+                <div class="filter-summary-item">
+          <span class="filter-summary-label">Top Theme</span>
+          <span class="filter-summary-value" id="filter-top-theme">食（カフェ・グルメ）</span>
+        </div>
+                <div class="filter-summary-item">
+          <span class="filter-summary-label">Interest Share</span>
+          <span class="filter-summary-value" id="filter-top-share">18.95%</span>
+        </div>
+                <div class="filter-summary-item">
+          <span class="filter-summary-label">Attention Index</span>
+          <span class="filter-summary-value" id="filter-top-index">100.00</span>
+        </div>
+                <div class="filter-summary-item">
+          <span class="filter-summary-label">Keywords</span>
+          <span class="filter-summary-value" id="filter-keyword-count">303</span>
+        </div>
       </div>
       <table class="ranking-table">
         <thead>
@@ -54,7 +97,7 @@
             <th>Top Keywords</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody id="ranking-body">
                     <tr>
             <td class="rank">1</td>
             <td class="topic">食（カフェ・グルメ）</td>
@@ -150,7 +193,7 @@
     <section class="section">
       <div class="section-header">
         <h2>Charts</h2>
-        <span>Generated 2026-04-18 06:16</span>
+        <span>Generated 2026-04-18 06:34</span>
       </div>
       <div class="charts">
         <div class="chart-panel">
@@ -279,6 +322,7 @@
         <a class="download-link" href="data/audience_breakdown.csv">audience_breakdown.csv</a>
         <a class="download-link" href="data/generation_breakdown.csv">generation_breakdown.csv</a>
         <a class="download-link" href="data/classified_keywords.csv">classified_keywords.csv</a>
+        <a class="download-link" href="data/filter_records.json">filter_records.json</a>
       </div>
     </section>
   </main>

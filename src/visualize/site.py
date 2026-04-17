@@ -3,10 +3,15 @@ from __future__ import annotations
 import csv
 import datetime as dt
 import html
+import json
 import shutil
 from pathlib import Path
 from typing import Any
 
+
+ALL_FILTER_VALUE = "__all__"
+AUDIENCE_FILTER_ORDER = ["男性寄り", "女性寄り", "中立・不明"]
+GENERATION_FILTER_ORDER = ["10代・学生", "20代", "30代", "40代", "50代以上", "世代不明"]
 
 SITE_CSS = """\
 :root {
@@ -141,6 +146,80 @@ a {
   font-size: 0.92rem;
 }
 
+.filters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(180px, 240px)) auto;
+  gap: 12px;
+  align-items: end;
+  margin: 0 0 14px;
+}
+
+.filter-control {
+  display: grid;
+  gap: 6px;
+}
+
+.filter-control span {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.filter-control select,
+.filter-reset {
+  min-height: 42px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--ink);
+  font: inherit;
+}
+
+.filter-control select {
+  width: 100%;
+  padding: 0 34px 0 12px;
+}
+
+.filter-reset {
+  padding: 0 14px;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.filter-reset:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.filter-summary {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin: 0 0 16px;
+}
+
+.filter-summary-item {
+  border-left: 3px solid var(--accent);
+  background: rgba(255, 255, 255, 0.7);
+  padding: 12px;
+  min-width: 0;
+}
+
+.filter-summary-label {
+  display: block;
+  color: var(--muted);
+  font-size: 0.76rem;
+}
+
+.filter-summary-value {
+  display: block;
+  margin-top: 5px;
+  font-size: 1.18rem;
+  font-weight: 800;
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
 .ranking-table {
   width: 100%;
   border-collapse: collapse;
@@ -204,6 +283,11 @@ a {
   line-height: 1.55;
 }
 
+.empty-row {
+  color: var(--muted);
+  text-align: center;
+}
+
 .charts {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -250,7 +334,12 @@ a {
   }
 
   .metrics,
-  .charts {
+  .charts,
+  .filter-summary {
+    grid-template-columns: 1fr;
+  }
+
+  .filters {
     grid-template-columns: 1fr;
   }
 
@@ -265,6 +354,188 @@ a {
     white-space: normal;
   }
 }
+"""
+
+
+SITE_JS = """\
+(() => {
+  const ALL = "__all__";
+  const state = {
+    records: [],
+  };
+
+  const audienceFilter = document.querySelector("#audience-filter");
+  const generationFilter = document.querySelector("#generation-filter");
+  const resetButton = document.querySelector("#filter-reset");
+  const rankingBody = document.querySelector("#ranking-body");
+  const rankingSubtitle = document.querySelector("#ranking-subtitle");
+  const topTheme = document.querySelector("#filter-top-theme");
+  const topShare = document.querySelector("#filter-top-share");
+  const topIndex = document.querySelector("#filter-top-index");
+  const keywordCount = document.querySelector("#filter-keyword-count");
+
+  if (!audienceFilter || !generationFilter || !rankingBody) {
+    return;
+  }
+
+  const formatNumber = new Intl.NumberFormat("ja-JP", {
+    maximumFractionDigits: 2,
+    minimumFractionDigits: 2,
+  });
+  const formatInteger = new Intl.NumberFormat("ja-JP");
+
+  audienceFilter.addEventListener("change", render);
+  generationFilter.addEventListener("change", render);
+  if (resetButton) {
+    resetButton.addEventListener("click", () => {
+      audienceFilter.value = ALL;
+      generationFilter.value = ALL;
+      render();
+    });
+  }
+
+  fetch("data/filter_records.json", { cache: "no-store" })
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error(`filter data ${response.status}`);
+      }
+      return response.json();
+    })
+    .then((records) => {
+      state.records = Array.isArray(records) ? records : [];
+      render();
+    })
+    .catch(() => {
+      setSummary("-", "0.00%", "0.00", "0");
+    });
+
+  function render() {
+    if (!state.records.length) {
+      return;
+    }
+
+    const filtered = state.records.filter((record) => {
+      const audienceMatch =
+        audienceFilter.value === ALL || record.audience_segment === audienceFilter.value;
+      const generationMatch =
+        generationFilter.value === ALL || record.generation_segment === generationFilter.value;
+      return audienceMatch && generationMatch;
+    });
+
+    const ranking = buildRanking(filtered);
+    rankingBody.innerHTML = ranking.length
+      ? ranking.map(renderRow).join("")
+      : '<tr><td class="empty-row" colspan="6">該当データなし</td></tr>';
+
+    const uniqueDates = [...new Set(filtered.map((record) => record.date).filter(Boolean))];
+    if (rankingSubtitle) {
+      const prefix = uniqueDates.length ? `${uniqueDates[0]} / ` : "";
+      rankingSubtitle.textContent = `${prefix}${ranking.length} themes / ${filtered.length} keywords`;
+    }
+
+    if (ranking.length) {
+      const lead = ranking[0];
+      setSummary(
+        lead.topic,
+        `${formatNumber.format(lead.interestShare)}%`,
+        formatNumber.format(lead.attentionIndex),
+        formatInteger.format(filtered.length),
+      );
+    } else {
+      setSummary("-", "0.00%", "0.00", "0");
+    }
+  }
+
+  function buildRanking(records) {
+    const grouped = new Map();
+    records.forEach((record) => {
+      const topic = record.topic || "その他";
+      const score = Number(record.score) || 0;
+      if (!grouped.has(topic)) {
+        grouped.set(topic, {
+          topic,
+          score: 0,
+          keywordCount: 0,
+          keywords: [],
+        });
+      }
+      const entry = grouped.get(topic);
+      entry.score += score;
+      entry.keywordCount += 1;
+      entry.keywords.push({
+        keyword: record.keyword || "",
+        score,
+      });
+    });
+
+    const entries = [...grouped.values()].sort((left, right) => {
+      if (right.score !== left.score) {
+        return right.score - left.score;
+      }
+      if (right.keywordCount !== left.keywordCount) {
+        return right.keywordCount - left.keywordCount;
+      }
+      return left.topic.localeCompare(right.topic, "ja");
+    });
+    const totalScore = entries.reduce((sum, entry) => sum + entry.score, 0);
+    const maxScore = entries.length ? entries[0].score : 0;
+
+    return entries.slice(0, 20).map((entry, index) => ({
+      rank: index + 1,
+      topic: entry.topic,
+      interestShare: totalScore > 0 ? (entry.score / totalScore) * 100 : 0,
+      attentionIndex: maxScore > 0 ? (entry.score / maxScore) * 100 : 0,
+      keywordCount: entry.keywordCount,
+      topKeywords: entry.keywords
+        .sort((left, right) => right.score - left.score)
+        .slice(0, 5)
+        .map((item) => item.keyword)
+        .filter(Boolean)
+        .join(", "),
+    }));
+  }
+
+  function renderRow(row) {
+    const width = Math.max(0, Math.min(100, row.interestShare));
+    return `
+          <tr>
+            <td class="rank">${escapeHtml(String(row.rank))}</td>
+            <td class="topic">${escapeHtml(row.topic)}</td>
+            <td class="num bar-cell">${formatNumber.format(row.interestShare)}%<div class="share-bar"><span style="width: ${formatNumber.format(width)}%"></span></div></td>
+            <td class="num">${formatNumber.format(row.attentionIndex)}</td>
+            <td class="num">${formatInteger.format(row.keywordCount)}</td>
+            <td class="keywords">${escapeHtml(row.topKeywords)}</td>
+          </tr>`;
+  }
+
+  function setSummary(theme, share, index, keywords) {
+    if (topTheme) {
+      topTheme.textContent = theme;
+    }
+    if (topShare) {
+      topShare.textContent = share;
+    }
+    if (topIndex) {
+      topIndex.textContent = index;
+    }
+    if (keywordCount) {
+      keywordCount.textContent = keywords;
+    }
+  }
+
+  function escapeHtml(value) {
+    return value.replace(/[&<>"']/g, (char) => {
+      const entities = {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;",
+      };
+      return entities[char];
+    });
+  }
+})();
 """
 
 
@@ -289,6 +560,7 @@ def build_static_site(
 
     ranking = _read_csv(ranking_path)
     time_series = _read_csv(time_series_path) if time_series_path.exists() else []
+    classified = _read_csv(classified_path) if classified_path.exists() else []
     audience = _read_csv(audience_path) if audience_path.exists() else []
     generation = _read_csv(generation_path) if generation_path.exists() else []
     latest_date = ranking[0].get("date", "") if ranking else ""
@@ -301,7 +573,12 @@ def build_static_site(
     _copy_if_exists(audience_path, data_dir / "audience_breakdown.csv")
     _copy_if_exists(generation_path, data_dir / "generation_breakdown.csv")
 
+    (data_dir / "filter_records.json").write_text(
+        json.dumps(_filter_records(classified, latest_date), ensure_ascii=False, indent=2),
+        encoding="utf-8",
+    )
     (site / "styles.css").write_text(SITE_CSS, encoding="utf-8")
+    (site / "app.js").write_text(SITE_JS, encoding="utf-8")
     (site / ".nojekyll").write_text("", encoding="utf-8")
     (site / "index.html").write_text(
         _render_html(
@@ -332,6 +609,12 @@ def _render_html(
     audience_rows = "\n".join(_render_audience_row(row) for row in audience)
     generation_rows = "\n".join(_render_generation_row(row) for row in generation)
     max_share = max((_to_float(row.get("interest_share_pct")) for row in ranking), default=0.0)
+    audience_options = _render_select_options(
+        _segment_options(audience, "audience_segment", AUDIENCE_FILTER_ORDER)
+    )
+    generation_options = _render_select_options(
+        _segment_options(generation, "generation_segment", GENERATION_FILTER_ORDER)
+    )
     subtitle = (
         f"{html.escape(latest_date)} / {theme_count} themes / {total_keywords} keywords"
         if latest_date
@@ -346,6 +629,7 @@ def _render_html(
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Social Topic Ranking</title>
   <link rel="stylesheet" href="styles.css">
+  <script src="app.js" defer></script>
 </head>
 <body>
   <main class="page">
@@ -370,7 +654,28 @@ def _render_html(
     <section class="section">
       <div class="section-header">
         <h2>Ranking</h2>
-        <span>{subtitle}</span>
+        <span id="ranking-subtitle">{subtitle}</span>
+      </div>
+      <div class="filters" aria-label="ranking filters">
+        <label class="filter-control" for="audience-filter">
+          <span>男女寄り</span>
+          <select id="audience-filter">
+            {audience_options}
+          </select>
+        </label>
+        <label class="filter-control" for="generation-filter">
+          <span>世代</span>
+          <select id="generation-filter">
+            {generation_options}
+          </select>
+        </label>
+        <button class="filter-reset" id="filter-reset" type="button">Reset</button>
+      </div>
+      <div class="filter-summary" aria-label="filtered summary">
+        {_filter_summary_item("Top Theme", "filter-top-theme", top.get("topic", "-"))}
+        {_filter_summary_item("Interest Share", "filter-top-share", _fmt_pct(top.get("interest_share_pct")))}
+        {_filter_summary_item("Attention Index", "filter-top-index", _fmt_number(top.get("attention_index")))}
+        {_filter_summary_item("Keywords", "filter-keyword-count", str(total_keywords))}
       </div>
       <table class="ranking-table">
         <thead>
@@ -383,7 +688,7 @@ def _render_html(
             <th>Top Keywords</th>
           </tr>
         </thead>
-        <tbody>
+        <tbody id="ranking-body">
           {rows}
         </tbody>
       </table>
@@ -459,6 +764,7 @@ def _render_html(
         <a class="download-link" href="data/audience_breakdown.csv">audience_breakdown.csv</a>
         <a class="download-link" href="data/generation_breakdown.csv">generation_breakdown.csv</a>
         <a class="download-link" href="data/classified_keywords.csv">classified_keywords.csv</a>
+        <a class="download-link" href="data/filter_records.json">filter_records.json</a>
       </div>
     </section>
   </main>
@@ -525,6 +831,47 @@ def _metric(label: str, value: str) -> str:
               <span class="metric-label">{html.escape(label)}</span>
               <span class="metric-value">{html.escape(value)}</span>
             </div>"""
+
+
+def _filter_summary_item(label: str, element_id: str, value: str) -> str:
+    return f"""\
+        <div class="filter-summary-item">
+          <span class="filter-summary-label">{html.escape(label)}</span>
+          <span class="filter-summary-value" id="{html.escape(element_id)}">{html.escape(value)}</span>
+        </div>"""
+
+
+def _render_select_options(options: list[str]) -> str:
+    rendered = [f'<option value="{ALL_FILTER_VALUE}">すべて</option>']
+    rendered.extend(
+        f'<option value="{html.escape(option)}">{html.escape(option)}</option>' for option in options
+    )
+    return "\n            ".join(rendered)
+
+
+def _segment_options(rows: list[dict[str, str]], field: str, preferred: list[str]) -> list[str]:
+    seen = {row.get(field, "") for row in rows if row.get(field)}
+    options = list(preferred)
+    options.extend(sorted(value for value in seen if value not in preferred))
+    return options
+
+
+def _filter_records(rows: list[dict[str, str]], latest_date: str) -> list[dict[str, Any]]:
+    source_rows = rows
+    if latest_date:
+        source_rows = [row for row in rows if row.get("date", "") == latest_date]
+
+    return [
+        {
+            "date": row.get("date", ""),
+            "keyword": row.get("keyword", ""),
+            "score": _to_float(row.get("score")),
+            "topic": row.get("topic", "") or "その他",
+            "audience_segment": row.get("audience_segment", "") or "中立・不明",
+            "generation_segment": row.get("generation_segment", "") or "世代不明",
+        }
+        for row in source_rows
+    ]
 
 
 def _read_csv(path: Path) -> list[dict[str, str]]:

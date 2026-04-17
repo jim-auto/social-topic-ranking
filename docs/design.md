@@ -6,7 +6,7 @@
 2. `preprocess`: 日本語正規化、不要語除去、名詞抽出を行う。
 3. `topic`: LLM分類を優先し、失敗時または未設定時はキーワード辞書で分類する。
 4. `scoring`: テーマ単位でscoreを合計し、ランキングと時系列を作る。
-5. `visualize`: ランキング棒グラフと時系列折れ線グラフを出力する。
+5. `visualize`: ランキング棒グラフ、時系列折れ線グラフ、静的サイトを出力する。
 
 ## Data Contract
 
@@ -107,3 +107,16 @@ seedキーワード収集の流れ:
 | `世代不明` | 世代文脈が弱い検索語 |
 
 集計結果は `generation_breakdown.csv` とサイトの `Generation Signals` に出力する。
+
+## Site Filters
+
+静的サイトでは `classified_keywords.csv` から最新日の `filter_records.json` を作り、ブラウザ側でRankingを再集計する。
+
+フィルタ対象:
+
+| filter | source column |
+| --- | --- |
+| `男女寄り` | `audience_segment` |
+| `世代` | `generation_segment` |
+
+フィルタは検索ワードの特徴ラベルを使う。ユーザー本人の性別や年齢として扱わず、検索語に含まれる文脈別のランキング比較に限定する。
