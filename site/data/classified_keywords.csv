@@ -1,304 +1,304 @@
-﻿date,keyword,score,source,rank,related_to,related_terms,normalized_keyword,nouns,tokenizer,topic,confidence,classification_method,matched_keywords
-2026-04-17,デート スポット,100.0,related_queries:top,1,デート,,デート スポット,デート|スポット,sudachi,恋愛,0.8,keyword_fallback,デート
-2026-04-17,東京 デート,48.0,related_queries:top,2,デート,,東京 デート,東京|デート,sudachi,恋愛,0.8,keyword_fallback,デート
-2026-04-17,デート おすすめ,35.0,related_queries:top,3,デート,,デート おすすめ,デート|御勧め,sudachi,恋愛,0.8,keyword_fallback,デート
-2026-04-17,バチェラー デート,32.0,related_queries:top,4,デート,,バチェラー デート,バチェラー|デート,sudachi,恋愛,0.8,keyword_fallback,デート
-2026-04-17,映画 デート,29.0,related_queries:top,5,デート,,映画 デート,映画|デート,sudachi,恋愛,0.8,keyword_fallback,デート
-2026-04-17,ゴールデンウィーク デート,40.0,related_queries:rising,1,デート,,ゴールデンウィーク デート,ゴールデンウィーク|デート,sudachi,恋愛,0.8,keyword_fallback,デート
-2026-04-17,婚 活 パーティー,100.0,related_queries:top,1,婚活,,婚 活 パーティー,婚|活|パーティー,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,婚 活 アプリ,31.0,related_queries:top,2,婚活,,婚 活 アプリ,婚|活|アプリ,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,婚 活 イベント,20.0,related_queries:top,3,婚活,,婚 活 イベント,婚|活|イベント,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,婚 活 ツアー,19.0,related_queries:top,4,婚活,,婚 活 ツアー,婚|活|ツアー,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,婚 活 ブログ,19.0,related_queries:top,5,婚活,,婚 活 ブログ,婚|活|ブログ,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,ノン フィクション 婚 活 久保 さん その後,100.0,related_queries:rising,1,婚活,,ノン フィクション 婚 活 久保 さん その後,ノン|フィクション|婚|活|久保|その後,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,千 速 と 重 悟 の 婚 活 パーティー,60.0,related_queries:rising,2,婚活,,千 速 と 重 悟 の 婚 活 パーティー,1000|速|重|悟|婚|活|パーティー,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,ザノン フィクション 婚 活,60.0,related_queries:rising,3,婚活,,ザノン フィクション 婚 活,ザノン|フィクション|婚|活,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,ザノン フィクション,60.0,related_queries:rising,4,婚活,,ザノン フィクション,ザノン|フィクション,sudachi,芸能・推し,0.65,keyword_fallback,ノンフィクション
-2026-04-17,婚 活 バス ツアー 大阪,50.0,related_queries:rising,5,婚活,,婚 活 バス ツアー 大阪,婚|活|バス|ツアー|大阪,sudachi,恋愛,0.65,keyword_fallback,婚活
-2026-04-17,復縁 占い,100.0,related_queries:top,1,復縁,,復縁 占い,復縁|占い,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,復縁 したい,72.0,related_queries:top,2,復縁,,復縁 したい,復縁,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,元 カノ 復縁,46.0,related_queries:top,3,復縁,,元 カノ 復縁,元|復縁,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,彼女 復縁,42.0,related_queries:top,4,復縁,,彼女 復縁,復縁,sudachi,恋愛,0.95,keyword_fallback,彼女|復縁
-2026-04-17,復縁 連絡,34.0,related_queries:top,5,復縁,,復縁 連絡,復縁|連絡,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,ユミ の 細胞 たち ウン 復縁,100.0,related_queries:rising,1,復縁,,ユミ の 細胞 たち ウン 復縁,ユミ|細胞|たち|復縁,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,1212 エンジェル ナンバー 復縁,100.0,related_queries:rising,2,復縁,,1212 エンジェル ナンバー 復縁,1212|エンジェル|ナンバー|復縁,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,復縁 パワーストーン,100.0,related_queries:rising,3,復縁,,復縁 パワーストーン,復縁|パワー|ストーン,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,復縁 工作,100.0,related_queries:rising,4,復縁,,復縁 工作,復縁|工作,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,振っ た けど 復縁 したい,100.0,related_queries:rising,5,復縁,,振っ た けど 復縁 したい,復縁,sudachi,恋愛,0.8,keyword_fallback,復縁
-2026-04-17,美容 外科,100.0,related_queries:top,1,美容,,美容 外科,美容|外科,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,湘南 美容,85.0,related_queries:top,2,美容,,湘南 美容,湘南|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,美容 クリニック,74.0,related_queries:top,3,美容,,美容 クリニック,美容|クリニック,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,湘南 美容 外科,59.0,related_queries:top,4,美容,,湘南 美容 外科,湘南|美容|外科,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,美容 学校,32.0,related_queries:top,5,美容,,美容 学校,美容|学校,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,安達 結 希 母親 美容 師,100.0,related_queries:rising,1,美容,,安達 結 希 母親 美容 師,安達|結|希|母親|美容|師,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,美容 師 英語,40.0,related_queries:rising,2,美容,,美容 師 英語,美容|師|英語,sudachi,美容・メイク,0.8,keyword_fallback,美容
-2026-04-17,キャン メイク,100.0,related_queries:top,1,メイク,,キャン メイク,キャン|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,アート メイク,58.0,related_queries:top,2,メイク,,アート メイク,アート|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,アイ メイク,47.0,related_queries:top,3,メイク,,アイ メイク,アイ|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,メイク アップ,34.0,related_queries:top,4,メイク,,メイク アップ,メーク|アップ,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,メイク 落とし,34.0,related_queries:top,5,メイク,,メイク 落とし,メーク|落とし,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,クライシス メイク アップ,100.0,related_queries:rising,1,メイク,,クライシス メイク アップ,クライシス|メーク|アップ,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,マイクロ ビット メイク コード,100.0,related_queries:rising,2,メイク,,マイクロ ビット メイク コード,マイクロ|ビット|メーク|コード,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,トモダチ コレクション キャラ メイク,100.0,related_queries:rising,3,メイク,,トモダチ コレクション キャラ メイク,友達|コレクション|キャラ|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,rmk メイク レッスン,100.0,related_queries:rising,4,メイク,,rmk メイク レッスン,rmk|メーク|レッスン,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,トモコレ キャラ メイク,100.0,related_queries:rising,5,メイク,,トモコレ キャラ メイク,トモコレ|キャラ|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク
-2026-04-17,デコルテ,100.0,related_queries:top,1,コスメ,,デコルテ,デコルテ,sudachi,美容・メイク,0.9125,keyword_fallback,コスメ|デコルテ
-2026-04-17,コスメ デコルテ,98.0,related_queries:top,2,コスメ,,コスメ デコルテ,コスメ|デコルテ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ
-2026-04-17,アット コスメ,85.0,related_queries:top,3,コスメ,,アット コスメ,アット|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ
-2026-04-17,韓国 コスメ,24.0,related_queries:top,4,コスメ,,韓国 コスメ,韓国|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ
-2026-04-17,コスメ キッチン,23.0,related_queries:top,5,コスメ,,コスメ キッチン,コスメ|キッチン,sudachi,美容・メイク,0.8,keyword_fallback,コスメ
-2026-04-17,コスメ キッチン 巾着,100.0,related_queries:rising,1,コスメ,,コスメ キッチン 巾着,コスメ|キッチン|巾着,sudachi,美容・メイク,0.8,keyword_fallback,コスメ
-2026-04-17,コスメ デコルテ パウダー 予約,100.0,related_queries:rising,2,コスメ,,コスメ デコルテ パウダー 予約,コスメ|デコルテ|パウダー|予約,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ
-2026-04-17,アット コスメ 錦糸 町,100.0,related_queries:rising,3,コスメ,,アット コスメ 錦糸 町,アット|コスメ|錦糸|町,sudachi,美容・メイク,0.8,keyword_fallback,コスメ
-2026-04-17,コスメ デコルテ フェイス パウダー ミニ,80.0,related_queries:rising,4,コスメ,,コスメ デコルテ フェイス パウダー ミニ,コスメ|デコルテ|フェイス|パウダー|ミニ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ
-2026-04-17,コスメ デコルテ 新宿,40.0,related_queries:rising,5,コスメ,,コスメ デコルテ 新宿,コスメ|デコルテ|新宿,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ
-2026-04-17,スキンケア おすすめ,100.0,related_queries:top,1,スキンケア,,スキンケア おすすめ,スキンケア|御勧め,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,スキンケア クリーム,65.0,related_queries:top,2,スキンケア,,スキンケア クリーム,スキンケア|クリーム,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,メンズ スキンケア,62.0,related_queries:top,3,スキンケア,,メンズ スキンケア,メンズ|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,スキンケア 順番,54.0,related_queries:top,4,スキンケア,,スキンケア 順番,スキンケア|順番,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,ニキビ スキンケア,50.0,related_queries:top,5,スキンケア,,ニキビ スキンケア,面皰|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,韓国 コスメ 人気 スキンケア 50 代,100.0,related_queries:rising,1,スキンケア,,韓国 コスメ 人気 スキンケア 50 代,韓国|コスメ|人気|スキンケア|50|代,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|スキンケア
-2026-04-17,こん スキンケア クリニック,100.0,related_queries:rising,2,スキンケア,,こん スキンケア クリニック,スキンケア|クリニック,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,肌 の バリア 機能 を 高める スキンケア,100.0,related_queries:rising,3,スキンケア,,肌 の バリア 機能 を 高める スキンケア,肌|バリア|機能|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,皮脂 抑制 スキンケア,80.0,related_queries:rising,4,スキンケア,,皮脂 抑制 スキンケア,皮脂|抑制|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,スキンケア クリーム ティント,60.0,related_queries:rising,5,スキンケア,,スキンケア クリーム ティント,スキンケア|クリーム|ティント,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア
-2026-04-17,ダイエット レシピ,100.0,related_queries:top,1,ダイエット,,ダイエット レシピ,ダイエット|レシピ,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,ダイエット カロリー,75.0,related_queries:top,2,ダイエット,,ダイエット カロリー,ダイエット|カロリー,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,ダイエット ご飯,43.0,related_queries:top,3,ダイエット,,ダイエット ご飯,ダイエット|御飯,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,ダイエット メニュー,39.0,related_queries:top,4,ダイエット,,ダイエット メニュー,ダイエット|メニュー,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,ダイエット 食事,38.0,related_queries:top,5,ダイエット,,ダイエット 食事,ダイエット|食事,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,川口 春奈 ダイエット,100.0,related_queries:rising,1,ダイエット,,川口 春奈 ダイエット,川口|春奈|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,メシダ ダイエット,100.0,related_queries:rising,2,ダイエット,,メシダ ダイエット,メシダ|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,たけのこ ダイエット,100.0,related_queries:rising,3,ダイエット,,たけのこ ダイエット,竹の子|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,オオバコ ダイエット,100.0,related_queries:rising,4,ダイエット,,オオバコ ダイエット,車前草|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット
-2026-04-17,マンジャロ と は,50.0,related_queries:rising,5,ダイエット,,マンジャロ と は,マンジャロ,sudachi,美容・メイク,0.6125,keyword_fallback,ダイエット
-2026-04-17,メンズ ファッション,100.0,related_queries:top,1,ファッション,,メンズ ファッション,メンズ|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,楽天 ファッション,85.0,related_queries:top,2,ファッション,,楽天 ファッション,楽天|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,レディース ファッション,47.0,related_queries:top,3,ファッション,,レディース ファッション,レディース|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,ファッション ブランド,44.0,related_queries:top,4,ファッション,,ファッション ブランド,ファッション|ブランド,sudachi,ファッション,0.95,keyword_fallback,ファッション|ブランド
-2026-04-17,オールド ファッション,40.0,related_queries:top,5,ファッション,,オールド ファッション,オールド|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,ファスト ファッション 問題 点,100.0,related_queries:rising,1,ファッション,,ファスト ファッション 問題 点,ファスト|ファッション|問題|点,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,楽天 ファッション cm 女性,100.0,related_queries:rising,2,ファッション,,楽天 ファッション cm 女性,楽天|ファッション|cm|女性,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,nigo ファッション,100.0,related_queries:rising,3,ファッション,,nigo ファッション,nigo|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,楽天 ファッション cm,100.0,related_queries:rising,4,ファッション,,楽天 ファッション cm,楽天|ファッション|cm,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,icchi ファッション カラビナ マスコット チャーム,100.0,related_queries:rising,5,ファッション,,icchi ファッション カラビナ マスコット チャーム,icchi|ファッション|カラビナ|マスコット|チャーム,sudachi,ファッション,0.8,keyword_fallback,ファッション
-2026-04-17,メンズ コーデ,100.0,related_queries:top,1,コーデ,,メンズ コーデ,メンズ|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,シャツ コーデ,91.0,related_queries:top,2,コーデ,,シャツ コーデ,シャツ|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,ジャケット コーデ,43.0,related_queries:top,3,コーデ,,ジャケット コーデ,ジャケット|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,デニム コーデ,40.0,related_queries:top,4,コーデ,,デニム コーデ,デニム|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,ユニクロ コーデ,19.0,related_queries:top,5,コーデ,,ユニクロ コーデ,ユニクロ|コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ|ユニクロ
-2026-04-17,授業 参観 コーデ,100.0,related_queries:rising,1,コーデ,,授業 参観 コーデ,授業|参観|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,参観 日 コーデ,100.0,related_queries:rising,2,コーデ,,参観 日 コーデ,参観|日|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,シアー シャツ コーデ,60.0,related_queries:rising,3,コーデ,,シアー シャツ コーデ,シアー|シャツ|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,メンズ 夏 コーデ,60.0,related_queries:rising,4,コーデ,,メンズ 夏 コーデ,メンズ|夏|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,バウンド コーデ,60.0,related_queries:rising,5,コーデ,,バウンド コーデ,バウンド|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ
-2026-04-17,スニーカー レディース,100.0,related_queries:top,1,スニーカー,,スニーカー レディース,スニーカー|レディース,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,スニーカー ニューバランス,70.0,related_queries:top,2,スニーカー,,スニーカー ニューバランス,スニーカー|ニュー|バランス,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,ニューバランス,67.0,related_queries:top,3,スニーカー,,ニューバランス,ニュー|バランス,sudachi,ファッション,0.6125,keyword_fallback,スニーカー
-2026-04-17,メンズ スニーカー,65.0,related_queries:top,4,スニーカー,,メンズ スニーカー,メンズ|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,スニーカー サンダル,51.0,related_queries:top,5,スニーカー,,スニーカー サンダル,スニーカー|サンダル,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,new balance ニューバランス made in uk 991v2 メイド イン uk u991bk2 スニーカー ブラック x グレー 27.5 cm ニューバランス,100.0,related_queries:rising,1,スニーカー,,new balance ニューバランス made in uk 991v2 メイド イン uk u991bk2 スニーカー ブラック x グレー 27 5 cm ニューバランス,new balance|ニュー|バランス|メード|in|uk|991|v|2|イン|u|bk|スニーカー|ブラック|x|グレー|27|5|cm,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,hameleon スニーカー,100.0,related_queries:rising,2,スニーカー,,hameleon スニーカー,hameleon|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,ノース フェイス サンダル スニーカー,100.0,related_queries:rising,3,スニーカー,,ノース フェイス サンダル スニーカー,ノース|フェイス|サンダル|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,ホカ スニーカー,100.0,related_queries:rising,4,スニーカー,,ホカ スニーカー,他|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,コロンビア スニーカー サンダル,100.0,related_queries:rising,5,スニーカー,,コロンビア スニーカー サンダル,コロンビア|スニーカー|サンダル,sudachi,ファッション,0.8,keyword_fallback,スニーカー
-2026-04-17,トート バッグ,100.0,related_queries:top,1,バッグ,,トート バッグ,トート|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,ショルダー バッグ,73.0,related_queries:top,2,バッグ,,ショルダー バッグ,ショルダー|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,エコ バッグ,35.0,related_queries:top,3,バッグ,,エコ バッグ,エコ|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,メンズ バッグ,29.0,related_queries:top,4,バッグ,,メンズ バッグ,メンズ|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,ブランド バッグ,26.0,related_queries:top,5,バッグ,,ブランド バッグ,ブランド|バッグ,sudachi,ファッション,0.95,keyword_fallback,バッグ|ブランド
-2026-04-17,minitmute バッグ,100.0,related_queries:rising,1,バッグ,,minitmute バッグ,minitmute|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,カルディ エコ バッグ,100.0,related_queries:rising,2,バッグ,,カルディ エコ バッグ,カルディ|エコ|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,ドロー ストリング バッグ,100.0,related_queries:rising,3,バッグ,,ドロー ストリング バッグ,ドロー|ストリング|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,カフェ イン,100.0,related_queries:top,1,カフェ,,カフェ イン,カフェ|イン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,コン カフェ,44.0,related_queries:top,2,カフェ,,コン カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,近く カフェ,40.0,related_queries:top,3,カフェ,,近く カフェ,近く|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,カフェ オレ,26.0,related_queries:top,4,カフェ,,カフェ オレ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,京都 カフェ,24.0,related_queries:top,5,カフェ,,京都 カフェ,京都|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,焼き芋 カフェ 虹,100.0,related_queries:rising,1,カフェ,,焼き芋 カフェ 虹,焼き芋|カフェ|虹,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,gariguette カフェ 表参道 ミルフィーユ 専門 店,100.0,related_queries:rising,2,カフェ,,gariguette カフェ 表参道 ミルフィーユ 専門 店,gariguette|カフェ|表参道|ミルフィーユ|専門|店,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,アンティコ カフェ 店舗,100.0,related_queries:rising,3,カフェ,,アンティコ カフェ 店舗,アンティコ|カフェ|店舗,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,アンティコ カフェ,100.0,related_queries:rising,4,カフェ,,アンティコ カフェ,アンティコ|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,マチ カフェ プラス,100.0,related_queries:rising,5,カフェ,,マチ カフェ プラス,マチ|カフェ|プラス,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ
-2026-04-17,孤独 の グルメ,100.0,related_queries:top,1,グルメ,,孤独 の グルメ,孤独|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,ホットペッパー グルメ,75.0,related_queries:top,2,グルメ,,ホットペッパー グルメ,ホット|ペッパー|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,ホットペッパー,73.0,related_queries:top,3,グルメ,,ホットペッパー,ホット|ペッパー,sudachi,食（カフェ・グルメ）,0.6125,keyword_fallback,グルメ
-2026-04-17,せっかく グルメ,23.0,related_queries:top,4,グルメ,,せっかく グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,東京 グルメ,21.0,related_queries:top,5,グルメ,,東京 グルメ,東京|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,京都 グルメ タクシー 岩間 さん,100.0,related_queries:rising,1,グルメ,,京都 グルメ タクシー 岩間 さん,京都|グルメ|タクシー|岩間,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,京都 グルメ タクシー,100.0,related_queries:rising,2,グルメ,,京都 グルメ タクシー,京都|グルメ|タクシー,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,グルメ シティ 小林 店,100.0,related_queries:rising,3,グルメ,,グルメ シティ 小林 店,グルメ|シティー|小林|店,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,京都 おすすめ グルメ,70.0,related_queries:rising,4,グルメ,,京都 おすすめ グルメ,京都|御勧め|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,異 世界 メイド の 三ツ星 グルメ,70.0,related_queries:rising,5,グルメ,,異 世界 メイド の 三ツ星 グルメ,異|世界|メード|三ツ星|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ
-2026-04-17,近く ラーメン,100.0,related_queries:top,1,ラーメン,,近く ラーメン,近く|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,家系 ラーメン,97.0,related_queries:top,2,ラーメン,,家系 ラーメン,家系|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,味噌 ラーメン,96.0,related_queries:top,3,ラーメン,,味噌 ラーメン,味噌|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,ラーメン 二郎,94.0,related_queries:top,4,ラーメン,,ラーメン 二郎,ラーメン|二郎,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,ラーメン ショップ,75.0,related_queries:top,5,ラーメン,,ラーメン ショップ,ラーメン|ショップ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,炭焼き あご だし 醤油 ラーメン,100.0,related_queries:rising,1,ラーメン,,炭焼き あご だし 醤油 ラーメン,炭焼き|あご|だし|醤油|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,ぬ ま ちゃん ラーメン,100.0,related_queries:rising,2,ラーメン,,ぬ ま ちゃん ラーメン,ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,佐野 ラーメン 田村 屋,100.0,related_queries:rising,3,ラーメン,,佐野 ラーメン 田村 屋,佐野|ラーメン|田村,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,ざぼん ラーメン,100.0,related_queries:rising,4,ラーメン,,ざぼん ラーメン,ざ|ぼん|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,タピオカ ラーメン,100.0,related_queries:rising,5,ラーメン,,タピオカ ラーメン,タピオカ|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン
-2026-04-17,ローソン スイーツ,100.0,related_queries:top,1,スイーツ,,ローソン スイーツ,ローソン|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,ローソン,99.0,related_queries:top,2,スイーツ,,ローソン,ローソン,sudachi,食（カフェ・グルメ）,0.6125,keyword_fallback,スイーツ
-2026-04-17,東京 スイーツ,83.0,related_queries:top,3,スイーツ,,東京 スイーツ,東京|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,ファミマ スイーツ,78.0,related_queries:top,4,スイーツ,,ファミマ スイーツ,ファミマ|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,ファミマ,78.0,related_queries:top,5,スイーツ,,ファミマ,ファミマ,sudachi,食（カフェ・グルメ）,0.6125,keyword_fallback,スイーツ
-2026-04-17,パパ バーグ ママ スイーツ,100.0,related_queries:rising,1,スイーツ,,パパ バーグ ママ スイーツ,パパ|バーグ|ママ|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,スイーツ ラボ ミルク,100.0,related_queries:rising,2,スイーツ,,スイーツ ラボ ミルク,スイーツ|ラボ|ミルク,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,京都 食べ物 スイーツ,100.0,related_queries:rising,3,スイーツ,,京都 食べ物 スイーツ,京都|食べ物|スイーツ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,食|スイーツ
-2026-04-17,ひがし 茶屋 街 スイーツ,100.0,related_queries:rising,4,スイーツ,,ひがし 茶屋 街 スイーツ,ひがし|茶屋|街|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,京都 抹茶 スイーツ,90.0,related_queries:rising,5,スイーツ,,京都 抹茶 スイーツ,京都|抹茶|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ
-2026-04-17,たけのこ レシピ,100.0,related_queries:top,1,レシピ,,たけのこ レシピ,竹の子|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,キャベツ レシピ,64.0,related_queries:top,2,レシピ,,キャベツ レシピ,キャベツ|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,豚肉 レシピ,56.0,related_queries:top,3,レシピ,,豚肉 レシピ,豚肉|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,玉ねぎ レシピ,51.0,related_queries:top,4,レシピ,,玉ねぎ レシピ,玉葱|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,豆腐 レシピ,51.0,related_queries:top,5,レシピ,,豆腐 レシピ,豆腐|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,メンマ レシピ,100.0,related_queries:rising,1,レシピ,,メンマ レシピ,麺麻|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,たけのこ レシピ,100.0,related_queries:rising,2,レシピ,,たけのこ レシピ,竹の子|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,たけのこ 煮物 レシピ,100.0,related_queries:rising,3,レシピ,,たけのこ 煮物 レシピ,竹の子|煮物|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,たけのこ ご飯 レシピ,100.0,related_queries:rising,4,レシピ,,たけのこ ご飯 レシピ,竹の子|御飯|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,筍 ご飯 レシピ,100.0,related_queries:rising,5,レシピ,,筍 ご飯 レシピ,竹の子|御飯|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ
-2026-04-17,日帰り 温泉,100.0,related_queries:top,1,温泉,,日帰り 温泉,日帰り|温泉,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,大 江戸 温泉,63.0,related_queries:top,2,温泉,,大 江戸 温泉,江戸|温泉,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,大 江戸 温泉 物語,42.0,related_queries:top,3,温泉,,大 江戸 温泉 物語,江戸|温泉|物語,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,草津 温泉,37.0,related_queries:top,4,温泉,,草津 温泉,草津|温泉,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,有馬 温泉,30.0,related_queries:top,5,温泉,,有馬 温泉,有馬|温泉,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,山形 うわ の 温泉 天神 乃湯,100.0,related_queries:rising,1,温泉,,山形 うわ の 温泉 天神 乃湯,山形|温泉|天神|湯,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,雲見 温泉 浜 道楽,100.0,related_queries:rising,2,温泉,,雲見 温泉 浜 道楽,雲見|温泉|浜|道楽,sudachi,旅行,0.8,keyword_fallback,温泉
-2026-04-17,京都 行方 不明,100.0,related_queries:top,1,京都,,京都 行方 不明,京都|行方|不明,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生,87.0,related_queries:top,2,京都,,京都 小学生,京都|小学生,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 行方 不明,75.0,related_queries:top,3,京都,,京都 小学生 行方 不明,京都|小学生|行方|不明,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 父親,41.0,related_queries:top,4,京都,,京都 父親,京都|父親,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 父親,32.0,related_queries:top,5,京都,,京都 小学生 父親,京都|小学生|父親,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 行方 不明 父親 外国 人,100.0,related_queries:rising,1,京都,,京都 小学生 行方 不明 父親 外国 人,京都|小学生|行方|不明|父親|外国|人,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 行方 不明 父親 と は,100.0,related_queries:rising,2,京都,,京都 小学生 行方 不明 父親 と は,京都|小学生|行方|不明|父親,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 死因,100.0,related_queries:rising,3,京都,,京都 小学生 死因,京都|小学生|死因,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 父親 動機,100.0,related_queries:rising,4,京都,,京都 小学生 父親 動機,京都|小学生|父親|動機,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,京都 小学生 行方 不明 死因,100.0,related_queries:rising,5,京都,,京都 小学生 行方 不明 死因,京都|小学生|行方|不明|死因,sudachi,旅行,0.8,keyword_fallback,京都
-2026-04-17,沖縄 ホテル,100.0,related_queries:top,1,沖縄,,沖縄 ホテル,沖縄|ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル|沖縄
-2026-04-17,沖縄 天気,80.0,related_queries:top,2,沖縄,,沖縄 天気,沖縄|天気,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,沖縄 飛行機,48.0,related_queries:top,3,沖縄,,沖縄 飛行機,沖縄|飛行機,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,沖縄 旅行,40.0,related_queries:top,4,沖縄,,沖縄 旅行,沖縄|旅行,sudachi,旅行,0.95,keyword_fallback,旅行|沖縄
-2026-04-17,沖縄 空港,38.0,related_queries:top,5,沖縄,,沖縄 空港,沖縄|空港,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,沖縄 ステーキ 食中毒,100.0,related_queries:rising,1,沖縄,,沖縄 ステーキ 食中毒,沖縄|ステーキ|食中毒,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,沖縄 ステーキ ハウス 食中毒,100.0,related_queries:rising,2,沖縄,,沖縄 ステーキ ハウス 食中毒,沖縄|ステーキ|ハウス|食中毒,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,沖縄 銀行 強盗,100.0,related_queries:rising,3,沖縄,,沖縄 銀行 強盗,沖縄|銀行|強盗,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,沖縄 ミシェル,100.0,related_queries:rising,4,沖縄,,沖縄 ミシェル,沖縄|ミシェール,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,ミッシェル 沖縄,100.0,related_queries:rising,5,沖縄,,ミッシェル 沖縄,ミシェール|沖縄,sudachi,旅行,0.8,keyword_fallback,沖縄
-2026-04-17,推し 活,100.0,related_queries:top,1,推し活,,推し 活,活,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,推し,99.0,related_queries:top,2,推し活,,推し,推し,sudachi,芸能・推し,0.8,keyword_fallback,推し
-2026-04-17,推し 活 リクエスト,9.0,related_queries:top,3,推し活,,推し 活 リクエスト,活|リクエスト,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,推し 活 グッズ,7.0,related_queries:top,4,推し活,,推し 活 グッズ,活|グッズ,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,推し 活 バッグ,6.0,related_queries:top,5,推し活,,推し 活 バッグ,活|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ
-2026-04-17,推し 活 expo,100.0,related_queries:rising,1,推し活,,推し 活 expo,活|エキスポ,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,lowya 推し 活 収納,100.0,related_queries:rising,2,推し活,,lowya 推し 活 収納,lowya|活|収納,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,百 均 推し 活 グッズ,100.0,related_queries:rising,3,推し活,,百 均 推し 活 グッズ,100|均|活|グッズ,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,joysound 推し 活 ルーム,100.0,related_queries:rising,4,推し活,,joysound 推し 活 ルーム,joysound|活|ルーム,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,ビック エコー 推し 活 ルーム,70.0,related_queries:rising,5,推し活,,ビック エコー 推し 活 ルーム,ビック|エコー|活|ルーム,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,ラスト アイドル,100.0,related_queries:top,1,アイドル,,ラスト アイドル,ラスト|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,ラスト シーン アイドル,99.0,related_queries:top,2,アイドル,,ラスト シーン アイドル,ラスト|シーン|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,韓国 アイドル,39.0,related_queries:top,3,アイドル,,韓国 アイドル,韓国|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,アイドル マスター,33.0,related_queries:top,4,アイドル,,アイドル マスター,アイドル|マスター,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,グラビア,33.0,related_queries:top,5,アイドル,,グラビア,グラビア,sudachi,芸能・推し,0.6125,keyword_fallback,アイドル
-2026-04-17,ラスト シーン アイドル,100.0,related_queries:rising,1,アイドル,,ラスト シーン アイドル,ラスト|シーン|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,アイマス 好き な アイドル,100.0,related_queries:rising,2,アイドル,,アイマス 好き な アイドル,アイマス|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,江戸川 区 アイドル 襲撃,100.0,related_queries:rising,3,アイドル,,江戸川 区 アイドル 襲撃,江戸|川|アイドル|襲撃,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,江戸川 区 アイドル 事件,100.0,related_queries:rising,4,アイドル,,江戸川 区 アイドル 事件,江戸|川|アイドル|事件,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,江戸川 区 アイドル 襲撃 事件,100.0,related_queries:rising,5,アイドル,,江戸川 区 アイドル 襲撃 事件,江戸|川|アイドル|襲撃|事件,sudachi,芸能・推し,0.8,keyword_fallback,アイドル
-2026-04-17,bts,100.0,related_queries:top,1,k-pop,,bts,bts,sudachi,芸能・推し,0.6125,keyword_fallback,k-pop
-2026-04-17,k-pop demon hunters,93.0,related_queries:top,2,k-pop,,k-pop demon hunters,k|pop|デーモン|hunters,sudachi,芸能・推し,0.65,keyword_fallback,k-pop
-2026-04-17,韓国,48.0,related_queries:top,3,k-pop,,韓国,韓国,sudachi,芸能・推し,0.6125,keyword_fallback,k-pop
-2026-04-17,k-pop generation,38.0,related_queries:top,4,k-pop,,k-pop generation,k|pop|ジェネレーション,sudachi,芸能・推し,0.65,keyword_fallback,k-pop
-2026-04-17,k pop アイドル,25.0,related_queries:top,5,k-pop,,k pop アイドル,k|pop|アイドル,sudachi,芸能・推し,0.9125,keyword_fallback,アイドル|k-pop
-2026-04-17,guerreiras do k-pop,100.0,related_queries:rising,1,k-pop,,guerreiras do k-pop,guerreiras|do|k|pop,sudachi,芸能・推し,0.65,keyword_fallback,k-pop
-2026-04-17,アニメ 無料,100.0,related_queries:top,1,アニメ,,アニメ 無料,アニメ|無料,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,アニメ キャラ,94.0,related_queries:top,2,アニメ,,アニメ キャラ,アニメ|キャラ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,アニメ 2026,78.0,related_queries:top,3,アニメ,,アニメ 2026,アニメ|2026,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,コナン アニメ,70.0,related_queries:top,4,アニメ,,コナン アニメ,コナン|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,アニメ 映画,64.0,related_queries:top,5,アニメ,,アニメ 映画,アニメ|映画,sudachi,芸能・推し,0.8,keyword_fallback,映画
-2026-04-17,bloodborne アニメ,100.0,related_queries:rising,1,アニメ,,bloodborne アニメ,bloodborne|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,ブラッド ボーン アニメ 化,100.0,related_queries:rising,2,アニメ,,ブラッド ボーン アニメ 化,ブラッド|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,ブラッド ボーン アニメ,100.0,related_queries:rising,3,アニメ,,ブラッド ボーン アニメ,ブラッド|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,パン どろぼう アニメ,100.0,related_queries:rising,4,アニメ,,パン どろぼう アニメ,パン|泥棒|アニメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,パン
-2026-04-17,萩原 千 速 登場 回 アニメ,100.0,related_queries:rising,5,アニメ,,萩原 千 速 登場 回 アニメ,萩原|千|速|登場|回|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,漫画 無料,100.0,related_queries:top,1,漫画,,漫画 無料,漫画|無料,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,モモンガ,14.0,related_queries:top,2,漫画,,モモンガ,ももんが,sudachi,アニメ・漫画,0.6125,keyword_fallback,漫画
-2026-04-17,少女 漫画,11.0,related_queries:top,3,漫画,,少女 漫画,少女|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,異 世界 漫画,10.0,related_queries:top,4,漫画,,異 世界 漫画,異|世界|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,九条 の 大罪 漫画,9.0,related_queries:top,5,漫画,,九条 の 大罪 漫画,9|条|大罪|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,春泥 漫画 家,100.0,related_queries:rising,1,漫画,,春泥 漫画 家,春泥|漫画|家,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,メイド の ベル 漫画,100.0,related_queries:rising,2,漫画,,メイド の ベル 漫画,メード|ベル|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,箱 の 男 漫画 ネタバレ,100.0,related_queries:rising,3,漫画,,箱 の 男 漫画 ネタバレ,箱|男|漫画|ねたばれ,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,箱 の 男 漫画 最終 回 ネタバレ,90.0,related_queries:rising,4,漫画,,箱 の 男 漫画 最終 回 ネタバレ,箱|男|漫画|最終|回|ねたばれ,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,日本 三国 漫画,70.0,related_queries:rising,5,漫画,,日本 三国 漫画,日本|3|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画
-2026-04-17,コナン 声優,100.0,related_queries:top,1,声優,,コナン 声優,コナン|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,コナン 映画 声優,19.0,related_queries:top,2,声優,,コナン 映画 声優,コナン|映画|声優,sudachi,芸能・推し,0.8,keyword_fallback,映画
-2026-04-17,安室 声優,16.0,related_queries:top,3,声優,,安室 声優,安室|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,ハイウェイ の 堕 天使 声優,16.0,related_queries:top,4,声優,,ハイウェイ の 堕 天使 声優,ハイウエー|堕|天使|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,コナン ゲスト 声優,14.0,related_queries:top,5,声優,,コナン ゲスト 声優,コナン|ゲスト|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,ハロウィン の 花嫁 クリスティーヌ 声優,100.0,related_queries:rising,1,声優,,ハロウィン の 花嫁 クリスティーヌ 声優,ハロウィーン|花嫁|クリスティーヌ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,ハロウィン の 花嫁 エレニカ 声優,100.0,related_queries:rising,2,声優,,ハロウィン の 花嫁 エレニカ 声優,ハロウィーン|花嫁|エレニカ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,コナン クリスティーヌ 声優,100.0,related_queries:rising,3,声優,,コナン クリスティーヌ 声優,コナン|クリスティーヌ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,エレニカ 声優,100.0,related_queries:rising,4,声優,,エレニカ 声優,エレニカ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,プラーミャ 声優,100.0,related_queries:rising,5,声優,,プラーミャ 声優,プラーミャ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優
-2026-04-17,ジャンプ プラス,100.0,related_queries:top,1,ジャンプ,,ジャンプ プラス,ジャンプ|プラス,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,ヤング ジャンプ,58.0,related_queries:top,2,ジャンプ,,ヤング ジャンプ,ヤング|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,となり の ヤング ジャンプ,43.0,related_queries:top,3,ジャンプ,,となり の ヤング ジャンプ,隣|ヤング|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,平成 ジャンプ,29.0,related_queries:top,4,ジャンプ,,平成 ジャンプ,平成|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,ジャンプ ショップ,28.0,related_queries:top,5,ジャンプ,,ジャンプ ショップ,ジャンプ|ショップ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,中島 裕 翔 結婚,100.0,related_queries:rising,1,ジャンプ,,中島 裕 翔 結婚,中島|裕|翔|結婚,sudachi,恋愛,0.8,keyword_fallback,結婚
-2026-04-17,中山 グランド ジャンプ 予想,100.0,related_queries:rising,2,ジャンプ,,中山 グランド ジャンプ 予想,中山|グランド|ジャンプ|予想,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,中山 グランド ジャンプ 過去,100.0,related_queries:rising,3,ジャンプ,,中山 グランド ジャンプ 過去,中山|グランド|ジャンプ|過去,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,平成 ジャンプ 中島 裕 翔,100.0,related_queries:rising,4,ジャンプ,,平成 ジャンプ 中島 裕 翔,平成|ジャンプ|中島|裕|翔,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,中島 平成 ジャンプ,100.0,related_queries:rising,5,ジャンプ,,中島 平成 ジャンプ,中島|平成|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ
-2026-04-17,推し の 子,100.0,related_queries:top,1,推しの子,,推し の 子,子,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,推し の 子 アニメ,8.0,related_queries:top,2,推しの子,,推し の 子 アニメ,子|アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ|推しの子
-2026-04-17,推し の 子 3 期,7.0,related_queries:top,3,推しの子,,推し の 子 3 期,子|3|期,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,推し の 子 漫画,5.0,related_queries:top,4,推しの子,,推し の 子 漫画,子|漫画,sudachi,アニメ・漫画,0.95,keyword_fallback,漫画|推しの子
-2026-04-17,推し の 子 ルビー,4.0,related_queries:top,5,推しの子,,推し の 子 ルビー,子|ルビー,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,齊藤 なぎさ,70.0,related_queries:rising,1,推しの子,,齊藤 なぎさ,齊藤|なぎさ,sudachi,芸能・推し,0.6125,keyword_fallback,推し
-2026-04-17,推し の 子 父親,50.0,related_queries:rising,2,推しの子,,推し の 子 父親,子|父親,sudachi,芸能・推し,0.65,keyword_fallback,推し
-2026-04-17,原 菜乃 華,40.0,related_queries:rising,3,推しの子,,原 菜乃 華,原|菜乃|華,sudachi,芸能・推し,0.6125,keyword_fallback,推し
-2026-04-17,五 等 分 の 花嫁,40.0,related_queries:rising,4,推しの子,,五 等 分 の 花嫁,5|等|分|花嫁,sudachi,芸能・推し,0.6125,keyword_fallback,推し
-2026-04-17,ゲーム 無料,100.0,related_queries:top,1,ゲーム,,ゲーム 無料,ゲーム|無料,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,google ゲーム,22.0,related_queries:top,2,ゲーム,,google ゲーム,google|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,ヘビ ゲーム,20.0,related_queries:top,3,ゲーム,,ヘビ ゲーム,蛇|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,ゲーム センター,20.0,related_queries:top,4,ゲーム,,ゲーム センター,ゲーム|センター,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,クレーン ゲーム,17.0,related_queries:top,5,ゲーム,,クレーン ゲーム,クレーン|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,遊 戯 王 オフィシャル カード ゲーム,100.0,related_queries:rising,1,ゲーム,,遊 戯 王 オフィシャル カード ゲーム,遊|戯れ|王|カード|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,愛し てる ゲーム を 終わら せ たい,100.0,related_queries:rising,2,ゲーム,,愛し てる ゲーム を 終わら せ たい,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,愛し てる ゲーム を 終わら せ たい アニメ,100.0,related_queries:rising,3,ゲーム,,愛し てる ゲーム を 終わら せ たい アニメ,ゲーム|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ
-2026-04-17,まち針 ゲーム,90.0,related_queries:rising,4,ゲーム,,まち針 ゲーム,待ち針|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,タイピング ゲーム,80.0,related_queries:rising,5,ゲーム,,タイピング ゲーム,タイピング|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム
-2026-04-17,トモコレ switch,100.0,related_queries:top,1,switch,,トモコレ switch,トモコレ|スイッチ,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,トモコレ,98.0,related_queries:top,2,switch,,トモコレ,トモコレ,sudachi,ゲーム,0.6125,keyword_fallback,switch
-2026-04-17,switch ゲーム,79.0,related_queries:top,3,switch,,switch ゲーム,スイッチ|ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|switch
-2026-04-17,switch2,74.0,related_queries:top,4,switch,,switch2,スイッチ|2,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,nintendo switch,67.0,related_queries:top,5,switch,,nintendo switch,nintendo|スイッチ,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,hades ii nintendo switch 2 edition,100.0,related_queries:rising,1,switch,,hades ii nintendo switch 2 edition,ハデス|ii|nintendo|スイッチ|2|エディション,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,ドキサバ switch,100.0,related_queries:rising,2,switch,,ドキサバ switch,ドキサバ|スイッチ,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,バニー ガーデン 2 switch 規制,100.0,related_queries:rising,3,switch,,バニー ガーデン 2 switch 規制,バニー|ガーデン|2|スイッチ|規制,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,switch タッチペン 代用,100.0,related_queries:rising,4,switch,,switch タッチペン 代用,スイッチ|タッチペン|代用,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,トモコレ switch ダウンロード 版,100.0,related_queries:rising,5,switch,,トモコレ switch ダウンロード 版,トモコレ|スイッチ|ダウンロード|版,sudachi,ゲーム,0.65,keyword_fallback,switch
-2026-04-17,ps5 ゲーム,100.0,related_queries:top,1,ps5,,ps5 ゲーム,ps|5|ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|ps5
-2026-04-17,ps5 コントローラー,84.0,related_queries:top,2,ps5,,ps5 コントローラー,ps|5|コントローラー,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,ps4,50.0,related_queries:top,3,ps5,,ps4,ps|4,sudachi,ゲーム,0.6125,keyword_fallback,ps5
-2026-04-17,ps5 ソフト,42.0,related_queries:top,4,ps5,,ps5 ソフト,ps|5|ソフト,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,ps5 おすすめ,40.0,related_queries:top,5,ps5,,ps5 おすすめ,ps|5|御勧め,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,ps5 セーブ データ を ダウンロード できません,100.0,related_queries:rising,1,ps5,,ps5 セーブ データ を ダウンロード できません,ps|5|セーブ|データ|ダウンロード,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,星 の 翼 ps5 アケコン,100.0,related_queries:rising,2,ps5,,星 の 翼 ps5 アケコン,星|翼|ps|5|アケコン,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,windrose ps5,100.0,related_queries:rising,3,ps5,,windrose ps5,windrose|ps|5,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,ウィンド ローズ ps5,100.0,related_queries:rising,4,ps5,,ウィンド ローズ ps5,ウインド|ローズ|ps|5,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,モンギル ps5,100.0,related_queries:rising,5,ps5,,モンギル ps5,モンギル|ps|5,sudachi,ゲーム,0.65,keyword_fallback,ps5
-2026-04-17,モンハン ライズ,100.0,related_queries:top,1,モンハン,,モンハン ライズ,モンハン|ライズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン ストーリーズ,74.0,related_queries:top,2,モンハン,,モンハン ストーリーズ,モンハン|ストーリーズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン ワイルズ,64.0,related_queries:top,3,モンハン,,モンハン ワイルズ,モンハン|ワイルズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン ストーリーズ 3,50.0,related_queries:top,4,モンハン,,モンハン ストーリーズ 3,モンハン|ストーリーズ|3,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン サン ブレイク,34.0,related_queries:top,5,モンハン,,モンハン サン ブレイク,モンハン|サン|ブレーク,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン ワイルズ クラヤミ ゲッコー,100.0,related_queries:rising,1,モンハン,,モンハン ワイルズ クラヤミ ゲッコー,モンハン|ワイルズ|クラヤミ|ゲッコー,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,山本 昌 モンハン,100.0,related_queries:rising,2,モンハン,,山本 昌 モンハン,山本|昌|モンハン,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン now セルレギオス,70.0,related_queries:rising,3,モンハン,,モンハン now セルレギオス,モンハン|ナウ|セルレギオス,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,ユニバ モンハン グッズ,60.0,related_queries:rising,4,モンハン,,ユニバ モンハン グッズ,ユニバ|モンハン|グッズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン
-2026-04-17,モンハン 酒場,60.0,related_queries:rising,5,モンハン,,モンハン 酒場,モンハン|酒場,sudachi,ゲーム,0.8,keyword_fallback,モンハン
+﻿date,keyword,score,source,rank,related_to,related_terms,normalized_keyword,nouns,tokenizer,topic,confidence,classification_method,matched_keywords,audience_segment,audience_confidence,audience_method,audience_matched_keywords
+2026-04-17,デート スポット,100.0,related_queries:top,1,デート,,デート スポット,デート|スポット,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,
+2026-04-17,東京 デート,48.0,related_queries:top,2,デート,,東京 デート,東京|デート,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,
+2026-04-17,デート おすすめ,35.0,related_queries:top,3,デート,,デート おすすめ,デート|御勧め,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,
+2026-04-17,バチェラー デート,32.0,related_queries:top,4,デート,,バチェラー デート,バチェラー|デート,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,
+2026-04-17,映画 デート,29.0,related_queries:top,5,デート,,映画 デート,映画|デート,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,
+2026-04-17,ゴールデンウィーク デート,40.0,related_queries:rising,1,デート,,ゴールデンウィーク デート,ゴールデンウィーク|デート,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,
+2026-04-17,婚 活 パーティー,100.0,related_queries:top,1,婚活,,婚 活 パーティー,婚|活|パーティー,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,婚 活 アプリ,31.0,related_queries:top,2,婚活,,婚 活 アプリ,婚|活|アプリ,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,婚 活 イベント,20.0,related_queries:top,3,婚活,,婚 活 イベント,婚|活|イベント,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,婚 活 ツアー,19.0,related_queries:top,4,婚活,,婚 活 ツアー,婚|活|ツアー,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,婚 活 ブログ,19.0,related_queries:top,5,婚活,,婚 活 ブログ,婚|活|ブログ,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,ノン フィクション 婚 活 久保 さん その後,100.0,related_queries:rising,1,婚活,,ノン フィクション 婚 活 久保 さん その後,ノン|フィクション|婚|活|久保|その後,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,千 速 と 重 悟 の 婚 活 パーティー,60.0,related_queries:rising,2,婚活,,千 速 と 重 悟 の 婚 活 パーティー,1000|速|重|悟|婚|活|パーティー,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,ザノン フィクション 婚 活,60.0,related_queries:rising,3,婚活,,ザノン フィクション 婚 活,ザノン|フィクション|婚|活,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,ザノン フィクション,60.0,related_queries:rising,4,婚活,,ザノン フィクション,ザノン|フィクション,sudachi,芸能・推し,0.65,keyword_fallback,ノンフィクション,女性寄り,0.5625,keyword_signal,婚活
+2026-04-17,婚 活 バス ツアー 大阪,50.0,related_queries:rising,5,婚活,,婚 活 バス ツアー 大阪,婚|活|バス|ツアー|大阪,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活
+2026-04-17,復縁 占い,100.0,related_queries:top,1,復縁,,復縁 占い,復縁|占い,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,復縁 したい,72.0,related_queries:top,2,復縁,,復縁 したい,復縁,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,元 カノ 復縁,46.0,related_queries:top,3,復縁,,元 カノ 復縁,元|復縁,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,彼女 復縁,42.0,related_queries:top,4,復縁,,彼女 復縁,復縁,sudachi,恋愛,0.95,keyword_fallback,彼女|復縁,女性寄り,0.95,keyword_signal,女
+2026-04-17,復縁 連絡,34.0,related_queries:top,5,復縁,,復縁 連絡,復縁|連絡,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,ユミ の 細胞 たち ウン 復縁,100.0,related_queries:rising,1,復縁,,ユミ の 細胞 たち ウン 復縁,ユミ|細胞|たち|復縁,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,1212 エンジェル ナンバー 復縁,100.0,related_queries:rising,2,復縁,,1212 エンジェル ナンバー 復縁,1212|エンジェル|ナンバー|復縁,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,復縁 パワーストーン,100.0,related_queries:rising,3,復縁,,復縁 パワーストーン,復縁|パワー|ストーン,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,復縁 工作,100.0,related_queries:rising,4,復縁,,復縁 工作,復縁|工作,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,振っ た けど 復縁 したい,100.0,related_queries:rising,5,復縁,,振っ た けど 復縁 したい,復縁,sudachi,恋愛,0.8,keyword_fallback,復縁,中立・不明,0.25,keyword_signal,
+2026-04-17,美容 外科,100.0,related_queries:top,1,美容,,美容 外科,美容|外科,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,湘南 美容,85.0,related_queries:top,2,美容,,湘南 美容,湘南|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,美容 クリニック,74.0,related_queries:top,3,美容,,美容 クリニック,美容|クリニック,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,湘南 美容 外科,59.0,related_queries:top,4,美容,,湘南 美容 外科,湘南|美容|外科,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,美容 学校,32.0,related_queries:top,5,美容,,美容 学校,美容|学校,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,安達 結 希 母親 美容 師,100.0,related_queries:rising,1,美容,,安達 結 希 母親 美容 師,安達|結|希|母親|美容|師,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,美容 師 英語,40.0,related_queries:rising,2,美容,,美容 師 英語,美容|師|英語,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,
+2026-04-17,キャン メイク,100.0,related_queries:top,1,メイク,,キャン メイク,キャン|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,アート メイク,58.0,related_queries:top,2,メイク,,アート メイク,アート|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,アイ メイク,47.0,related_queries:top,3,メイク,,アイ メイク,アイ|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,メイク アップ,34.0,related_queries:top,4,メイク,,メイク アップ,メーク|アップ,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,メイク 落とし,34.0,related_queries:top,5,メイク,,メイク 落とし,メーク|落とし,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,クライシス メイク アップ,100.0,related_queries:rising,1,メイク,,クライシス メイク アップ,クライシス|メーク|アップ,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,マイクロ ビット メイク コード,100.0,related_queries:rising,2,メイク,,マイクロ ビット メイク コード,マイクロ|ビット|メーク|コード,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,トモダチ コレクション キャラ メイク,100.0,related_queries:rising,3,メイク,,トモダチ コレクション キャラ メイク,友達|コレクション|キャラ|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,rmk メイク レッスン,100.0,related_queries:rising,4,メイク,,rmk メイク レッスン,rmk|メーク|レッスン,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,トモコレ キャラ メイク,100.0,related_queries:rising,5,メイク,,トモコレ キャラ メイク,トモコレ|キャラ|メーク,sudachi,アニメ・漫画,0.8,keyword_fallback,トモコレ,女性寄り,0.6,keyword_signal,メイク
+2026-04-17,デコルテ,100.0,related_queries:top,1,コスメ,,デコルテ,デコルテ,sudachi,美容・メイク,0.9125,keyword_fallback,コスメ|デコルテ,女性寄り,0.5625,keyword_signal,コスメ
+2026-04-17,コスメ デコルテ,98.0,related_queries:top,2,コスメ,,コスメ デコルテ,コスメ|デコルテ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,アット コスメ,85.0,related_queries:top,3,コスメ,,アット コスメ,アット|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,韓国 コスメ,24.0,related_queries:top,4,コスメ,,韓国 コスメ,韓国|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,コスメ キッチン,23.0,related_queries:top,5,コスメ,,コスメ キッチン,コスメ|キッチン,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,コスメ キッチン 巾着,100.0,related_queries:rising,1,コスメ,,コスメ キッチン 巾着,コスメ|キッチン|巾着,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,コスメ デコルテ パウダー 予約,100.0,related_queries:rising,2,コスメ,,コスメ デコルテ パウダー 予約,コスメ|デコルテ|パウダー|予約,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,アット コスメ 錦糸 町,100.0,related_queries:rising,3,コスメ,,アット コスメ 錦糸 町,アット|コスメ|錦糸|町,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,コスメ デコルテ フェイス パウダー ミニ,80.0,related_queries:rising,4,コスメ,,コスメ デコルテ フェイス パウダー ミニ,コスメ|デコルテ|フェイス|パウダー|ミニ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,コスメ デコルテ 新宿,40.0,related_queries:rising,5,コスメ,,コスメ デコルテ 新宿,コスメ|デコルテ|新宿,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.75,keyword_signal,コスメ
+2026-04-17,スキンケア おすすめ,100.0,related_queries:top,1,スキンケア,,スキンケア おすすめ,スキンケア|御勧め,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,スキンケア クリーム,65.0,related_queries:top,2,スキンケア,,スキンケア クリーム,スキンケア|クリーム,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,メンズ スキンケア,62.0,related_queries:top,3,スキンケア,,メンズ スキンケア,メンズ|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,男性寄り,0.95,keyword_signal,メンズ|メンズスキンケア
+2026-04-17,スキンケア 順番,54.0,related_queries:top,4,スキンケア,,スキンケア 順番,スキンケア|順番,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,ニキビ スキンケア,50.0,related_queries:top,5,スキンケア,,ニキビ スキンケア,面皰|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,韓国 コスメ 人気 スキンケア 50 代,100.0,related_queries:rising,1,スキンケア,,韓国 コスメ 人気 スキンケア 50 代,韓国|コスメ|人気|スキンケア|50|代,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|スキンケア,女性寄り,0.95,keyword_signal,コスメ|スキンケア
+2026-04-17,こん スキンケア クリニック,100.0,related_queries:rising,2,スキンケア,,こん スキンケア クリニック,スキンケア|クリニック,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,肌 の バリア 機能 を 高める スキンケア,100.0,related_queries:rising,3,スキンケア,,肌 の バリア 機能 を 高める スキンケア,肌|バリア|機能|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,皮脂 抑制 スキンケア,80.0,related_queries:rising,4,スキンケア,,皮脂 抑制 スキンケア,皮脂|抑制|スキンケア,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,スキンケア クリーム ティント,60.0,related_queries:rising,5,スキンケア,,スキンケア クリーム ティント,スキンケア|クリーム|ティント,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア
+2026-04-17,ダイエット レシピ,100.0,related_queries:top,1,ダイエット,,ダイエット レシピ,ダイエット|レシピ,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,ダイエット カロリー,75.0,related_queries:top,2,ダイエット,,ダイエット カロリー,ダイエット|カロリー,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,ダイエット ご飯,43.0,related_queries:top,3,ダイエット,,ダイエット ご飯,ダイエット|御飯,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,ダイエット メニュー,39.0,related_queries:top,4,ダイエット,,ダイエット メニュー,ダイエット|メニュー,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,ダイエット 食事,38.0,related_queries:top,5,ダイエット,,ダイエット 食事,ダイエット|食事,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,川口 春奈 ダイエット,100.0,related_queries:rising,1,ダイエット,,川口 春奈 ダイエット,川口|春奈|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,メシダ ダイエット,100.0,related_queries:rising,2,ダイエット,,メシダ ダイエット,メシダ|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,たけのこ ダイエット,100.0,related_queries:rising,3,ダイエット,,たけのこ ダイエット,竹の子|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,オオバコ ダイエット,100.0,related_queries:rising,4,ダイエット,,オオバコ ダイエット,車前草|ダイエット,sudachi,美容・メイク,0.8,keyword_fallback,ダイエット,中立・不明,0.25,keyword_signal,
+2026-04-17,マンジャロ と は,50.0,related_queries:rising,5,ダイエット,,マンジャロ と は,マンジャロ,sudachi,健康・医療,0.8,keyword_fallback,マンジャロ,中立・不明,0.25,keyword_signal,
+2026-04-17,メンズ ファッション,100.0,related_queries:top,1,ファッション,,メンズ ファッション,メンズ|ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション|メンズ,男性寄り,0.95,keyword_signal,メンズ|メンズファッション
+2026-04-17,楽天 ファッション,85.0,related_queries:top,2,ファッション,,楽天 ファッション,楽天|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,
+2026-04-17,レディース ファッション,47.0,related_queries:top,3,ファッション,,レディース ファッション,レディース|ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション|レディース,女性寄り,0.95,keyword_signal,レディース|レディースファッション
+2026-04-17,ファッション ブランド,44.0,related_queries:top,4,ファッション,,ファッション ブランド,ファッション|ブランド,sudachi,ファッション,0.95,keyword_fallback,ファッション|ブランド,中立・不明,0.25,keyword_signal,
+2026-04-17,オールド ファッション,40.0,related_queries:top,5,ファッション,,オールド ファッション,オールド|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,
+2026-04-17,ファスト ファッション 問題 点,100.0,related_queries:rising,1,ファッション,,ファスト ファッション 問題 点,ファスト|ファッション|問題|点,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,
+2026-04-17,楽天 ファッション cm 女性,100.0,related_queries:rising,2,ファッション,,楽天 ファッション cm 女性,楽天|ファッション|cm|女性,sudachi,ファッション,0.8,keyword_fallback,ファッション,女性寄り,0.95,keyword_signal,女性|女
+2026-04-17,nigo ファッション,100.0,related_queries:rising,3,ファッション,,nigo ファッション,nigo|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,
+2026-04-17,楽天 ファッション cm,100.0,related_queries:rising,4,ファッション,,楽天 ファッション cm,楽天|ファッション|cm,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,
+2026-04-17,icchi ファッション カラビナ マスコット チャーム,100.0,related_queries:rising,5,ファッション,,icchi ファッション カラビナ マスコット チャーム,icchi|ファッション|カラビナ|マスコット|チャーム,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,
+2026-04-17,メンズ コーデ,100.0,related_queries:top,1,コーデ,,メンズ コーデ,メンズ|コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ|メンズ,男性寄り,0.95,keyword_signal,メンズ
+2026-04-17,シャツ コーデ,91.0,related_queries:top,2,コーデ,,シャツ コーデ,シャツ|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,ジャケット コーデ,43.0,related_queries:top,3,コーデ,,ジャケット コーデ,ジャケット|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,デニム コーデ,40.0,related_queries:top,4,コーデ,,デニム コーデ,デニム|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,ユニクロ コーデ,19.0,related_queries:top,5,コーデ,,ユニクロ コーデ,ユニクロ|コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ|ユニクロ,中立・不明,0.25,keyword_signal,
+2026-04-17,授業 参観 コーデ,100.0,related_queries:rising,1,コーデ,,授業 参観 コーデ,授業|参観|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,参観 日 コーデ,100.0,related_queries:rising,2,コーデ,,参観 日 コーデ,参観|日|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,シアー シャツ コーデ,60.0,related_queries:rising,3,コーデ,,シアー シャツ コーデ,シアー|シャツ|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,メンズ 夏 コーデ,60.0,related_queries:rising,4,コーデ,,メンズ 夏 コーデ,メンズ|夏|コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ|メンズ,男性寄り,0.95,keyword_signal,メンズ
+2026-04-17,バウンド コーデ,60.0,related_queries:rising,5,コーデ,,バウンド コーデ,バウンド|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,
+2026-04-17,スニーカー レディース,100.0,related_queries:top,1,スニーカー,,スニーカー レディース,スニーカー|レディース,sudachi,ファッション,0.95,keyword_fallback,スニーカー|レディース,女性寄り,0.95,keyword_signal,レディース
+2026-04-17,スニーカー ニューバランス,70.0,related_queries:top,2,スニーカー,,スニーカー ニューバランス,スニーカー|ニュー|バランス,sudachi,ファッション,0.95,keyword_fallback,スニーカー|ニューバランス,中立・不明,0.25,keyword_signal,
+2026-04-17,ニューバランス,67.0,related_queries:top,3,スニーカー,,ニューバランス,ニュー|バランス,sudachi,ファッション,0.7625,keyword_fallback,スニーカー|ニューバランス,中立・不明,0.25,keyword_signal,
+2026-04-17,メンズ スニーカー,65.0,related_queries:top,4,スニーカー,,メンズ スニーカー,メンズ|スニーカー,sudachi,ファッション,0.95,keyword_fallback,スニーカー|メンズ,男性寄り,0.95,keyword_signal,メンズ
+2026-04-17,スニーカー サンダル,51.0,related_queries:top,5,スニーカー,,スニーカー サンダル,スニーカー|サンダル,sudachi,ファッション,0.8,keyword_fallback,スニーカー,中立・不明,0.25,keyword_signal,
+2026-04-17,new balance ニューバランス made in uk 991v2 メイド イン uk u991bk2 スニーカー ブラック x グレー 27.5 cm ニューバランス,100.0,related_queries:rising,1,スニーカー,,new balance ニューバランス made in uk 991v2 メイド イン uk u991bk2 スニーカー ブラック x グレー 27 5 cm ニューバランス,new balance|ニュー|バランス|メード|in|uk|991|v|2|イン|u|bk|スニーカー|ブラック|x|グレー|27|5|cm,sudachi,ファッション,0.95,keyword_fallback,スニーカー|ニューバランス,中立・不明,0.25,keyword_signal,
+2026-04-17,hameleon スニーカー,100.0,related_queries:rising,2,スニーカー,,hameleon スニーカー,hameleon|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー,中立・不明,0.25,keyword_signal,
+2026-04-17,ノース フェイス サンダル スニーカー,100.0,related_queries:rising,3,スニーカー,,ノース フェイス サンダル スニーカー,ノース|フェイス|サンダル|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー,中立・不明,0.25,keyword_signal,
+2026-04-17,ホカ スニーカー,100.0,related_queries:rising,4,スニーカー,,ホカ スニーカー,他|スニーカー,sudachi,ファッション,0.8,keyword_fallback,スニーカー,中立・不明,0.25,keyword_signal,
+2026-04-17,コロンビア スニーカー サンダル,100.0,related_queries:rising,5,スニーカー,,コロンビア スニーカー サンダル,コロンビア|スニーカー|サンダル,sudachi,ファッション,0.8,keyword_fallback,スニーカー,中立・不明,0.25,keyword_signal,
+2026-04-17,トート バッグ,100.0,related_queries:top,1,バッグ,,トート バッグ,トート|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,ショルダー バッグ,73.0,related_queries:top,2,バッグ,,ショルダー バッグ,ショルダー|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,エコ バッグ,35.0,related_queries:top,3,バッグ,,エコ バッグ,エコ|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,メンズ バッグ,29.0,related_queries:top,4,バッグ,,メンズ バッグ,メンズ|バッグ,sudachi,ファッション,0.95,keyword_fallback,バッグ|メンズ,男性寄り,0.95,keyword_signal,メンズ
+2026-04-17,ブランド バッグ,26.0,related_queries:top,5,バッグ,,ブランド バッグ,ブランド|バッグ,sudachi,ファッション,0.95,keyword_fallback,バッグ|ブランド,中立・不明,0.25,keyword_signal,
+2026-04-17,minitmute バッグ,100.0,related_queries:rising,1,バッグ,,minitmute バッグ,minitmute|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,カルディ エコ バッグ,100.0,related_queries:rising,2,バッグ,,カルディ エコ バッグ,カルディ|エコ|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,ドロー ストリング バッグ,100.0,related_queries:rising,3,バッグ,,ドロー ストリング バッグ,ドロー|ストリング|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,カフェ イン,100.0,related_queries:top,1,カフェ,,カフェ イン,カフェ|イン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,コン カフェ,44.0,related_queries:top,2,カフェ,,コン カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,近く カフェ,40.0,related_queries:top,3,カフェ,,近く カフェ,近く|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,カフェ オレ,26.0,related_queries:top,4,カフェ,,カフェ オレ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 カフェ,24.0,related_queries:top,5,カフェ,,京都 カフェ,京都|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,焼き芋 カフェ 虹,100.0,related_queries:rising,1,カフェ,,焼き芋 カフェ 虹,焼き芋|カフェ|虹,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,gariguette カフェ 表参道 ミルフィーユ 専門 店,100.0,related_queries:rising,2,カフェ,,gariguette カフェ 表参道 ミルフィーユ 専門 店,gariguette|カフェ|表参道|ミルフィーユ|専門|店,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,アンティコ カフェ 店舗,100.0,related_queries:rising,3,カフェ,,アンティコ カフェ 店舗,アンティコ|カフェ|店舗,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,アンティコ カフェ,100.0,related_queries:rising,4,カフェ,,アンティコ カフェ,アンティコ|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,マチ カフェ プラス,100.0,related_queries:rising,5,カフェ,,マチ カフェ プラス,マチ|カフェ|プラス,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,
+2026-04-17,孤独 の グルメ,100.0,related_queries:top,1,グルメ,,孤独 の グルメ,孤独|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,ホットペッパー グルメ,75.0,related_queries:top,2,グルメ,,ホットペッパー グルメ,ホット|ペッパー|グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ|ホットペッパー,中立・不明,0.25,keyword_signal,
+2026-04-17,ホットペッパー,73.0,related_queries:top,3,グルメ,,ホットペッパー,ホット|ペッパー,sudachi,食（カフェ・グルメ）,0.7625,keyword_fallback,グルメ|ホットペッパー,中立・不明,0.25,keyword_signal,
+2026-04-17,せっかく グルメ,23.0,related_queries:top,4,グルメ,,せっかく グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,東京 グルメ,21.0,related_queries:top,5,グルメ,,東京 グルメ,東京|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 グルメ タクシー 岩間 さん,100.0,related_queries:rising,1,グルメ,,京都 グルメ タクシー 岩間 さん,京都|グルメ|タクシー|岩間,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 グルメ タクシー,100.0,related_queries:rising,2,グルメ,,京都 グルメ タクシー,京都|グルメ|タクシー,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,グルメ シティ 小林 店,100.0,related_queries:rising,3,グルメ,,グルメ シティ 小林 店,グルメ|シティー|小林|店,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 おすすめ グルメ,70.0,related_queries:rising,4,グルメ,,京都 おすすめ グルメ,京都|御勧め|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,異 世界 メイド の 三ツ星 グルメ,70.0,related_queries:rising,5,グルメ,,異 世界 メイド の 三ツ星 グルメ,異|世界|メード|三ツ星|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,
+2026-04-17,近く ラーメン,100.0,related_queries:top,1,ラーメン,,近く ラーメン,近く|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,家系 ラーメン,97.0,related_queries:top,2,ラーメン,,家系 ラーメン,家系|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,味噌 ラーメン,96.0,related_queries:top,3,ラーメン,,味噌 ラーメン,味噌|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,ラーメン 二郎,94.0,related_queries:top,4,ラーメン,,ラーメン 二郎,ラーメン|二郎,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,ラーメン ショップ,75.0,related_queries:top,5,ラーメン,,ラーメン ショップ,ラーメン|ショップ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,炭焼き あご だし 醤油 ラーメン,100.0,related_queries:rising,1,ラーメン,,炭焼き あご だし 醤油 ラーメン,炭焼き|あご|だし|醤油|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,ぬ ま ちゃん ラーメン,100.0,related_queries:rising,2,ラーメン,,ぬ ま ちゃん ラーメン,ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,佐野 ラーメン 田村 屋,100.0,related_queries:rising,3,ラーメン,,佐野 ラーメン 田村 屋,佐野|ラーメン|田村,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,ざぼん ラーメン,100.0,related_queries:rising,4,ラーメン,,ざぼん ラーメン,ざ|ぼん|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,タピオカ ラーメン,100.0,related_queries:rising,5,ラーメン,,タピオカ ラーメン,タピオカ|ラーメン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,ラーメン,中立・不明,0.25,keyword_signal,
+2026-04-17,ローソン スイーツ,100.0,related_queries:top,1,スイーツ,,ローソン スイーツ,ローソン|スイーツ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,スイーツ|ローソン,中立・不明,0.25,keyword_signal,
+2026-04-17,ローソン,99.0,related_queries:top,2,スイーツ,,ローソン,ローソン,sudachi,食（カフェ・グルメ）,0.9125,keyword_fallback,スイーツ|ローソン,中立・不明,0.25,keyword_signal,
+2026-04-17,東京 スイーツ,83.0,related_queries:top,3,スイーツ,,東京 スイーツ,東京|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ,中立・不明,0.25,keyword_signal,
+2026-04-17,ファミマ スイーツ,78.0,related_queries:top,4,スイーツ,,ファミマ スイーツ,ファミマ|スイーツ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,スイーツ|ファミマ,中立・不明,0.25,keyword_signal,
+2026-04-17,ファミマ,78.0,related_queries:top,5,スイーツ,,ファミマ,ファミマ,sudachi,食（カフェ・グルメ）,0.9125,keyword_fallback,スイーツ|ファミマ,中立・不明,0.25,keyword_signal,
+2026-04-17,パパ バーグ ママ スイーツ,100.0,related_queries:rising,1,スイーツ,,パパ バーグ ママ スイーツ,パパ|バーグ|ママ|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ,中立・不明,0.25,keyword_signal,
+2026-04-17,スイーツ ラボ ミルク,100.0,related_queries:rising,2,スイーツ,,スイーツ ラボ ミルク,スイーツ|ラボ|ミルク,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 食べ物 スイーツ,100.0,related_queries:rising,3,スイーツ,,京都 食べ物 スイーツ,京都|食べ物|スイーツ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,食|スイーツ,中立・不明,0.25,keyword_signal,
+2026-04-17,ひがし 茶屋 街 スイーツ,100.0,related_queries:rising,4,スイーツ,,ひがし 茶屋 街 スイーツ,ひがし|茶屋|街|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 抹茶 スイーツ,90.0,related_queries:rising,5,スイーツ,,京都 抹茶 スイーツ,京都|抹茶|スイーツ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,スイーツ,中立・不明,0.25,keyword_signal,
+2026-04-17,たけのこ レシピ,100.0,related_queries:top,1,レシピ,,たけのこ レシピ,竹の子|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,キャベツ レシピ,64.0,related_queries:top,2,レシピ,,キャベツ レシピ,キャベツ|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,豚肉 レシピ,56.0,related_queries:top,3,レシピ,,豚肉 レシピ,豚肉|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,玉ねぎ レシピ,51.0,related_queries:top,4,レシピ,,玉ねぎ レシピ,玉葱|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,豆腐 レシピ,51.0,related_queries:top,5,レシピ,,豆腐 レシピ,豆腐|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,メンマ レシピ,100.0,related_queries:rising,1,レシピ,,メンマ レシピ,麺麻|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,たけのこ レシピ,100.0,related_queries:rising,2,レシピ,,たけのこ レシピ,竹の子|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,たけのこ 煮物 レシピ,100.0,related_queries:rising,3,レシピ,,たけのこ 煮物 レシピ,竹の子|煮物|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,たけのこ ご飯 レシピ,100.0,related_queries:rising,4,レシピ,,たけのこ ご飯 レシピ,竹の子|御飯|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,筍 ご飯 レシピ,100.0,related_queries:rising,5,レシピ,,筍 ご飯 レシピ,竹の子|御飯|レシピ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,レシピ,中立・不明,0.25,keyword_signal,
+2026-04-17,日帰り 温泉,100.0,related_queries:top,1,温泉,,日帰り 温泉,日帰り|温泉,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,大 江戸 温泉,63.0,related_queries:top,2,温泉,,大 江戸 温泉,江戸|温泉,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,大 江戸 温泉 物語,42.0,related_queries:top,3,温泉,,大 江戸 温泉 物語,江戸|温泉|物語,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,草津 温泉,37.0,related_queries:top,4,温泉,,草津 温泉,草津|温泉,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,有馬 温泉,30.0,related_queries:top,5,温泉,,有馬 温泉,有馬|温泉,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,山形 うわ の 温泉 天神 乃湯,100.0,related_queries:rising,1,温泉,,山形 うわ の 温泉 天神 乃湯,山形|温泉|天神|湯,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,雲見 温泉 浜 道楽,100.0,related_queries:rising,2,温泉,,雲見 温泉 浜 道楽,雲見|温泉|浜|道楽,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 行方 不明,100.0,related_queries:top,1,京都,,京都 行方 不明,京都|行方|不明,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生,87.0,related_queries:top,2,京都,,京都 小学生,京都|小学生,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 行方 不明,75.0,related_queries:top,3,京都,,京都 小学生 行方 不明,京都|小学生|行方|不明,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 父親,41.0,related_queries:top,4,京都,,京都 父親,京都|父親,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 父親,32.0,related_queries:top,5,京都,,京都 小学生 父親,京都|小学生|父親,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 行方 不明 父親 外国 人,100.0,related_queries:rising,1,京都,,京都 小学生 行方 不明 父親 外国 人,京都|小学生|行方|不明|父親|外国|人,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 行方 不明 父親 と は,100.0,related_queries:rising,2,京都,,京都 小学生 行方 不明 父親 と は,京都|小学生|行方|不明|父親,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 死因,100.0,related_queries:rising,3,京都,,京都 小学生 死因,京都|小学生|死因,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 父親 動機,100.0,related_queries:rising,4,京都,,京都 小学生 父親 動機,京都|小学生|父親|動機,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,京都 小学生 行方 不明 死因,100.0,related_queries:rising,5,京都,,京都 小学生 行方 不明 死因,京都|小学生|行方|不明|死因,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 ホテル,100.0,related_queries:top,1,沖縄,,沖縄 ホテル,沖縄|ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル|沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 天気,80.0,related_queries:top,2,沖縄,,沖縄 天気,沖縄|天気,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 飛行機,48.0,related_queries:top,3,沖縄,,沖縄 飛行機,沖縄|飛行機,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 旅行,40.0,related_queries:top,4,沖縄,,沖縄 旅行,沖縄|旅行,sudachi,旅行,0.95,keyword_fallback,旅行|沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 空港,38.0,related_queries:top,5,沖縄,,沖縄 空港,沖縄|空港,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 ステーキ 食中毒,100.0,related_queries:rising,1,沖縄,,沖縄 ステーキ 食中毒,沖縄|ステーキ|食中毒,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 ステーキ ハウス 食中毒,100.0,related_queries:rising,2,沖縄,,沖縄 ステーキ ハウス 食中毒,沖縄|ステーキ|ハウス|食中毒,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 銀行 強盗,100.0,related_queries:rising,3,沖縄,,沖縄 銀行 強盗,沖縄|銀行|強盗,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,沖縄 ミシェル,100.0,related_queries:rising,4,沖縄,,沖縄 ミシェル,沖縄|ミシェール,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,ミッシェル 沖縄,100.0,related_queries:rising,5,沖縄,,ミッシェル 沖縄,ミシェール|沖縄,sudachi,旅行,0.8,keyword_fallback,沖縄,中立・不明,0.25,keyword_signal,
+2026-04-17,推し 活,100.0,related_queries:top,1,推し活,,推し 活,活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,推し,99.0,related_queries:top,2,推し活,,推し,推し,sudachi,芸能・推し,0.8,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,推し 活 リクエスト,9.0,related_queries:top,3,推し活,,推し 活 リクエスト,活|リクエスト,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,推し 活 グッズ,7.0,related_queries:top,4,推し活,,推し 活 グッズ,活|グッズ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,推し 活 バッグ,6.0,related_queries:top,5,推し活,,推し 活 バッグ,活|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,
+2026-04-17,推し 活 expo,100.0,related_queries:rising,1,推し活,,推し 活 expo,活|エキスポ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,lowya 推し 活 収納,100.0,related_queries:rising,2,推し活,,lowya 推し 活 収納,lowya|活|収納,sudachi,住まい・暮らし,0.8,keyword_fallback,収納,中立・不明,0.25,keyword_signal,
+2026-04-17,百 均 推し 活 グッズ,100.0,related_queries:rising,3,推し活,,百 均 推し 活 グッズ,100|均|活|グッズ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,joysound 推し 活 ルーム,100.0,related_queries:rising,4,推し活,,joysound 推し 活 ルーム,joysound|活|ルーム,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,ビック エコー 推し 活 ルーム,70.0,related_queries:rising,5,推し活,,ビック エコー 推し 活 ルーム,ビック|エコー|活|ルーム,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,ラスト アイドル,100.0,related_queries:top,1,アイドル,,ラスト アイドル,ラスト|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,ラスト シーン アイドル,99.0,related_queries:top,2,アイドル,,ラスト シーン アイドル,ラスト|シーン|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,韓国 アイドル,39.0,related_queries:top,3,アイドル,,韓国 アイドル,韓国|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,アイドル マスター,33.0,related_queries:top,4,アイドル,,アイドル マスター,アイドル|マスター,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,グラビア,33.0,related_queries:top,5,アイドル,,グラビア,グラビア,sudachi,アダルト・性,0.8,keyword_fallback,グラビア,中立・不明,0.25,keyword_signal,
+2026-04-17,ラスト シーン アイドル,100.0,related_queries:rising,1,アイドル,,ラスト シーン アイドル,ラスト|シーン|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,アイマス 好き な アイドル,100.0,related_queries:rising,2,アイドル,,アイマス 好き な アイドル,アイマス|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,江戸川 区 アイドル 襲撃,100.0,related_queries:rising,3,アイドル,,江戸川 区 アイドル 襲撃,江戸|川|アイドル|襲撃,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,江戸川 区 アイドル 事件,100.0,related_queries:rising,4,アイドル,,江戸川 区 アイドル 事件,江戸|川|アイドル|事件,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,江戸川 区 アイドル 襲撃 事件,100.0,related_queries:rising,5,アイドル,,江戸川 区 アイドル 襲撃 事件,江戸|川|アイドル|襲撃|事件,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,
+2026-04-17,bts,100.0,related_queries:top,1,k-pop,,bts,bts,sudachi,芸能・推し,0.9125,keyword_fallback,k-pop|bts,中立・不明,0.25,keyword_signal,
+2026-04-17,k-pop demon hunters,93.0,related_queries:top,2,k-pop,,k-pop demon hunters,k|pop|デーモン|hunters,sudachi,芸能・推し,0.65,keyword_fallback,k-pop,中立・不明,0.25,keyword_signal,
+2026-04-17,韓国,48.0,related_queries:top,3,k-pop,,韓国,韓国,sudachi,芸能・推し,0.6125,keyword_fallback,k-pop,中立・不明,0.25,keyword_signal,
+2026-04-17,k-pop generation,38.0,related_queries:top,4,k-pop,,k-pop generation,k|pop|ジェネレーション,sudachi,芸能・推し,0.65,keyword_fallback,k-pop,中立・不明,0.25,keyword_signal,
+2026-04-17,k pop アイドル,25.0,related_queries:top,5,k-pop,,k pop アイドル,k|pop|アイドル,sudachi,芸能・推し,0.9125,keyword_fallback,アイドル|k-pop,中立・不明,0.25,keyword_signal,
+2026-04-17,guerreiras do k-pop,100.0,related_queries:rising,1,k-pop,,guerreiras do k-pop,guerreiras|do|k|pop,sudachi,芸能・推し,0.65,keyword_fallback,k-pop,中立・不明,0.25,keyword_signal,
+2026-04-17,アニメ 無料,100.0,related_queries:top,1,アニメ,,アニメ 無料,アニメ|無料,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,アニメ キャラ,94.0,related_queries:top,2,アニメ,,アニメ キャラ,アニメ|キャラ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,アニメ 2026,78.0,related_queries:top,3,アニメ,,アニメ 2026,アニメ|2026,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,コナン アニメ,70.0,related_queries:top,4,アニメ,,コナン アニメ,コナン|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,アニメ 映画,64.0,related_queries:top,5,アニメ,,アニメ 映画,アニメ|映画,sudachi,芸能・推し,0.8,keyword_fallback,映画,中立・不明,0.25,keyword_signal,
+2026-04-17,bloodborne アニメ,100.0,related_queries:rising,1,アニメ,,bloodborne アニメ,bloodborne|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,ブラッド ボーン アニメ 化,100.0,related_queries:rising,2,アニメ,,ブラッド ボーン アニメ 化,ブラッド|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,ブラッド ボーン アニメ,100.0,related_queries:rising,3,アニメ,,ブラッド ボーン アニメ,ブラッド|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,パン どろぼう アニメ,100.0,related_queries:rising,4,アニメ,,パン どろぼう アニメ,パン|泥棒|アニメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,パン,中立・不明,0.25,keyword_signal,
+2026-04-17,萩原 千 速 登場 回 アニメ,100.0,related_queries:rising,5,アニメ,,萩原 千 速 登場 回 アニメ,萩原|千|速|登場|回|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,漫画 無料,100.0,related_queries:top,1,漫画,,漫画 無料,漫画|無料,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,
+2026-04-17,モモンガ,14.0,related_queries:top,2,漫画,,モモンガ,ももんが,sudachi,アニメ・漫画,0.7625,keyword_fallback,漫画|モモンガ,中立・不明,0.25,keyword_signal,
+2026-04-17,少女 漫画,11.0,related_queries:top,3,漫画,,少女 漫画,少女|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,女性寄り,0.95,keyword_signal,女
+2026-04-17,異 世界 漫画,10.0,related_queries:top,4,漫画,,異 世界 漫画,異|世界|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,
+2026-04-17,九条 の 大罪 漫画,9.0,related_queries:top,5,漫画,,九条 の 大罪 漫画,9|条|大罪|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,
+2026-04-17,春泥 漫画 家,100.0,related_queries:rising,1,漫画,,春泥 漫画 家,春泥|漫画|家,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,
+2026-04-17,メイド の ベル 漫画,100.0,related_queries:rising,2,漫画,,メイド の ベル 漫画,メード|ベル|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,
+2026-04-17,箱 の 男 漫画 ネタバレ,100.0,related_queries:rising,3,漫画,,箱 の 男 漫画 ネタバレ,箱|男|漫画|ねたばれ,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,男性寄り,0.95,keyword_signal,男
+2026-04-17,箱 の 男 漫画 最終 回 ネタバレ,90.0,related_queries:rising,4,漫画,,箱 の 男 漫画 最終 回 ネタバレ,箱|男|漫画|最終|回|ねたばれ,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,男性寄り,0.95,keyword_signal,男
+2026-04-17,日本 三国 漫画,70.0,related_queries:rising,5,漫画,,日本 三国 漫画,日本|3|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,
+2026-04-17,コナン 声優,100.0,related_queries:top,1,声優,,コナン 声優,コナン|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,コナン 映画 声優,19.0,related_queries:top,2,声優,,コナン 映画 声優,コナン|映画|声優,sudachi,芸能・推し,0.8,keyword_fallback,映画,中立・不明,0.25,keyword_signal,
+2026-04-17,安室 声優,16.0,related_queries:top,3,声優,,安室 声優,安室|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,ハイウェイ の 堕 天使 声優,16.0,related_queries:top,4,声優,,ハイウェイ の 堕 天使 声優,ハイウエー|堕|天使|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,コナン ゲスト 声優,14.0,related_queries:top,5,声優,,コナン ゲスト 声優,コナン|ゲスト|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,ハロウィン の 花嫁 クリスティーヌ 声優,100.0,related_queries:rising,1,声優,,ハロウィン の 花嫁 クリスティーヌ 声優,ハロウィーン|花嫁|クリスティーヌ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,ハロウィン の 花嫁 エレニカ 声優,100.0,related_queries:rising,2,声優,,ハロウィン の 花嫁 エレニカ 声優,ハロウィーン|花嫁|エレニカ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,コナン クリスティーヌ 声優,100.0,related_queries:rising,3,声優,,コナン クリスティーヌ 声優,コナン|クリスティーヌ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,エレニカ 声優,100.0,related_queries:rising,4,声優,,エレニカ 声優,エレニカ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,プラーミャ 声優,100.0,related_queries:rising,5,声優,,プラーミャ 声優,プラーミャ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,
+2026-04-17,ジャンプ プラス,100.0,related_queries:top,1,ジャンプ,,ジャンプ プラス,ジャンプ|プラス,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,ヤング ジャンプ,58.0,related_queries:top,2,ジャンプ,,ヤング ジャンプ,ヤング|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,となり の ヤング ジャンプ,43.0,related_queries:top,3,ジャンプ,,となり の ヤング ジャンプ,隣|ヤング|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,平成 ジャンプ,29.0,related_queries:top,4,ジャンプ,,平成 ジャンプ,平成|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,ジャンプ ショップ,28.0,related_queries:top,5,ジャンプ,,ジャンプ ショップ,ジャンプ|ショップ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,中島 裕 翔 結婚,100.0,related_queries:rising,1,ジャンプ,,中島 裕 翔 結婚,中島|裕|翔|結婚,sudachi,恋愛,0.8,keyword_fallback,結婚,中立・不明,0.25,keyword_signal,
+2026-04-17,中山 グランド ジャンプ 予想,100.0,related_queries:rising,2,ジャンプ,,中山 グランド ジャンプ 予想,中山|グランド|ジャンプ|予想,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,中山 グランド ジャンプ 過去,100.0,related_queries:rising,3,ジャンプ,,中山 グランド ジャンプ 過去,中山|グランド|ジャンプ|過去,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,平成 ジャンプ 中島 裕 翔,100.0,related_queries:rising,4,ジャンプ,,平成 ジャンプ 中島 裕 翔,平成|ジャンプ|中島|裕|翔,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,中島 平成 ジャンプ,100.0,related_queries:rising,5,ジャンプ,,中島 平成 ジャンプ,中島|平成|ジャンプ,sudachi,アニメ・漫画,0.8,keyword_fallback,ジャンプ,中立・不明,0.25,keyword_signal,
+2026-04-17,推し の 子,100.0,related_queries:top,1,推しの子,,推し の 子,子,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,推し の 子 アニメ,8.0,related_queries:top,2,推しの子,,推し の 子 アニメ,子|アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ|推しの子,中立・不明,0.25,keyword_signal,
+2026-04-17,推し の 子 3 期,7.0,related_queries:top,3,推しの子,,推し の 子 3 期,子|3|期,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,推し の 子 漫画,5.0,related_queries:top,4,推しの子,,推し の 子 漫画,子|漫画,sudachi,アニメ・漫画,0.95,keyword_fallback,漫画|推しの子,中立・不明,0.25,keyword_signal,
+2026-04-17,推し の 子 ルビー,4.0,related_queries:top,5,推しの子,,推し の 子 ルビー,子|ルビー,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,齊藤 なぎさ,70.0,related_queries:rising,1,推しの子,,齊藤 なぎさ,齊藤|なぎさ,sudachi,芸能・推し,0.7625,keyword_fallback,推し|齊藤なぎさ,中立・不明,0.25,keyword_signal,
+2026-04-17,推し の 子 父親,50.0,related_queries:rising,2,推しの子,,推し の 子 父親,子|父親,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,
+2026-04-17,原 菜乃 華,40.0,related_queries:rising,3,推しの子,,原 菜乃 華,原|菜乃|華,sudachi,芸能・推し,0.7625,keyword_fallback,推し|原菜乃華,中立・不明,0.25,keyword_signal,
+2026-04-17,五 等 分 の 花嫁,40.0,related_queries:rising,4,推しの子,,五 等 分 の 花嫁,5|等|分|花嫁,sudachi,アニメ・漫画,0.7625,keyword_fallback,推しの子|五等分の花嫁,中立・不明,0.25,keyword_signal,
+2026-04-17,ゲーム 無料,100.0,related_queries:top,1,ゲーム,,ゲーム 無料,ゲーム|無料,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,google ゲーム,22.0,related_queries:top,2,ゲーム,,google ゲーム,google|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,ヘビ ゲーム,20.0,related_queries:top,3,ゲーム,,ヘビ ゲーム,蛇|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,ゲーム センター,20.0,related_queries:top,4,ゲーム,,ゲーム センター,ゲーム|センター,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,クレーン ゲーム,17.0,related_queries:top,5,ゲーム,,クレーン ゲーム,クレーン|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,遊 戯 王 オフィシャル カード ゲーム,100.0,related_queries:rising,1,ゲーム,,遊 戯 王 オフィシャル カード ゲーム,遊|戯れ|王|カード|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,愛し てる ゲーム を 終わら せ たい,100.0,related_queries:rising,2,ゲーム,,愛し てる ゲーム を 終わら せ たい,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,愛し てる ゲーム を 終わら せ たい アニメ,100.0,related_queries:rising,3,ゲーム,,愛し てる ゲーム を 終わら せ たい アニメ,ゲーム|アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,
+2026-04-17,まち針 ゲーム,90.0,related_queries:rising,4,ゲーム,,まち針 ゲーム,待ち針|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,タイピング ゲーム,80.0,related_queries:rising,5,ゲーム,,タイピング ゲーム,タイピング|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,
+2026-04-17,トモコレ switch,100.0,related_queries:top,1,switch,,トモコレ switch,トモコレ|スイッチ,sudachi,ゲーム,0.95,keyword_fallback,switch|トモコレ,中立・不明,0.25,keyword_signal,
+2026-04-17,トモコレ,98.0,related_queries:top,2,switch,,トモコレ,トモコレ,sudachi,ゲーム,0.9125,keyword_fallback,switch|トモコレ,中立・不明,0.25,keyword_signal,
+2026-04-17,switch ゲーム,79.0,related_queries:top,3,switch,,switch ゲーム,スイッチ|ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|switch,中立・不明,0.25,keyword_signal,
+2026-04-17,switch2,74.0,related_queries:top,4,switch,,switch2,スイッチ|2,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,
+2026-04-17,nintendo switch,67.0,related_queries:top,5,switch,,nintendo switch,nintendo|スイッチ,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,
+2026-04-17,hades ii nintendo switch 2 edition,100.0,related_queries:rising,1,switch,,hades ii nintendo switch 2 edition,ハデス|ii|nintendo|スイッチ|2|エディション,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,
+2026-04-17,ドキサバ switch,100.0,related_queries:rising,2,switch,,ドキサバ switch,ドキサバ|スイッチ,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,
+2026-04-17,バニー ガーデン 2 switch 規制,100.0,related_queries:rising,3,switch,,バニー ガーデン 2 switch 規制,バニー|ガーデン|2|スイッチ|規制,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,
+2026-04-17,switch タッチペン 代用,100.0,related_queries:rising,4,switch,,switch タッチペン 代用,スイッチ|タッチペン|代用,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,
+2026-04-17,トモコレ switch ダウンロード 版,100.0,related_queries:rising,5,switch,,トモコレ switch ダウンロード 版,トモコレ|スイッチ|ダウンロード|版,sudachi,ゲーム,0.95,keyword_fallback,switch|トモコレ,中立・不明,0.25,keyword_signal,
+2026-04-17,ps5 ゲーム,100.0,related_queries:top,1,ps5,,ps5 ゲーム,ps|5|ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,ps5 コントローラー,84.0,related_queries:top,2,ps5,,ps5 コントローラー,ps|5|コントローラー,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,ps4,50.0,related_queries:top,3,ps5,,ps4,ps|4,sudachi,ゲーム,0.7625,keyword_fallback,ps5|ps4,男性寄り,0.7125,keyword_signal,ps5|ps4
+2026-04-17,ps5 ソフト,42.0,related_queries:top,4,ps5,,ps5 ソフト,ps|5|ソフト,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,ps5 おすすめ,40.0,related_queries:top,5,ps5,,ps5 おすすめ,ps|5|御勧め,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,ps5 セーブ データ を ダウンロード できません,100.0,related_queries:rising,1,ps5,,ps5 セーブ データ を ダウンロード できません,ps|5|セーブ|データ|ダウンロード,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,星 の 翼 ps5 アケコン,100.0,related_queries:rising,2,ps5,,星 の 翼 ps5 アケコン,星|翼|ps|5|アケコン,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,windrose ps5,100.0,related_queries:rising,3,ps5,,windrose ps5,windrose|ps|5,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,ウィンド ローズ ps5,100.0,related_queries:rising,4,ps5,,ウィンド ローズ ps5,ウインド|ローズ|ps|5,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,モンギル ps5,100.0,related_queries:rising,5,ps5,,モンギル ps5,モンギル|ps|5,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5
+2026-04-17,モンハン ライズ,100.0,related_queries:top,1,モンハン,,モンハン ライズ,モンハン|ライズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン ストーリーズ,74.0,related_queries:top,2,モンハン,,モンハン ストーリーズ,モンハン|ストーリーズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン ワイルズ,64.0,related_queries:top,3,モンハン,,モンハン ワイルズ,モンハン|ワイルズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン ストーリーズ 3,50.0,related_queries:top,4,モンハン,,モンハン ストーリーズ 3,モンハン|ストーリーズ|3,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン サン ブレイク,34.0,related_queries:top,5,モンハン,,モンハン サン ブレイク,モンハン|サン|ブレーク,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン ワイルズ クラヤミ ゲッコー,100.0,related_queries:rising,1,モンハン,,モンハン ワイルズ クラヤミ ゲッコー,モンハン|ワイルズ|クラヤミ|ゲッコー,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,山本 昌 モンハン,100.0,related_queries:rising,2,モンハン,,山本 昌 モンハン,山本|昌|モンハン,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン now セルレギオス,70.0,related_queries:rising,3,モンハン,,モンハン now セルレギオス,モンハン|ナウ|セルレギオス,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,ユニバ モンハン グッズ,60.0,related_queries:rising,4,モンハン,,ユニバ モンハン グッズ,ユニバ|モンハン|グッズ,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,
+2026-04-17,モンハン 酒場,60.0,related_queries:rising,5,モンハン,,モンハン 酒場,モンハン|酒場,sudachi,ゲーム,0.8,keyword_fallback,モンハン,中立・不明,0.25,keyword_signal,

@@ -70,6 +70,55 @@ def build_theme_time_series(frame: pd.DataFrame) -> pd.DataFrame:
     return _order_time_series_columns(grouped)
 
 
+def build_audience_breakdown(frame: pd.DataFrame) -> pd.DataFrame:
+    if frame.empty or "audience_segment" not in frame.columns:
+        return pd.DataFrame(
+            columns=[
+                "rank",
+                "audience_segment",
+                "interest_share_pct",
+                "attention_index",
+                "score",
+                "keyword_count",
+                "top_keywords",
+            ]
+        )
+
+    df = frame.copy()
+    df["score"] = pd.to_numeric(df["score"], errors="coerce").fillna(0.0)
+    grouped = (
+        df.groupby("audience_segment", dropna=False)
+        .agg(
+            score=("score", "sum"),
+            keyword_count=("keyword", "count"),
+            top_keywords=("keyword", _top_keywords),
+        )
+        .reset_index()
+        .sort_values(["score", "keyword_count", "audience_segment"], ascending=[False, False, True])
+    )
+    total_score = float(grouped["score"].sum())
+    max_score = float(grouped["score"].max()) if not grouped.empty else 0.0
+    grouped["interest_share_pct"] = grouped["score"].map(
+        lambda score: _safe_percentage(float(score), total_score)
+    )
+    grouped["attention_index"] = grouped["score"].map(
+        lambda score: _safe_percentage(float(score), max_score)
+    )
+    grouped.insert(0, "rank", grouped.index + 1)
+    return _order_columns(
+        grouped,
+        [
+            "rank",
+            "audience_segment",
+            "interest_share_pct",
+            "attention_index",
+            "score",
+            "keyword_count",
+            "top_keywords",
+        ],
+    )
+
+
 def add_previous_period_comparison(ranking: pd.DataFrame, time_series: pd.DataFrame) -> pd.DataFrame:
     if ranking.empty or time_series.empty:
         return ranking

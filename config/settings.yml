@@ -6,7 +6,7 @@ google_trends:
   pn: japan
   use_seed_keywords: true
   seed_keywords_path: config/seed_keywords.yml
-  seed_keywords_limit: 60
+  seed_keywords_limit: 100
   use_trending_searches: false
   timeframe:
     daily: now 7-d
@@ -46,6 +46,10 @@ classification:
   fallback:
     enabled: true
 
+audience:
+  enabled: true
+  config_path: config/audience.yml
+
 pipeline:
   period: daily
   sample_when_empty: true
@@ -57,5 +61,6 @@ output:
   classified_keywords_csv: classified_keywords.csv
   theme_ranking_csv: theme_ranking.csv
   theme_timeseries_csv: theme_timeseries.csv
+  audience_breakdown_csv: audience_breakdown.csv
   ranking_chart: theme_ranking.png
   timeseries_chart: theme_timeseries.png
