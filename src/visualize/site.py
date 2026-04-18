@@ -11,7 +11,7 @@ from typing import Any
 
 ALL_FILTER_VALUE = "__all__"
 AUDIENCE_FILTER_ORDER = ["男性寄り", "女性寄り", "中立・不明"]
-GENERATION_FILTER_ORDER = ["10代・学生", "20代", "30代", "40代", "50代以上", "世代不明"]
+GENERATION_FILTER_ORDER = ["20代以下", "10代・学生", "20代", "30代", "40代", "50代以上", "世代不明"]
 
 SITE_CSS = """\
 :root {
@@ -361,6 +361,9 @@ SITE_JS = """\
 (() => {
   const ALL = "__all__";
   const RANKING_LIMIT = 30;
+  const GENERATION_GROUPS = {
+    "20代以下": ["10代・学生", "20代"],
+  };
   const state = {
     records: [],
   };
@@ -418,8 +421,7 @@ SITE_JS = """\
     const filtered = state.records.filter((record) => {
       const audienceMatch =
         audienceFilter.value === ALL || record.audience_segment === audienceFilter.value;
-      const generationMatch =
-        generationFilter.value === ALL || record.generation_segment === generationFilter.value;
+      const generationMatch = matchesGeneration(record.generation_segment, generationFilter.value);
       return audienceMatch && generationMatch;
     });
 
@@ -445,6 +447,16 @@ SITE_JS = """\
     } else {
       setSummary("-", "0.00%", "0.00", "0");
     }
+  }
+
+  function matchesGeneration(recordSegment, selectedSegment) {
+    if (selectedSegment === ALL) {
+      return true;
+    }
+    if (GENERATION_GROUPS[selectedSegment]) {
+      return GENERATION_GROUPS[selectedSegment].includes(recordSegment);
+    }
+    return recordSegment === selectedSegment;
   }
 
   function buildRanking(records) {

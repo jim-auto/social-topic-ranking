@@ -6,7 +6,7 @@ google_trends:
   pn: japan
   use_seed_keywords: true
   seed_keywords_path: config/seed_keywords.yml
-  seed_keywords_limit: 80
+  seed_keywords_limit: 90
   use_trending_searches: false
   timeframe:
     daily: now 7-d

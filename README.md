@@ -178,6 +178,8 @@ python -m src.main --input data/sample_trends.csv --build-site
 
 これは検索した個人の年齢を推定するものではありません。検索語に含まれるライフステージ文脈の集計です。集計結果は `outputs/generation_breakdown.csv` とサイトの `Generation Signals` に出力されます。
 
+サイトのRankingフィルタでは `20代以下` を選べます。これは `10代・学生` と `20代` を合算した表示用フィルタです。
+
 ## 追加テーマ
 
 女性向けに寄りすぎないよう、以下のテーマを追加しています。
@@ -188,6 +190,7 @@ python -m src.main --input data/sample_trends.csv --build-site
 - 健康・医療
 - 車・バイク
 - ガジェット・家電
+- 学校・学生生活
 - 副業・稼ぐ
 - 学び・資格
 - 住まい・暮らし
