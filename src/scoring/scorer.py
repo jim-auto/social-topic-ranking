@@ -70,12 +70,12 @@ def build_theme_time_series(frame: pd.DataFrame) -> pd.DataFrame:
     return _order_time_series_columns(grouped)
 
 
-def build_audience_breakdown(frame: pd.DataFrame) -> pd.DataFrame:
-    return _build_signal_breakdown(frame, "audience_segment")
+def build_audience_breakdown(frame: pd.DataFrame, latest_only: bool = True) -> pd.DataFrame:
+    return _build_signal_breakdown(frame, "audience_segment", latest_only=latest_only)
 
 
-def build_generation_breakdown(frame: pd.DataFrame) -> pd.DataFrame:
-    return _build_signal_breakdown(frame, "generation_segment")
+def build_generation_breakdown(frame: pd.DataFrame, latest_only: bool = True) -> pd.DataFrame:
+    return _build_signal_breakdown(frame, "generation_segment", latest_only=latest_only)
 
 
 def add_previous_period_comparison(ranking: pd.DataFrame, time_series: pd.DataFrame) -> pd.DataFrame:
@@ -154,7 +154,11 @@ def _safe_percentage(value: float, denominator: float) -> float:
     return round((value / denominator) * 100, 2)
 
 
-def _build_signal_breakdown(frame: pd.DataFrame, segment_column: str) -> pd.DataFrame:
+def _build_signal_breakdown(
+    frame: pd.DataFrame,
+    segment_column: str,
+    latest_only: bool = True,
+) -> pd.DataFrame:
     if frame.empty or segment_column not in frame.columns:
         return pd.DataFrame(
             columns=[
@@ -170,6 +174,9 @@ def _build_signal_breakdown(frame: pd.DataFrame, segment_column: str) -> pd.Data
 
     df = frame.copy()
     df["score"] = pd.to_numeric(df["score"], errors="coerce").fillna(0.0)
+    if latest_only and "date" in df.columns:
+        df["date"] = df["date"].astype(str)
+        df = df[df["date"] == max(df["date"])].copy()
     grouped = (
         df.groupby(segment_column, dropna=False)
         .agg(

@@ -1,5 +1,6 @@
 (() => {
   const ALL = "__all__";
+  const RANKING_LIMIT = 30;
   const state = {
     records: [],
   };
@@ -120,7 +121,7 @@
     const totalScore = entries.reduce((sum, entry) => sum + entry.score, 0);
     const maxScore = entries.length ? entries[0].score : 0;
 
-    return entries.slice(0, 20).map((entry, index) => ({
+    return entries.slice(0, RANKING_LIMIT).map((entry, index) => ({
       rank: index + 1,
       topic: entry.topic,
       interestShare: totalScore > 0 ? (entry.score / totalScore) * 100 : 0,

@@ -6,19 +6,19 @@ google_trends:
   pn: japan
   use_seed_keywords: true
   seed_keywords_path: config/seed_keywords.yml
-  seed_keywords_limit: 100
+  seed_keywords_limit: 80
   use_trending_searches: false
   timeframe:
     daily: now 7-d
     weekly: today 3-m
   trending_limit: 50
-  related_limit: 5
-  interest_keywords_limit: 20
+  related_limit: 6
+  interest_keywords_limit: 40
   interest_batch_size: 5
   include_related_queries: true
   include_interest_time_series: true
   include_top_charts: false
-  request_interval_seconds: 2.0
+  request_interval_seconds: 1.0
   retries: 2
   backoff_factor: 0.5
 
@@ -61,7 +61,7 @@ pipeline:
   output_dir: outputs
 
 output:
-  top_n: 20
+  top_n: 30
   classified_keywords_csv: classified_keywords.csv
   theme_ranking_csv: theme_ranking.csv
   theme_timeseries_csv: theme_timeseries.csv

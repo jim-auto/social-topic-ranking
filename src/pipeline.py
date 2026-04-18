@@ -42,7 +42,7 @@ def run_pipeline(
     period = period or settings.get("pipeline", {}).get("period", "daily")
     output_directory = ensure_directory(output_dir or settings.get("pipeline", {}).get("output_dir", "outputs"))
 
-    raw = _load_or_collect(settings, input_csv, period, limit, seeds_path, seed_limit)
+    raw = _aggregate_interest_rows(_load_or_collect(settings, input_csv, period, limit, seeds_path, seed_limit))
     preprocessor = JapaneseTextPreprocessor.from_settings(settings)
     preprocessed = preprocessor.transform(raw)
 
@@ -125,7 +125,7 @@ def _load_or_collect(
             records = collector.collect(settings, period=period)
             if limit is not None:
                 records = records[:limit]
-            frame = records_to_frame(records)
+            frame = _aggregate_interest_rows(records_to_frame(records))
             if not frame.empty:
                 _save_raw_snapshot(frame)
                 return frame
@@ -160,6 +160,37 @@ def _load_csv(path: Path) -> pd.DataFrame:
     if not path.exists():
         raise FileNotFoundError(f"Input CSV not found: {path}")
     return pd.read_csv(path)
+
+
+def _aggregate_interest_rows(frame: pd.DataFrame) -> pd.DataFrame:
+    if frame.empty or "source" not in frame.columns or "score" not in frame.columns:
+        return frame
+
+    df = frame.copy()
+    interest_mask = df["source"].astype(str).eq("interest_over_time")
+    if not interest_mask.any():
+        return df
+
+    interest = df[interest_mask].copy()
+    other = df[~interest_mask].copy()
+    group_columns = [
+        column
+        for column in ("date", "keyword", "source", "related_to")
+        if column in interest.columns
+    ]
+    if not group_columns:
+        return df
+
+    interest["score"] = pd.to_numeric(interest["score"], errors="coerce").fillna(0.0)
+    aggregations = {
+        column: "first"
+        for column in interest.columns
+        if column not in set(group_columns) | {"score"}
+    }
+    aggregations["score"] = "mean"
+    aggregated = interest.groupby(group_columns, dropna=False, as_index=False).agg(aggregations)
+    aggregated["score"] = aggregated["score"].round(2)
+    return pd.concat([other, aggregated], ignore_index=True)
 
 
 def _save_raw_snapshot(frame: pd.DataFrame) -> None:

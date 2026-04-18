@@ -16,8 +16,8 @@ def flatten_seed_keywords(config: dict[str, Any], limit: int | None = None) -> l
     keywords: list[str] = []
 
     if isinstance(raw, dict):
-        for value in raw.values():
-            keywords.extend(_coerce_keywords(value))
+        groups = [_coerce_keywords(value) for value in raw.values()]
+        keywords.extend(_round_robin(groups))
     elif isinstance(raw, list):
         for item in raw:
             if isinstance(item, dict):
@@ -37,6 +37,16 @@ def _coerce_keywords(value: Any) -> list[str]:
     if isinstance(value, list):
         return [str(item).strip() for item in value if str(item).strip()]
     return []
+
+
+def _round_robin(groups: list[list[str]]) -> list[str]:
+    output: list[str] = []
+    max_size = max((len(group) for group in groups), default=0)
+    for index in range(max_size):
+        for group in groups:
+            if index < len(group):
+                output.append(group[index])
+    return output
 
 
 def _dedupe(values: list[str]) -> list[str]:
