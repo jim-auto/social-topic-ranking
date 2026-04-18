@@ -1,6 +1,6 @@
 ﻿date,keyword,score,source,rank,related_to,related_terms,normalized_keyword,nouns,tokenizer,topic,confidence,classification_method,matched_keywords,audience_segment,audience_confidence,audience_method,audience_matched_keywords,generation_segment,generation_confidence,generation_method,generation_matched_keywords
 2026-04-18,バイト 高校生,100.0,related_queries:top,1.0,高校生,,バイト 高校生,バイト|高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生|バイト,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-18,バイト,99.0,related_queries:top,2.0,高校生,,バイト,バイト,sudachi,学校・学生生活,0.9125,keyword_fallback,高校生|バイト,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-18,バイト,99.0,related_queries:top,2.0,高校生,,バイト,バイト,sudachi,学校・学生生活,0.95,keyword_fallback,高校生|バイト,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
 2026-04-18,高校生 女子,96.0,related_queries:top,3.0,高校生,,高校生 女子,高校生|女子,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,女性寄り,0.95,keyword_signal,女,10代・学生,0.95,keyword_signal,高校生|高校
 2026-04-18,男子 高校生,75.0,related_queries:top,4.0,高校生,,男子 高校生,男子|高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,男性寄り,0.95,keyword_signal,男,10代・学生,0.95,keyword_signal,高校生|高校
 2026-04-18,高校生 弁当,22.0,related_queries:top,5.0,高校生,,高校生 弁当,高校生|弁当,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
@@ -20,7 +20,7 @@
 2026-04-18,大学生 レポート 書き方,70.0,related_queries:rising,1.0,大学生,,大学生 レポート 書き方,大学生|レポート|書き方,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
 2026-04-18,専修 大学生 田 キャンパス,40.0,related_queries:rising,2.0,大学生,,専修 大学生 田 キャンパス,専修|大学生|田|キャンパス,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
 2026-04-18,在宅 副業,100.0,related_queries:top,1.0,副業,,在宅 副業,在宅|副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業|在宅副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,バイト,79.0,related_queries:top,2.0,副業,,バイト,バイト,sudachi,学校・学生生活,0.8,keyword_fallback,バイト,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,バイト
+2026-04-18,バイト,79.0,related_queries:top,2.0,副業,,バイト,バイト,sudachi,学校・学生生活,0.95,keyword_fallback,バイト,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,バイト
 2026-04-18,副業 バイト,75.0,related_queries:top,3.0,副業,,副業 バイト,副業|バイト,sudachi,学校・学生生活,0.8,keyword_fallback,バイト,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,バイト
 2026-04-18,副業 おすすめ,60.0,related_queries:top,4.0,副業,,副業 おすすめ,副業|御勧め,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,確定 申告 副業,58.0,related_queries:top,5.0,副業,,確定 申告 副業,確定|申告|副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -33,7 +33,7 @@
 2026-04-18,自衛 官 副業,70.0,related_queries:rising,6.0,副業,,自衛 官 副業,自衛|官|副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,診断,100.0,related_queries:top,1.0,恋愛,,診断,診断,sudachi,恋愛,0.6125,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,恋愛 診断,97.0,related_queries:top,2.0,恋愛,,恋愛 診断,恋愛|診断,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,恋愛 mbti,89.0,related_queries:top,3.0,恋愛,,恋愛 mbti,恋愛|mbti,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,恋愛 mbti,89.0,related_queries:top,3.0,恋愛,,恋愛 mbti,恋愛|mbti,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,mbti
 2026-04-18,恋愛 病院,85.0,related_queries:top,4.0,恋愛,,恋愛 病院,恋愛|病院,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,恋愛 タイプ,66.0,related_queries:top,5.0,恋愛,,恋愛 タイプ,恋愛|タイプ,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,恋愛 漫画,61.0,related_queries:top,6.0,恋愛,,恋愛 漫画,恋愛|漫画,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -69,7 +69,7 @@
 2026-04-18,楽天 ファッション cm,100.0,related_queries:rising,5.0,ファッション,,楽天 ファッション cm,楽天|ファッション|cm,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,エシカル ファッション,100.0,related_queries:rising,6.0,ファッション,,エシカル ファッション,エシカル|ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,カフェ イン,100.0,related_queries:top,1.0,カフェ,,カフェ イン,カフェ|イン,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,コン カフェ,40.0,related_queries:top,2.0,カフェ,,コン カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,コン カフェ,40.0,related_queries:top,2.0,カフェ,,コン カフェ,カフェ,sudachi,遊び・レジャー,0.95,keyword_fallback,コンカフェ,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,コンカフェ
 2026-04-18,近く カフェ,40.0,related_queries:top,3.0,カフェ,,近く カフェ,近く|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,カフェ オレ,25.0,related_queries:top,4.0,カフェ,,カフェ オレ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,京都 カフェ,23.0,related_queries:top,5.0,カフェ,,京都 カフェ,京都|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -80,7 +80,7 @@
 2026-04-18,アンティコ カフェ,100.0,related_queries:rising,4.0,カフェ,,アンティコ カフェ,アンティコ|カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,カフェ ポルトフィーノ,100.0,related_queries:rising,5.0,カフェ,,カフェ ポルトフィーノ,カフェ|ポルトフィーノ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,マチ カフェ プラス,100.0,related_queries:rising,6.0,カフェ,,マチ カフェ プラス,マチ|カフェ|プラス,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,修学 旅行,100.0,related_queries:top,1.0,旅行,,修学 旅行,修学|旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,10代・学生,0.6,keyword_signal,修学旅行
+2026-04-18,修学 旅行,100.0,related_queries:top,1.0,旅行,,修学 旅行,修学|旅行,sudachi,学校・学生生活,0.95,keyword_fallback,修学旅行,中立・不明,0.25,keyword_signal,,10代・学生,0.6,keyword_signal,修学旅行
 2026-04-18,海外 旅行,92.0,related_queries:top,2.0,旅行,,海外 旅行,海外|旅行,sudachi,旅行,0.95,keyword_fallback,旅行|海外旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,旅行 おすすめ,56.0,related_queries:top,3.0,旅行,,旅行 おすすめ,旅行|御勧め,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,日本 旅行,39.0,related_queries:top,4.0,旅行,,日本 旅行,日本|旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -92,16 +92,16 @@
 2026-04-18,京都 修学 旅行,100.0,related_queries:rising,4.0,旅行,,京都 修学 旅行,京都|修学|旅行,sudachi,旅行,0.95,keyword_fallback,旅行|京都,中立・不明,0.25,keyword_signal,,10代・学生,0.6,keyword_signal,修学旅行
 2026-04-18,修学 旅行 英語,80.0,related_queries:rising,5.0,旅行,,修学 旅行 英語,修学|旅行|英語,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,10代・学生,0.6,keyword_signal,修学旅行
 2026-04-18,京都 小学生 行方 不明 旅行,60.0,related_queries:rising,6.0,旅行,,京都 小学生 行方 不明 旅行,京都|小学生|行方|不明|旅行,sudachi,旅行,0.95,keyword_fallback,旅行|京都,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|小学生
-2026-04-18,推し,100.0,related_queries:top,1.0,推し活,,推し,推し,sudachi,芸能・推し,0.8,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,推し 活,98.0,related_queries:top,2.0,推し活,,推し 活,活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,推し 活 リクエスト,9.0,related_queries:top,3.0,推し活,,推し 活 リクエスト,活|リクエスト,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,推し 活 グッズ,7.0,related_queries:top,4.0,推し活,,推し 活 グッズ,活|グッズ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,推し 活 バッグ,6.0,related_queries:top,5.0,推し活,,推し 活 バッグ,活|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,usen 推し 活,5.0,related_queries:top,6.0,推し活,,usen 推し 活,usen|活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,lowya 推し 活 収納,90.0,related_queries:rising,1.0,推し活,,lowya 推し 活 収納,lowya|活|収納,sudachi,住まい・暮らし,0.8,keyword_fallback,収納,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,推し 活 expo,80.0,related_queries:rising,2.0,推し活,,推し 活 expo,活|エキスポ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ビック エコー 推し 活 ルーム,70.0,related_queries:rising,3.0,推し活,,ビック エコー 推し 活 ルーム,ビック|エコー|活|ルーム,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,転生 聖女 は 推し 活 が したい,50.0,related_queries:rising,4.0,推し活,,転生 聖女 は 推し 活 が したい,転生|聖女|活,sudachi,芸能・推し,0.65,keyword_fallback,推し,女性寄り,0.95,keyword_signal,女,世代不明,0.25,keyword_signal,
+2026-04-18,推し,100.0,related_queries:top,1.0,推し活,,推し,推し,sudachi,芸能・推し,0.95,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.5625,keyword_signal,推し活
+2026-04-18,推し 活,98.0,related_queries:top,2.0,推し活,,推し 活,活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,推し 活 リクエスト,9.0,related_queries:top,3.0,推し活,,推し 活 リクエスト,活|リクエスト,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,推し 活 グッズ,7.0,related_queries:top,4.0,推し活,,推し 活 グッズ,活|グッズ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,推し 活 バッグ,6.0,related_queries:top,5.0,推し活,,推し 活 バッグ,活|バッグ,sudachi,ファッション,0.8,keyword_fallback,バッグ,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,usen 推し 活,5.0,related_queries:top,6.0,推し活,,usen 推し 活,usen|活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,lowya 推し 活 収納,90.0,related_queries:rising,1.0,推し活,,lowya 推し 活 収納,lowya|活|収納,sudachi,住まい・暮らし,0.8,keyword_fallback,収納,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,推し 活 expo,80.0,related_queries:rising,2.0,推し活,,推し 活 expo,活|エキスポ,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,ビック エコー 推し 活 ルーム,70.0,related_queries:rising,3.0,推し活,,ビック エコー 推し 活 ルーム,ビック|エコー|活|ルーム,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,推し活
+2026-04-18,転生 聖女 は 推し 活 が したい,50.0,related_queries:rising,4.0,推し活,,転生 聖女 は 推し 活 が したい,転生|聖女|活,sudachi,芸能・推し,0.65,keyword_fallback,推し,女性寄り,0.95,keyword_signal,女,20代,0.6,keyword_signal,推し活
 2026-04-18,音楽 アプリ,100.0,related_queries:top,1.0,音楽,,音楽 アプリ,音楽|アプリ,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,音楽 番組,93.0,related_queries:top,2.0,音楽,,音楽 番組,音楽|番組,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,音楽 無料,92.0,related_queries:top,3.0,音楽,,音楽 無料,音楽|無料,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -129,7 +129,7 @@
 2026-04-18,ゲーム 無料,100.0,related_queries:top,1.0,ゲーム,,ゲーム 無料,ゲーム|無料,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,カード ゲーム,32.0,related_queries:top,2.0,ゲーム,,カード ゲーム,カード|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ゲーム google,21.0,related_queries:top,3.0,ゲーム,,ゲーム google,ゲーム|google,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ゲーム センター,20.0,related_queries:top,4.0,ゲーム,,ゲーム センター,ゲーム|センター,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ゲーム センター,20.0,related_queries:top,4.0,ゲーム,,ゲーム センター,ゲーム|センター,sudachi,遊び・レジャー,0.95,keyword_fallback,ゲームセンター,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ヘビ ゲーム,19.0,related_queries:top,5.0,ゲーム,,ヘビ ゲーム,蛇|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,クレーン ゲーム,18.0,related_queries:top,6.0,ゲーム,,クレーン ゲーム,クレーン|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ポケモン カード ゲーム mega 拡張 パック アビスアイ box,100.0,related_queries:rising,1.0,ゲーム,,ポケモン カード ゲーム mega 拡張 パック アビスアイ box,ポケモン|カード|ゲーム|メガ|拡張|パック|アビスアイ|ボックス,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|ポケモン,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -150,12 +150,12 @@
 2026-04-18,群馬 高校 野球,100.0,related_queries:rising,4.0,野球,,群馬 高校 野球,群馬|高校|野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,10代・学生,0.75,keyword_signal,高校
 2026-04-18,群馬 県 高校 野球,100.0,related_queries:rising,5.0,野球,,群馬 県 高校 野球,群馬|県|高校|野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,10代・学生,0.75,keyword_signal,高校
 2026-04-18,プロ 野球 審判,100.0,related_queries:rising,6.0,野球,,プロ 野球 審判,プロ|野球|審判,sudachi,スポーツ,0.95,keyword_fallback,野球|プロ野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,筋 トレ,100.0,related_queries:top,1.0,筋トレ,,筋 トレ,筋|トレ,sudachi,筋トレ・フィットネス,0.65,keyword_fallback,筋トレ,男性寄り,0.6,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-18,筋 トレ,100.0,related_queries:top,1.0,筋トレ,,筋 トレ,筋|トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.6,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
 2026-04-18,筋 トレ 効果,3.0,related_queries:top,2.0,筋トレ,,筋 トレ 効果,筋|トレ|効果,sudachi,筋トレ・フィットネス,0.65,keyword_fallback,筋トレ,男性寄り,0.6,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
 2026-04-18,胸 筋 筋 トレ,3.0,related_queries:top,3.0,筋トレ,,胸 筋 筋 トレ,胸|筋|トレ,sudachi,筋トレ・フィットネス,0.65,keyword_fallback,筋トレ,男性寄り,0.6,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
 2026-04-18,筋 トレ メニュー,3.0,related_queries:top,4.0,筋トレ,,筋 トレ メニュー,筋|トレ|メニュー,sudachi,筋トレ・フィットネス,0.65,keyword_fallback,筋トレ,男性寄り,0.6,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
 2026-04-18,胸 筋 トレ,3.0,related_queries:top,5.0,筋トレ,,胸 筋 トレ,胸|筋|トレ,sudachi,筋トレ・フィットネス,0.65,keyword_fallback,筋トレ,男性寄り,0.6,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-18,ダンベル,3.0,related_queries:top,6.0,筋トレ,,ダンベル,ダンベル,sudachi,筋トレ・フィットネス,0.9125,keyword_fallback,筋トレ|ダンベル,男性寄り,0.5625,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-18,ダンベル,3.0,related_queries:top,6.0,筋トレ,,ダンベル,ダンベル,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ|ダンベル,男性寄り,0.5625,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
 2026-04-18,健康 保険,100.0,related_queries:top,1.0,健康,,健康 保険,健康|保険,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,健康 診断,82.0,related_queries:top,2.0,健康,,健康 診断,健康|診断,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,国民 健康 保険,39.0,related_queries:top,3.0,健康,,国民 健康 保険,国民|健康|保険,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -188,9 +188,9 @@
 2026-04-18,android スマホ,47.0,related_queries:top,6.0,スマホ,,android スマホ,android|スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ|android,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,スマホ の タッチ 決済 乗車 で 最大 8 還元,100.0,related_queries:rising,1.0,スマホ,,スマホ の タッチ 決済 乗車 で 最大 8 還元,スマホ|タッチ|決済|乗車|最大|8|還元,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,男性寄り,0.6,keyword_signal,車,世代不明,0.25,keyword_signal,
 2026-04-18,スマホ 位置 情報,90.0,related_queries:rising,2.0,スマホ,,スマホ 位置 情報,スマホ|位置|情報,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,マイナビ,100.0,related_queries:top,1.0,転職,,マイナビ,マイナビ,sudachi,仕事・キャリア,0.9125,keyword_fallback,転職|マイナビ,中立・不明,0.25,keyword_signal,,30代,0.5625,keyword_signal,転職
+2026-04-18,マイナビ,100.0,related_queries:top,1.0,転職,,マイナビ,マイナビ,sudachi,仕事・キャリア,0.95,keyword_fallback,転職|マイナビ,中立・不明,0.25,keyword_signal,,30代,0.5625,keyword_signal,転職
 2026-04-18,マイナビ 転職,98.0,related_queries:top,2.0,転職,,マイナビ 転職,マイナビ|転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職|マイナビ,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-18,求人,84.0,related_queries:top,3.0,転職,,求人,求人,sudachi,仕事・キャリア,0.9125,keyword_fallback,転職|求人,中立・不明,0.25,keyword_signal,,30代,0.5625,keyword_signal,転職
+2026-04-18,求人,84.0,related_queries:top,3.0,転職,,求人,求人,sudachi,仕事・キャリア,0.95,keyword_fallback,転職|求人,中立・不明,0.25,keyword_signal,,30代,0.5625,keyword_signal,転職
 2026-04-18,転職 エージェント,76.0,related_queries:top,4.0,転職,,転職 エージェント,転職|エージェント,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
 2026-04-18,転職 面接,72.0,related_queries:top,5.0,転職,,転職 面接,転職|面接,sudachi,仕事・キャリア,0.95,keyword_fallback,転職|面接,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
 2026-04-18,転職 サイト,65.0,related_queries:top,6.0,転職,,転職 サイト,転職|サイト,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
@@ -201,7 +201,7 @@
 2026-04-18,隣 の エンジニア さん が 転職 したい そう です,60.0,related_queries:rising,5.0,転職,,隣 の エンジニア さん が 転職 したい そう です,隣|エンジニア|転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
 2026-04-18,キャリカミ,40.0,related_queries:rising,6.0,転職,,キャリカミ,キャリカミ,sudachi,仕事・キャリア,0.6125,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.5625,keyword_signal,転職
 2026-04-18,英語 勉強,100.0,related_queries:top,1.0,勉強,,英語 勉強,英語|勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強|英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,英語,97.0,related_queries:top,2.0,勉強,,英語,英語,sudachi,学び・資格,0.9125,keyword_fallback,勉強|英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,英語,97.0,related_queries:top,2.0,勉強,,英語,英語,sudachi,学び・資格,0.95,keyword_fallback,勉強|英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,受験 勉強,48.0,related_queries:top,3.0,勉強,,受験 勉強,受験|勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強|受験,中立・不明,0.25,keyword_signal,,10代・学生,0.75,keyword_signal,受験
 2026-04-18,勉強 アプリ,46.0,related_queries:top,4.0,勉強,,勉強 アプリ,勉強|アプリ,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,英語 の 勉強,35.0,related_queries:top,5.0,勉強,,英語 の 勉強,英語|勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強|英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -211,7 +211,7 @@
 2026-04-18,英語 リスニング 勉強 法,50.0,related_queries:rising,3.0,勉強,,英語 リスニング 勉強 法,英語|リスニング|勉強|法,sudachi,学び・資格,0.95,keyword_fallback,勉強|英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,積立 nisa,100.0,related_queries:top,1.0,NISA,,積立 nisa,積み立て|nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,nisa 楽天,72.0,related_queries:top,2.0,NISA,,nisa 楽天,nisa|楽天,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,投資,70.0,related_queries:top,3.0,NISA,,投資,投資,sudachi,お金（投資・節約）,0.9125,keyword_fallback,投資|nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,投資,70.0,related_queries:top,3.0,NISA,,投資,投資,sudachi,お金（投資・節約）,0.95,keyword_fallback,投資|nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,sbi,51.0,related_queries:top,4.0,NISA,,sbi,sbi,sudachi,お金（投資・節約）,0.6125,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,sbi nisa,51.0,related_queries:top,5.0,NISA,,sbi nisa,sbi|nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,nisa 楽天 証券,47.0,related_queries:top,6.0,NISA,,nisa 楽天 証券,nisa|楽天|証券,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -300,20 +300,20 @@
 2026-04-18,就活 会議,76.0,related_queries:top,2.0,就活,,就活 会議,就活|会議,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
 2026-04-18,就活 メール,37.0,related_queries:top,3.0,就活,,就活 メール,就活|メール,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
 2026-04-18,就活 写真,34.0,related_queries:top,4.0,就活,,就活 写真,就活|写真,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-18,就活 イベント,29.0,related_queries:top,5.0,就活,,就活 イベント,就活|イベント,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-18,就活 イベント,29.0,related_queries:top,5.0,就活,,就活 イベント,就活|イベント,sudachi,遊び・レジャー,0.8,keyword_fallback,イベント,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
 2026-04-18,就活 スーツ,26.0,related_queries:top,6.0,就活,,就活 スーツ,就活|スーツ,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
 2026-04-18,ミキワメ 就活,100.0,related_queries:rising,1.0,就活,,ミキワメ 就活,ミキワメ|就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
 2026-04-18,nnt と は 就活,100.0,related_queries:rising,2.0,就活,,nnt と は 就活,nnt|就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
 2026-04-18,在宅,100.0,related_queries:top,1.0,在宅ワーク,,在宅,在宅,sudachi,副業・稼ぐ,0.6125,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,在宅 ワーク,100.0,related_queries:top,2.0,在宅ワーク,,在宅 ワーク,在宅|ワーク,sudachi,副業・稼ぐ,0.65,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,在宅 ワーク,100.0,related_queries:top,2.0,在宅ワーク,,在宅 ワーク,在宅|ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,在宅 ワーク 求人,27.0,related_queries:top,3.0,在宅ワーク,,在宅 ワーク 求人,在宅|ワーク|求人,sudachi,仕事・キャリア,0.8,keyword_fallback,求人,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,求人,26.0,related_queries:top,4.0,在宅ワーク,,求人,求人,sudachi,仕事・キャリア,0.8,keyword_fallback,求人,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,求人,26.0,related_queries:top,4.0,在宅ワーク,,求人,求人,sudachi,仕事・キャリア,0.95,keyword_fallback,求人,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,在宅 ワーク バイト,7.0,related_queries:top,5.0,在宅ワーク,,在宅 ワーク バイト,在宅|ワーク|バイト,sudachi,学校・学生生活,0.8,keyword_fallback,バイト,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,バイト
 2026-04-18,在宅 バイト,7.0,related_queries:top,6.0,在宅ワーク,,在宅 バイト,在宅|バイト,sudachi,学校・学生生活,0.8,keyword_fallback,バイト,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,バイト
 2026-04-18,エン 派遣,60.0,related_queries:rising,1.0,在宅ワーク,,エン 派遣,エン|派遣,sudachi,副業・稼ぐ,0.6125,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,完全 在宅 ワーク 全国 どこでも データ 入力,50.0,related_queries:rising,2.0,在宅ワーク,,完全 在宅 ワーク 全国 どこでも データ 入力,在宅|ワーク|全国|データ|入力,sudachi,副業・稼ぐ,0.65,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,在宅 ワーク 石川 県,50.0,related_queries:rising,3.0,在宅ワーク,,在宅 ワーク 石川 県,在宅|ワーク|石川|県,sudachi,副業・稼ぐ,0.65,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,マッチング アプリ,100.0,related_queries:top,1.0,マッチングアプリ,,マッチング アプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,マッチング アプリ,100.0,related_queries:top,1.0,マッチングアプリ,,マッチング アプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,マッチング,100.0,related_queries:top,2.0,マッチングアプリ,,マッチング,マッチング,sudachi,恋愛,0.6125,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,おすすめ マッチング アプリ,6.0,related_queries:top,3.0,マッチングアプリ,,おすすめ マッチング アプリ,御勧め|マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,無料 マッチング アプリ,4.0,related_queries:top,4.0,マッチングアプリ,,無料 マッチング アプリ,無料|マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -341,7 +341,7 @@
 2026-04-18,トモダチ コレクション キャラ メイク,100.0,related_queries:rising,4.0,メイク,,トモダチ コレクション キャラ メイク,友達|コレクション|キャラ|メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
 2026-04-18,トモコレ キャラ メイク,100.0,related_queries:rising,5.0,メイク,,トモコレ キャラ メイク,トモコレ|キャラ|メーク,sudachi,アニメ・漫画,0.8,keyword_fallback,トモコレ,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
 2026-04-18,rmk メイク レッスン,100.0,related_queries:rising,6.0,メイク,,rmk メイク レッスン,rmk|メーク|レッスン,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-18,コスメ,100.0,related_queries:top,1.0,メンズコスメ,,コスメ,コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-18,コスメ,100.0,related_queries:top,1.0,メンズコスメ,,コスメ,コスメ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
 2026-04-18,メンズ パーマ,14.0,related_queries:top,2.0,メンズコスメ,,メンズ パーマ,メンズ|パーマ,sudachi,ファッション,0.8,keyword_fallback,メンズ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
 2026-04-18,コスメ パーマ,13.0,related_queries:top,3.0,メンズコスメ,,コスメ パーマ,コスメ|パーマ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
 2026-04-18,コスメ パーマ メンズ,13.0,related_queries:top,4.0,メンズコスメ,,コスメ パーマ メンズ,コスメ|パーマ|メンズ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
@@ -359,7 +359,7 @@
 2026-04-18,バウンド コーデ,50.0,related_queries:rising,4.0,コーデ,,バウンド コーデ,バウンド|コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,夏 メンズ コーデ,40.0,related_queries:rising,5.0,コーデ,,夏 メンズ コーデ,夏|メンズ|コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ|メンズ,男性寄り,0.95,keyword_signal,メンズ,世代不明,0.25,keyword_signal,
 2026-04-18,孤独 の グルメ,100.0,related_queries:top,1.0,グルメ,,孤独 の グルメ,孤独|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ホットペッパー,69.0,related_queries:top,2.0,グルメ,,ホットペッパー,ホット|ペッパー,sudachi,食（カフェ・グルメ）,0.7625,keyword_fallback,グルメ|ホットペッパー,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ホットペッパー,69.0,related_queries:top,2.0,グルメ,,ホットペッパー,ホット|ペッパー,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ|ホットペッパー,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ホットペッパー グルメ,68.0,related_queries:top,3.0,グルメ,,ホットペッパー グルメ,ホット|ペッパー|グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ|ホットペッパー,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,せっかく グルメ,22.0,related_queries:top,4.0,グルメ,,せっかく グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,東京 グルメ,20.0,related_queries:top,5.0,グルメ,,東京 グルメ,東京|グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -381,7 +381,7 @@
 2026-04-18,瀬 の 本 高原 ホテル,100.0,related_queries:rising,3.0,ホテル,,瀬 の 本 高原 ホテル,瀬|本|高原|ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ラスト シーン アイドル,100.0,related_queries:top,1.0,アイドル,,ラスト シーン アイドル,ラスト|シーン|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,韓国 アイドル,37.0,related_queries:top,2.0,アイドル,,韓国 アイドル,韓国|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,グラビア,34.0,related_queries:top,3.0,アイドル,,グラビア,グラビア,sudachi,アダルト・性,0.8,keyword_fallback,グラビア,男性寄り,0.75,keyword_signal,グラビア,世代不明,0.25,keyword_signal,
+2026-04-18,グラビア,34.0,related_queries:top,3.0,アイドル,,グラビア,グラビア,sudachi,アダルト・性,0.95,keyword_fallback,グラビア,男性寄り,0.75,keyword_signal,グラビア,世代不明,0.25,keyword_signal,
 2026-04-18,アイドル マスター,34.0,related_queries:top,4.0,アイドル,,アイドル マスター,アイドル|マスター,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,グラビア アイドル,33.0,related_queries:top,5.0,アイドル,,グラビア アイドル,グラビア|アイドル,sudachi,アダルト・性,0.8,keyword_fallback,グラビア,男性寄り,0.75,keyword_signal,グラビア,世代不明,0.25,keyword_signal,
 2026-04-18,地下 アイドル,21.0,related_queries:top,6.0,アイドル,,地下 アイドル,地下|アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -404,7 +404,7 @@
 2026-04-18,ラスト ダンス あなた と 歌詞,100.0,related_queries:rising,5.0,歌詞,,ラスト ダンス あなた と 歌詞,ラスト|ダンス|歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,風 と 町 ミセス 歌詞,100.0,related_queries:rising,6.0,歌詞,,風 と 町 ミセス 歌詞,風|町|ミセス|歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,無料 漫画,100.0,related_queries:top,1.0,漫画,,無料 漫画,無料|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,モモンガ,13.0,related_queries:top,2.0,漫画,,モモンガ,ももんが,sudachi,アニメ・漫画,0.7625,keyword_fallback,漫画|モモンガ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,モモンガ,13.0,related_queries:top,2.0,漫画,,モモンガ,ももんが,sudachi,アニメ・漫画,0.95,keyword_fallback,漫画|モモンガ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,少女 漫画,11.0,related_queries:top,3.0,漫画,,少女 漫画,少女|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,女性寄り,0.95,keyword_signal,女,世代不明,0.25,keyword_signal,
 2026-04-18,異 世界 漫画,9.0,related_queries:top,4.0,漫画,,異 世界 漫画,異|世界|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,九条 の 大罪 漫画,8.0,related_queries:top,5.0,漫画,,九条 の 大罪 漫画,9|条|大罪|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -416,7 +416,7 @@
 2026-04-18,箱 の 男 漫画 ネタバレ,50.0,related_queries:rising,5.0,漫画,,箱 の 男 漫画 ネタバレ,箱|男|漫画|ねたばれ,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,男性寄り,0.95,keyword_signal,男,世代不明,0.25,keyword_signal,
 2026-04-18,コナン 漫画,50.0,related_queries:rising,6.0,漫画,,コナン 漫画,コナン|漫画,sudachi,アニメ・漫画,0.8,keyword_fallback,漫画,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,switch トモコレ,100.0,related_queries:top,1.0,switch,,switch トモコレ,スイッチ|トモコレ,sudachi,ゲーム,0.95,keyword_fallback,switch|トモコレ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,トモコレ,98.0,related_queries:top,2.0,switch,,トモコレ,トモコレ,sudachi,ゲーム,0.9125,keyword_fallback,switch|トモコレ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,トモコレ,98.0,related_queries:top,2.0,switch,,トモコレ,トモコレ,sudachi,ゲーム,0.95,keyword_fallback,switch|トモコレ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,switch ゲーム,70.0,related_queries:top,3.0,switch,,switch ゲーム,スイッチ|ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|switch,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,switch2,67.0,related_queries:top,4.0,switch,,switch2,スイッチ|2,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,nintendo switch,60.0,related_queries:top,5.0,switch,,nintendo switch,nintendo|スイッチ,sudachi,ゲーム,0.65,keyword_fallback,switch,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -452,7 +452,7 @@
 2026-04-18,bz クラブ ジム,60.0,related_queries:rising,5.0,ジム,,bz クラブ ジム,bz|クラブ|ジム,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,ジム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,六島 ジム,60.0,related_queries:rising,6.0,ジム,,六島 ジム,六島|ジム,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,ジム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,大学 病院,100.0,related_queries:top,1.0,病院,,大学 病院,大学|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,大学
-2026-04-18,動物 病院,99.0,related_queries:top,2.0,病院,,動物 病院,動物|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,動物 病院,99.0,related_queries:top,2.0,病院,,動物 病院,動物|病院,sudachi,ペット,0.95,keyword_fallback,動物病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,中央 病院,78.0,related_queries:top,3.0,病院,,中央 病院,中央|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,市立 病院,40.0,related_queries:top,4.0,病院,,市立 病院,市|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,市民 病院,37.0,related_queries:top,5.0,病院,,市民 病院,市民|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -461,7 +461,7 @@
 2026-04-18,市立 野洲 病院,100.0,related_queries:rising,2.0,病院,,市立 野洲 病院,市|野洲|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,上尾 中央 総合 病院 看護 師,100.0,related_queries:rising,3.0,病院,,上尾 中央 総合 病院 看護 師,上尾|中央|総合|病院|看護|師,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,上尾 中央 総合 病院 炎上,100.0,related_queries:rising,4.0,病院,,上尾 中央 総合 病院 炎上,上尾|中央|総合|病院|炎上,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,上尾 中央 総合 病院 sns,100.0,related_queries:rising,5.0,病院,,上尾 中央 総合 病院 sns,上尾|中央|総合|病院|sns,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,上尾 中央 総合 病院 sns,100.0,related_queries:rising,5.0,病院,,上尾 中央 総合 病院 sns,上尾|中央|総合|病院|sns,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,sns
 2026-04-18,上尾 中央 総合 病院,100.0,related_queries:rising,6.0,病院,,上尾 中央 総合 病院,上尾|中央|総合|病院,sudachi,健康・医療,0.8,keyword_fallback,病院,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ロード バイク,100.0,related_queries:top,1.0,バイク,,ロード バイク,ロード|バイク,sudachi,車・バイク,0.8,keyword_fallback,バイク,男性寄り,0.75,keyword_signal,バイク,世代不明,0.25,keyword_signal,
 2026-04-18,バイク 中古,51.0,related_queries:top,2.0,バイク,,バイク 中古,バイク|中古,sudachi,車・バイク,0.8,keyword_fallback,バイク,男性寄り,0.75,keyword_signal,バイク,世代不明,0.25,keyword_signal,
@@ -498,14 +498,14 @@
 2026-04-18,英語 単語,8.0,related_queries:top,4.0,英語,,英語 単語,英語|単語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,翻訳 英語 日本 語,5.0,related_queries:top,5.0,英語,,翻訳 英語 日本 語,翻訳|英語|日本|語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,英語 ノート,5.0,related_queries:top,6.0,英語,,英語 ノート,英語|ノート,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,youtube 英語 に なる,100.0,related_queries:rising,1.0,英語,,youtube 英語 に なる,youtube|英語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,youtube 英語 に なる,100.0,related_queries:rising,1.0,英語,,youtube 英語 に なる,youtube|英語,sudachi,SNS・ネット文化,0.8,keyword_fallback,youtube,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,nhk ラジオ ビジネス 英語,100.0,related_queries:rising,2.0,英語,,nhk ラジオ ビジネス 英語,nhk|ラジオ|ビジネス|英語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,オムライス 英語,70.0,related_queries:rising,3.0,英語,,オムライス 英語,オムライス|英語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,英語 ノート,70.0,related_queries:rising,4.0,英語,,英語 ノート,英語|ノート,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,バレーボール 英語,70.0,related_queries:rising,5.0,英語,,バレーボール 英語,バレーボール|英語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,たけのこ 英語,60.0,related_queries:rising,6.0,英語,,たけのこ 英語,竹の子|英語,sudachi,学び・資格,0.8,keyword_fallback,英語,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,投資 信託,100.0,related_queries:top,1.0,投資,,投資 信託,投資|信託,sudachi,お金（投資・節約）,0.8,keyword_fallback,投資,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,nisa,31.0,related_queries:top,2.0,投資,,nisa,nisa,sudachi,お金（投資・節約）,0.9125,keyword_fallback,投資|nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,nisa,31.0,related_queries:top,2.0,投資,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,投資|nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,株式 投資,24.0,related_queries:top,3.0,投資,,株式 投資,株式|投資,sudachi,お金（投資・節約）,0.95,keyword_fallback,投資|株,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,成長 投資 枠,21.0,related_queries:top,4.0,投資,,成長 投資 枠,成長|投資|枠,sudachi,お金（投資・節約）,0.8,keyword_fallback,投資,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,不動産 投資,18.0,related_queries:top,5.0,投資,,不動産 投資,不動産|投資,sudachi,お金（投資・節約）,0.8,keyword_fallback,投資,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -574,7 +574,7 @@
 2026-04-18,yahoo ニュース,30.0,related_queries:top,2.0,ニュース,,yahoo ニュース,ヤフー|ニュース,sudachi,日常・雑談,0.8,keyword_fallback,ニュース,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ニュース 速報,21.0,related_queries:top,3.0,ニュース,,ニュース 速報,ニュース,sudachi,日常・雑談,0.8,keyword_fallback,ニュース,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ウェザー ニュース,21.0,related_queries:top,4.0,ニュース,,ウェザー ニュース,ウェザー|ニュース,sudachi,日常・雑談,0.8,keyword_fallback,ニュース,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ニュース ライブドア,13.0,related_queries:top,5.0,ニュース,,ニュース ライブドア,ニュース|ライブドア,sudachi,日常・雑談,0.8,keyword_fallback,ニュース,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ニュース ライブドア,13.0,related_queries:top,5.0,ニュース,,ニュース ライブドア,ニュース|ライブドア,sudachi,日常・雑談,0.8,keyword_fallback,ニュース,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,ライブ
 2026-04-18,京都 ニュース,11.0,related_queries:top,6.0,ニュース,,京都 ニュース,京都|ニュース,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ニュース 京都 小学生 行方 不明 父親,100.0,related_queries:rising,1.0,ニュース,,ニュース 京都 小学生 行方 不明 父親,ニュース|京都|小学生|行方|不明|父親,sudachi,学校・学生生活,0.95,keyword_fallback,学生|小学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|小学生
 2026-04-18,ニュース 京都 小学生 行方 不明,100.0,related_queries:rising,2.0,ニュース,,ニュース 京都 小学生 行方 不明,ニュース|京都|小学生|行方|不明,sudachi,学校・学生生活,0.95,keyword_fallback,学生|小学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|小学生
@@ -582,7 +582,7 @@
 2026-04-18,京都 ニュース,100.0,related_queries:rising,4.0,ニュース,,京都 ニュース,京都|ニュース,sudachi,旅行,0.8,keyword_fallback,京都,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,仰天 ニュース,100.0,related_queries:rising,5.0,ニュース,,仰天 ニュース,仰天|ニュース,sudachi,日常・雑談,0.8,keyword_fallback,ニュース,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,京都 小学生 行方 不明 最新 ニュース,100.0,related_queries:rising,6.0,ニュース,,京都 小学生 行方 不明 最新 ニュース,京都|小学生|行方|不明|ニュース,sudachi,学校・学生生活,0.95,keyword_fallback,学生|小学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|小学生
-2026-04-18,大学,100.0,related_queries:top,1.0,大学受験,,大学,大学,sudachi,学び・資格,0.9125,keyword_fallback,受験|大学,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,大学
+2026-04-18,大学,100.0,related_queries:top,1.0,大学受験,,大学,大学,sudachi,学び・資格,0.95,keyword_fallback,受験|大学,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,大学
 2026-04-18,高校 受験,8.0,related_queries:top,2.0,大学受験,,高校 受験,高校|受験,sudachi,学び・資格,0.9125,keyword_fallback,受験|大学,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校|受験|大学受験
 2026-04-18,大学 受験 偏差 値,7.0,related_queries:top,3.0,大学受験,,大学 受験 偏差 値,大学|受験|偏差|値,sudachi,学び・資格,0.95,keyword_fallback,受験|大学,中立・不明,0.25,keyword_signal,,10代・学生,0.8999999999999999,keyword_signal,受験|大学受験
 2026-04-18,大学 受験 塾,6.0,related_queries:top,4.0,大学受験,,大学 受験 塾,大学|受験|塾,sudachi,学び・資格,0.95,keyword_fallback,受験|大学,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,受験|大学受験|塾
@@ -593,14 +593,14 @@
 2026-04-18,新卒 求人,15.0,related_queries:top,3.0,新卒,,新卒 求人,新卒|求人,sudachi,仕事・キャリア,0.95,keyword_fallback,求人|新卒,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,新卒 初任 給,11.0,related_queries:top,4.0,新卒,,新卒 初任 給,新卒|初任,sudachi,仕事・キャリア,0.95,keyword_fallback,新卒|初任給,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒|初任給
 2026-04-18,マイナビ 新卒,8.0,related_queries:top,5.0,新卒,,マイナビ 新卒,マイナビ|新卒,sudachi,仕事・キャリア,0.95,keyword_fallback,新卒|マイナビ,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
-2026-04-18,マイナビ,8.0,related_queries:top,6.0,新卒,,マイナビ,マイナビ,sudachi,仕事・キャリア,0.9125,keyword_fallback,新卒|マイナビ,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
+2026-04-18,マイナビ,8.0,related_queries:top,6.0,新卒,,マイナビ,マイナビ,sudachi,仕事・キャリア,0.95,keyword_fallback,新卒|マイナビ,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,sansan 新卒,60.0,related_queries:rising,1.0,新卒,,sansan 新卒,sansan|新卒,sudachi,仕事・キャリア,0.8,keyword_fallback,新卒,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,ニトリ 新卒 採用,60.0,related_queries:rising,2.0,新卒,,ニトリ 新卒 採用,ニトリ|新卒|採用,sudachi,仕事・キャリア,0.95,keyword_fallback,新卒|採用,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,ニトリ 新卒,60.0,related_queries:rising,3.0,新卒,,ニトリ 新卒,ニトリ|新卒,sudachi,仕事・キャリア,0.8,keyword_fallback,新卒,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,東京 エレクトロン 新卒,50.0,related_queries:rising,4.0,新卒,,東京 エレクトロン 新卒,東京|エレクトロン|新卒,sudachi,仕事・キャリア,0.8,keyword_fallback,新卒,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,toto 新卒 採用,50.0,related_queries:rising,5.0,新卒,,toto 新卒 採用,toto|新卒|採用,sudachi,仕事・キャリア,0.95,keyword_fallback,新卒|採用,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
 2026-04-18,nri 新卒,40.0,related_queries:rising,6.0,新卒,,nri 新卒,nri|新卒,sudachi,仕事・キャリア,0.8,keyword_fallback,新卒,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,新卒
-2026-04-18,ポイ 活,100.0,related_queries:top,1.0,ポイ活,,ポイ 活,活,sudachi,副業・稼ぐ,0.65,keyword_fallback,ポイ活,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ポイ 活,100.0,related_queries:top,1.0,ポイ活,,ポイ 活,活,sudachi,副業・稼ぐ,0.95,keyword_fallback,ポイ活,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ポイ 活 アプリ,10.0,related_queries:top,2.0,ポイ活,,ポイ 活 アプリ,活|アプリ,sudachi,副業・稼ぐ,0.65,keyword_fallback,ポイ活,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,おすすめ ポイ 活,9.0,related_queries:top,3.0,ポイ活,,おすすめ ポイ 活,御勧め|活,sudachi,副業・稼ぐ,0.65,keyword_fallback,ポイ活,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ポイ 活 ゲーム,6.0,related_queries:top,4.0,ポイ活,,ポイ 活 ゲーム,活|ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -622,10 +622,10 @@
 2026-04-18,京都 デート スポット,50.0,related_queries:rising,4.0,デート,,京都 デート スポット,京都|デート|スポット,sudachi,恋愛,0.8,keyword_fallback,デート,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,fanza ゲーム,100.0,related_queries:top,1.0,FANZA,,fanza ゲーム,fanza|ゲーム,sudachi,アダルト・性,0.8,keyword_fallback,fanza,男性寄り,0.75,keyword_signal,fanza,世代不明,0.25,keyword_signal,
 2026-04-18,fanza vr,79.0,related_queries:top,2.0,FANZA,,fanza vr,fanza|vr,sudachi,アダルト・性,0.95,keyword_fallback,av|fanza,男性寄り,0.8999999999999999,keyword_signal,av|fanza,世代不明,0.25,keyword_signal,
-2026-04-18,デコルテ,100.0,related_queries:top,1.0,コスメ,,デコルテ,デコルテ,sudachi,美容・メイク,0.9125,keyword_fallback,コスメ|デコルテ,女性寄り,0.5625,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
+2026-04-18,デコルテ,100.0,related_queries:top,1.0,コスメ,,デコルテ,デコルテ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.5625,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
 2026-04-18,コスメ デコルテ,93.0,related_queries:top,2.0,コスメ,,コスメ デコルテ,コスメ|デコルテ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.75,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
 2026-04-18,アット コスメ,85.0,related_queries:top,3.0,コスメ,,アット コスメ,アット|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
-2026-04-18,韓国 コスメ,23.0,related_queries:top,4.0,コスメ,,韓国 コスメ,韓国|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
+2026-04-18,韓国 コスメ,23.0,related_queries:top,4.0,コスメ,,韓国 コスメ,韓国|コスメ,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|韓国コスメ,女性寄り,0.75,keyword_signal,コスメ,20代,0.6,keyword_signal,韓国コスメ
 2026-04-18,コスメ キッチン,21.0,related_queries:top,5.0,コスメ,,コスメ キッチン,コスメ|キッチン,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
 2026-04-18,コスメ デコルテ パウダー,20.0,related_queries:top,6.0,コスメ,,コスメ デコルテ パウダー,コスメ|デコルテ|パウダー,sudachi,美容・メイク,0.95,keyword_fallback,コスメ|デコルテ,女性寄り,0.75,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
 2026-04-18,コスメ キッチン 巾着,100.0,related_queries:rising,1.0,コスメ,,コスメ キッチン 巾着,コスメ|キッチン|巾着,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,女性寄り,0.75,keyword_signal,コスメ,世代不明,0.25,keyword_signal,
@@ -638,7 +638,7 @@
 2026-04-18,メンズエミナル,1.0,related_queries:top,2.0,ひげ脱毛,,メンズエミナル,メンズエミナル,sudachi,メンズ美容・身だしなみ,0.725,keyword_fallback,ひげ|ひげ脱毛,男性寄り,0.95,keyword_signal,メンズ|ひげ,世代不明,0.25,keyword_signal,
 2026-04-18,メンズエミナル,50.0,related_queries:rising,1.0,ひげ脱毛,,メンズエミナル,メンズエミナル,sudachi,メンズ美容・身だしなみ,0.725,keyword_fallback,ひげ|ひげ脱毛,男性寄り,0.95,keyword_signal,メンズ|ひげ,世代不明,0.25,keyword_signal,
 2026-04-18,スニーカー レディース,100.0,related_queries:top,1.0,スニーカー,,スニーカー レディース,スニーカー|レディース,sudachi,ファッション,0.95,keyword_fallback,スニーカー|レディース,女性寄り,0.95,keyword_signal,レディース,世代不明,0.25,keyword_signal,
-2026-04-18,ニューバランス,69.0,related_queries:top,2.0,スニーカー,,ニューバランス,ニュー|バランス,sudachi,ファッション,0.7625,keyword_fallback,スニーカー|ニューバランス,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ニューバランス,69.0,related_queries:top,2.0,スニーカー,,ニューバランス,ニュー|バランス,sudachi,ファッション,0.95,keyword_fallback,スニーカー|ニューバランス,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ニューバランス スニーカー,68.0,related_queries:top,3.0,スニーカー,,ニューバランス スニーカー,ニュー|バランス|スニーカー,sudachi,ファッション,0.95,keyword_fallback,スニーカー|ニューバランス,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,メンズ スニーカー,65.0,related_queries:top,4.0,スニーカー,,メンズ スニーカー,メンズ|スニーカー,sudachi,ファッション,0.95,keyword_fallback,スニーカー|メンズ,男性寄り,0.95,keyword_signal,メンズ,世代不明,0.25,keyword_signal,
 2026-04-18,nike,50.0,related_queries:top,5.0,スニーカー,,nike,ナイキ,sudachi,ファッション,0.6125,keyword_fallback,スニーカー,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -667,18 +667,18 @@
 2026-04-18,草津 温泉,38.0,related_queries:top,4.0,温泉,,草津 温泉,草津|温泉,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,温泉 近く,31.0,related_queries:top,5.0,温泉,,温泉 近く,温泉|近く,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,有馬 温泉,30.0,related_queries:top,6.0,温泉,,有馬 温泉,有馬|温泉,sudachi,旅行,0.8,keyword_fallback,温泉,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,bts ライブ,100.0,related_queries:top,1.0,ライブ,,bts ライブ,bts|ライブ,sudachi,芸能・推し,0.95,keyword_fallback,ライブ|bts,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ライブ カメラ,95.0,related_queries:top,2.0,ライブ,,ライブ カメラ,ライブ|カメラ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ライブ チャット,82.0,related_queries:top,3.0,ライブ,,ライブ チャット,ライブ|チャット,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ライブ ビュー イング,51.0,related_queries:top,4.0,ライブ,,ライブ ビュー イング,ライブ|イング,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,bts ライブ ビュー イング,39.0,related_queries:top,5.0,ライブ,,bts ライブ ビュー イング,bts|ライブ|イング,sudachi,芸能・推し,0.95,keyword_fallback,ライブ|bts,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ブック ライブ,33.0,related_queries:top,6.0,ライブ,,ブック ライブ,ブック|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,情報 ライブ ミヤネ 屋,100.0,related_queries:rising,1.0,ライブ,,情報 ライブ ミヤネ 屋,情報|ライブ|ミヤネ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,なにわ 男子 ライブ 2026,100.0,related_queries:rising,2.0,ライブ,,なにわ 男子 ライブ 2026,なにわ|男子|ライブ|2026,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,男性寄り,0.95,keyword_signal,男,世代不明,0.25,keyword_signal,
-2026-04-18,クイズ レット ライブ,100.0,related_queries:rising,3.0,ライブ,,クイズ レット ライブ,クイズ|レット|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,桐生 競艇 ライブ,100.0,related_queries:rising,4.0,ライブ,,桐生 競艇 ライブ,桐生|競艇|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,桐生 ライブ,100.0,related_queries:rising,5.0,ライブ,,桐生 ライブ,桐生|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,なにわ 男子 ライブ,100.0,related_queries:rising,6.0,ライブ,,なにわ 男子 ライブ,なにわ|男子|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,男性寄り,0.95,keyword_signal,男,世代不明,0.25,keyword_signal,
+2026-04-18,bts ライブ,100.0,related_queries:top,1.0,ライブ,,bts ライブ,bts|ライブ,sudachi,芸能・推し,0.95,keyword_fallback,ライブ|bts,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,ライブ カメラ,95.0,related_queries:top,2.0,ライブ,,ライブ カメラ,ライブ|カメラ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,ライブ チャット,82.0,related_queries:top,3.0,ライブ,,ライブ チャット,ライブ|チャット,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,ライブ ビュー イング,51.0,related_queries:top,4.0,ライブ,,ライブ ビュー イング,ライブ|イング,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,bts ライブ ビュー イング,39.0,related_queries:top,5.0,ライブ,,bts ライブ ビュー イング,bts|ライブ|イング,sudachi,芸能・推し,0.95,keyword_fallback,ライブ|bts,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,ブック ライブ,33.0,related_queries:top,6.0,ライブ,,ブック ライブ,ブック|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,情報 ライブ ミヤネ 屋,100.0,related_queries:rising,1.0,ライブ,,情報 ライブ ミヤネ 屋,情報|ライブ|ミヤネ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,なにわ 男子 ライブ 2026,100.0,related_queries:rising,2.0,ライブ,,なにわ 男子 ライブ 2026,なにわ|男子|ライブ|2026,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,男性寄り,0.95,keyword_signal,男,20代,0.75,keyword_signal,ライブ
+2026-04-18,クイズ レット ライブ,100.0,related_queries:rising,3.0,ライブ,,クイズ レット ライブ,クイズ|レット|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,桐生 競艇 ライブ,100.0,related_queries:rising,4.0,ライブ,,桐生 競艇 ライブ,桐生|競艇|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,桐生 ライブ,100.0,related_queries:rising,5.0,ライブ,,桐生 ライブ,桐生|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,ライブ
+2026-04-18,なにわ 男子 ライブ,100.0,related_queries:rising,6.0,ライブ,,なにわ 男子 ライブ,なにわ|男子|ライブ,sudachi,芸能・推し,0.8,keyword_fallback,ライブ,男性寄り,0.95,keyword_signal,男,20代,0.75,keyword_signal,ライブ
 2026-04-18,日本 アーティスト,100.0,related_queries:top,1.0,アーティスト,,日本 アーティスト,日本|アーチスト,sudachi,音楽,0.65,keyword_fallback,アーティスト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,海外 アーティスト,60.0,related_queries:top,2.0,アーティスト,,海外 アーティスト,海外|アーチスト,sudachi,音楽,0.65,keyword_fallback,アーティスト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,女性 アーティスト,49.0,related_queries:top,3.0,アーティスト,,女性 アーティスト,女性|アーチスト,sudachi,音楽,0.65,keyword_fallback,アーティスト,女性寄り,0.95,keyword_signal,女性|女,世代不明,0.25,keyword_signal,
@@ -705,7 +705,7 @@
 2026-04-18,ハロウィン の 花嫁 クリスティーヌ 声優,100.0,related_queries:rising,6.0,声優,,ハロウィン の 花嫁 クリスティーヌ 声優,ハロウィーン|花嫁|クリスティーヌ|声優,sudachi,アニメ・漫画,0.8,keyword_fallback,声優,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ps5 ゲーム,100.0,related_queries:top,1.0,ps5,,ps5 ゲーム,ps|5|ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム|ps5,男性寄り,0.6,keyword_signal,ps5,世代不明,0.25,keyword_signal,
 2026-04-18,ps5 コントローラー,87.0,related_queries:top,2.0,ps5,,ps5 コントローラー,ps|5|コントローラー,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5,世代不明,0.25,keyword_signal,
-2026-04-18,ps4,46.0,related_queries:top,3.0,ps5,,ps4,ps|4,sudachi,ゲーム,0.7625,keyword_fallback,ps5|ps4,男性寄り,0.7125,keyword_signal,ps5|ps4,世代不明,0.25,keyword_signal,
+2026-04-18,ps4,46.0,related_queries:top,3.0,ps5,,ps4,ps|4,sudachi,ゲーム,0.95,keyword_fallback,ps5|ps4,男性寄り,0.7125,keyword_signal,ps5|ps4,世代不明,0.25,keyword_signal,
 2026-04-18,ps5 ソフト,45.0,related_queries:top,4.0,ps5,,ps5 ソフト,ps|5|ソフト,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5,世代不明,0.25,keyword_signal,
 2026-04-18,ps5 おすすめ,44.0,related_queries:top,5.0,ps5,,ps5 おすすめ,ps|5|御勧め,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5,世代不明,0.25,keyword_signal,
 2026-04-18,ps5 pro,31.0,related_queries:top,6.0,ps5,,ps5 pro,ps|5|プロ,sudachi,ゲーム,0.65,keyword_fallback,ps5,男性寄り,0.6,keyword_signal,ps5,世代不明,0.25,keyword_signal,
@@ -742,7 +742,7 @@
 2026-04-18,風邪 薬,100.0,related_queries:top,1.0,薬,,風邪 薬,風邪|薬,sudachi,健康・医療,0.8,keyword_fallback,薬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,花粉 薬,89.0,related_queries:top,2.0,薬,,花粉 薬,花粉|薬,sudachi,健康・医療,0.8,keyword_fallback,薬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,妊娠 検査 薬,74.0,related_queries:top,3.0,薬,,妊娠 検査 薬,妊娠|検査|薬,sudachi,健康・医療,0.8,keyword_fallback,薬,女性寄り,0.75,keyword_signal,妊娠,30代,0.95,keyword_signal,妊娠
-2026-04-18,花粉 症,73.0,related_queries:top,4.0,薬,,花粉 症,花粉,sudachi,健康・医療,0.7625,keyword_fallback,薬|花粉症,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,花粉 症,73.0,related_queries:top,4.0,薬,,花粉 症,花粉,sudachi,健康・医療,0.95,keyword_fallback,薬|花粉症,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,花粉 症 薬,66.0,related_queries:top,5.0,薬,,花粉 症 薬,花粉|薬,sudachi,健康・医療,0.95,keyword_fallback,薬|花粉症,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,頭痛 薬,53.0,related_queries:top,6.0,薬,,頭痛 薬,頭痛|薬,sudachi,健康・医療,0.95,keyword_fallback,薬|頭痛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ピジョン 鼻 づまり 改善 薬,100.0,related_queries:rising,1.0,薬,,ピジョン 鼻 づまり 改善 薬,ピジョン|鼻|詰まり|改善|薬,sudachi,健康・医療,0.8,keyword_fallback,薬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -843,7 +843,7 @@
 2026-04-18,adidas ペット 服,100.0,related_queries:rising,4.0,ペット,,adidas ペット 服,アディダス|ペット|服,sudachi,ファッション,0.8,keyword_fallback,服,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,adidas ペット,100.0,related_queries:rising,5.0,ペット,,adidas ペット,アディダス|ペット,sudachi,ペット,0.8,keyword_fallback,ペット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,アディダス ペット,100.0,related_queries:rising,6.0,ペット,,アディダス ペット,アディダス|ペット,sudachi,ペット,0.8,keyword_fallback,ペット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,占い,100.0,related_queries:top,1.0,タロット,,占い,占い,sudachi,占い・スピリチュアル,0.9125,keyword_fallback,占い|タロット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,占い,100.0,related_queries:top,1.0,タロット,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い|タロット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,タロット 占い,100.0,related_queries:top,2.0,タロット,,タロット 占い,タロット|占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い|タロット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,タロット カード,46.0,related_queries:top,3.0,タロット,,タロット カード,タロット|カード,sudachi,占い・スピリチュアル,0.8,keyword_fallback,タロット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,タロット 無料,27.0,related_queries:top,4.0,タロット,,タロット 無料,タロット|無料,sudachi,占い・スピリチュアル,0.8,keyword_fallback,タロット,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
@@ -880,7 +880,7 @@
 2026-04-18,notion 学割,70.0,related_queries:rising,5.0,学割,,notion 学割,notion|学割,sudachi,学校・学生生活,0.8,keyword_fallback,学割,中立・不明,0.25,keyword_signal,,10代・学生,0.75,keyword_signal,学割
 2026-04-18,新幹線 学割 使い方,70.0,related_queries:rising,6.0,学割,,新幹線 学割 使い方,新幹線|学割|使い方,sudachi,旅行,0.8,keyword_fallback,新幹線,中立・不明,0.25,keyword_signal,,10代・学生,0.75,keyword_signal,学割
 2026-04-18,一人暮らし 賃貸,100.0,related_queries:top,1.0,一人暮らし,,一人暮らし 賃貸,独り暮らし|賃貸,sudachi,住まい・暮らし,0.95,keyword_fallback,一人暮らし|賃貸,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,一人暮らし
-2026-04-18,賃貸,100.0,related_queries:top,2.0,一人暮らし,,賃貸,賃貸,sudachi,住まい・暮らし,0.9125,keyword_fallback,一人暮らし|賃貸,中立・不明,0.25,keyword_signal,,20代,0.5625,keyword_signal,一人暮らし
+2026-04-18,賃貸,100.0,related_queries:top,2.0,一人暮らし,,賃貸,賃貸,sudachi,住まい・暮らし,0.95,keyword_fallback,一人暮らし|賃貸,中立・不明,0.25,keyword_signal,,20代,0.5625,keyword_signal,一人暮らし
 2026-04-18,一人暮らし 冷蔵庫,49.0,related_queries:top,3.0,一人暮らし,,一人暮らし 冷蔵庫,独り暮らし|冷蔵庫,sudachi,住まい・暮らし,0.65,keyword_fallback,一人暮らし,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,一人暮らし
 2026-04-18,冷蔵庫,48.0,related_queries:top,4.0,一人暮らし,,冷蔵庫,冷蔵庫,sudachi,住まい・暮らし,0.6125,keyword_fallback,一人暮らし,中立・不明,0.25,keyword_signal,,20代,0.5625,keyword_signal,一人暮らし
 2026-04-18,一人暮らし 家賃,46.0,related_queries:top,5.0,一人暮らし,,一人暮らし 家賃,独り暮らし|家賃,sudachi,住まい・暮らし,0.8,keyword_fallback,家|一人暮らし,中立・不明,0.25,keyword_signal,,20代,0.6,keyword_signal,一人暮らし
@@ -894,13 +894,13 @@
 2026-04-18,アフィリエイト リンク,11.0,related_queries:top,6.0,アフィリエイト,,アフィリエイト リンク,アフィリエイト|リンク,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,ピンタレスト アフィリエイト,100.0,related_queries:rising,1.0,アフィリエイト,,ピンタレスト アフィリエイト,ピンタ|レスト|アフィリエイト,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,note アフィリエイト 禁止,100.0,related_queries:rising,2.0,アフィリエイト,,note アフィリエイト 禁止,note|アフィリエイト|禁止,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,youtube ショート アフィリエイト 邪魔,100.0,related_queries:rising,3.0,アフィリエイト,,youtube ショート アフィリエイト 邪魔,youtube|ショート|アフィリエイト|邪魔,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,youtube アフィリエイト 邪魔,80.0,related_queries:rising,4.0,アフィリエイト,,youtube アフィリエイト 邪魔,youtube|アフィリエイト|邪魔,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,youtube ショート アフィリエイト,60.0,related_queries:rising,5.0,アフィリエイト,,youtube ショート アフィリエイト,youtube|ショート|アフィリエイト,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,youtube ショート アフィリエイト 邪魔,100.0,related_queries:rising,3.0,アフィリエイト,,youtube ショート アフィリエイト 邪魔,youtube|ショート|アフィリエイト|邪魔,sudachi,SNS・ネット文化,0.8,keyword_fallback,youtube,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,youtube アフィリエイト 邪魔,80.0,related_queries:rising,4.0,アフィリエイト,,youtube アフィリエイト 邪魔,youtube|アフィリエイト|邪魔,sudachi,SNS・ネット文化,0.8,keyword_fallback,youtube,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,youtube ショート アフィリエイト,60.0,related_queries:rising,5.0,アフィリエイト,,youtube ショート アフィリエイト,youtube|ショート|アフィリエイト,sudachi,SNS・ネット文化,0.8,keyword_fallback,youtube,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,アフィリエイト 危ない,50.0,related_queries:rising,6.0,アフィリエイト,,アフィリエイト 危ない,アフィリエイト,sudachi,副業・稼ぐ,0.8,keyword_fallback,アフィリエイト,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,婚 活 パーティー,100.0,related_queries:top,1.0,婚活,,婚 活 パーティー,婚|活|パーティー,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
 2026-04-18,婚 活 アプリ,32.0,related_queries:top,2.0,婚活,,婚 活 アプリ,婚|活|アプリ,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
-2026-04-18,婚 活 イベント,20.0,related_queries:top,3.0,婚活,,婚 活 イベント,婚|活|イベント,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
+2026-04-18,婚 活 イベント,20.0,related_queries:top,3.0,婚活,,婚 活 イベント,婚|活|イベント,sudachi,遊び・レジャー,0.8,keyword_fallback,イベント,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
 2026-04-18,婚 活 ブログ,19.0,related_queries:top,4.0,婚活,,婚 活 ブログ,婚|活|ブログ,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
 2026-04-18,婚 活 ツアー,19.0,related_queries:top,5.0,婚活,,婚 活 ツアー,婚|活|ツアー,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
 2026-04-18,婚 活 バス ツアー,17.0,related_queries:top,6.0,婚活,,婚 活 バス ツアー,婚|活|バス|ツアー,sudachi,恋愛,0.65,keyword_fallback,婚活,女性寄り,0.6,keyword_signal,婚活,30代,0.6,keyword_signal,婚活
@@ -914,333 +914,333 @@
 2026-04-18,博 多彩 葉,45.0,related_queries:top,2.0,AV,,博 多彩 葉,博|葉,sudachi,アダルト・性,0.6125,keyword_fallback,av,男性寄り,0.5625,keyword_signal,av,世代不明,0.25,keyword_signal,
 2026-04-18,スキンケア クリニック,100.0,related_queries:top,1.0,スキンケア,,スキンケア クリニック,スキンケア|クリニック,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,スキンケア おすすめ,83.0,related_queries:top,2.0,スキンケア,,スキンケア おすすめ,スキンケア|御勧め,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
-2026-04-18,化粧 水,66.0,related_queries:top,3.0,スキンケア,,化粧 水,化粧|水,sudachi,美容・メイク,0.7625,keyword_fallback,スキンケア|化粧水,女性寄り,0.7125,keyword_signal,スキンケア|化粧水,世代不明,0.25,keyword_signal,
+2026-04-18,化粧 水,66.0,related_queries:top,3.0,スキンケア,,化粧 水,化粧|水,sudachi,美容・メイク,0.95,keyword_fallback,スキンケア|化粧水,女性寄り,0.7125,keyword_signal,スキンケア|化粧水,世代不明,0.25,keyword_signal,
 2026-04-18,スキンケア クリーム,63.0,related_queries:top,4.0,スキンケア,,スキンケア クリーム,スキンケア|クリーム,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,スキンケア メンズ,58.0,related_queries:top,5.0,スキンケア,,スキンケア メンズ,スキンケア|メンズ,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,男性寄り,0.95,keyword_signal,メンズ,世代不明,0.25,keyword_signal,
 2026-04-18,スキンケア 順番,50.0,related_queries:top,6.0,スキンケア,,スキンケア 順番,スキンケア|順番,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
-2026-04-18,ラロッシュポゼ,60.0,related_queries:rising,1.0,スキンケア,,ラロッシュポゼ,ラロッシュポゼ,sudachi,美容・メイク,0.9125,keyword_fallback,スキンケア|ラロッシュポゼ,女性寄り,0.5625,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
+2026-04-18,ラロッシュポゼ,60.0,related_queries:rising,1.0,スキンケア,,ラロッシュポゼ,ラロッシュポゼ,sudachi,美容・メイク,0.95,keyword_fallback,スキンケア|ラロッシュポゼ,女性寄り,0.5625,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,松山 油脂,60.0,related_queries:rising,2.0,スキンケア,,松山 油脂,松山|油脂,sudachi,美容・メイク,0.6125,keyword_fallback,スキンケア,女性寄り,0.5625,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,アネッサ 日焼け 止め,50.0,related_queries:rising,3.0,スキンケア,,アネッサ 日焼け 止め,アネッサ|日焼け,sudachi,美容・メイク,0.6125,keyword_fallback,スキンケア,女性寄り,0.5625,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,タカミ スキン ピール,50.0,related_queries:rising,4.0,スキンケア,,タカミ スキン ピール,タカミ|スキン|ピール,sudachi,美容・メイク,0.6125,keyword_fallback,スキンケア,女性寄り,0.5625,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,スキンケア クリーム ティント,50.0,related_queries:rising,5.0,スキンケア,,スキンケア クリーム ティント,スキンケア|クリーム|ティント,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
 2026-04-18,錦糸 町 スキンケア クリニック,50.0,related_queries:rising,6.0,スキンケア,,錦糸 町 スキンケア クリニック,錦糸|町|スキンケア|クリニック,sudachi,美容・メイク,0.8,keyword_fallback,スキンケア,女性寄り,0.75,keyword_signal,スキンケア,世代不明,0.25,keyword_signal,
-2026-04-11,NISA,43.42,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,アイドル,4.74,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,アダルト,42.74,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-11,アニメ,65.79,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,エロ,53.79,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-11,カフェ,63.42,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,グルメ,3.47,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,ゲーム,62.11,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,コーデ,3.84,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,スマホ,45.16,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,ファッション,9.26,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,ホテル,41.58,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,マッチングアプリ,0.53,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,メイク,2.16,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-11,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-11,メンズ美容,1.0,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-11,NISA,43.42,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,アイドル,4.74,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,アダルト,42.74,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-11,アニメ,65.79,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,エロ,53.79,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-11,カフェ,63.42,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,グルメ,3.47,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,ゲーム,62.11,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,コーデ,3.84,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,スマホ,45.16,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,ファッション,9.26,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,ホテル,41.58,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,マッチングアプリ,0.53,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,メイク,2.16,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-11,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-11,メンズ美容,1.0,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-11,中学生,0.95,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-11,健康,14.68,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,副業,2.37,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,勉強,65.89,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,占い,1.11,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,健康,14.68,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,副業,2.37,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,勉強,65.89,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,占い,1.11,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-11,大学生,5.79,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-11,天気,21.68,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-11,引っ越し,36.63,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,恋愛,11.84,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,推し活,1.11,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,政治,21.26,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,旅行,22.89,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,天気,21.68,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-11,引っ越し,36.63,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,恋愛,11.84,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,推し活,1.11,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-11,政治,21.26,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,旅行,22.89,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-11,歌詞,19.68,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,犬,2.37,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,筋トレ,6.95,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-11,美容,33.74,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,育児,12.74,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-11,車,86.11,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-11,転職,6.74,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-11,野球,53.26,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,音楽,13.0,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-11,高校生,11.68,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-12,NISA,45.96,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,アイドル,4.79,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,アダルト,35.83,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-12,アニメ,57.46,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,エロ,48.42,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-12,カフェ,63.0,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,グルメ,4.38,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,ゲーム,56.88,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,コーデ,3.5,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,スマホ,45.54,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,ファッション,8.46,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,ホテル,30.42,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,マッチングアプリ,0.46,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,メイク,1.96,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-12,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-12,メンズ美容,0.96,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-11,犬,2.37,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,筋トレ,6.95,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-11,美容,33.74,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,育児,12.74,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-11,車,86.11,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-11,転職,6.74,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-11,野球,53.26,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,音楽,13.0,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-11,高校生,11.68,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-12,NISA,45.96,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,アイドル,4.79,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,アダルト,35.83,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-12,アニメ,57.46,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,エロ,48.42,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-12,カフェ,63.0,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,グルメ,4.38,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,ゲーム,56.88,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,コーデ,3.5,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,スマホ,45.54,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,ファッション,8.46,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,ホテル,30.42,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,マッチングアプリ,0.46,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,メイク,1.96,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-12,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-12,メンズ美容,0.96,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-12,中学生,0.83,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-12,健康,17.46,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,副業,2.46,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,勉強,74.92,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,占い,1.33,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,健康,17.46,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,副業,2.46,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,勉強,74.92,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,占い,1.33,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-12,大学生,5.88,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-12,天気,23.58,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-12,引っ越し,40.92,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,恋愛,10.38,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,推し活,1.08,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,政治,22.38,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,旅行,23.54,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,天気,23.58,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-12,引っ越し,40.92,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,恋愛,10.38,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,推し活,1.08,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-12,政治,22.38,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,旅行,23.54,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-12,歌詞,17.96,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,犬,2.38,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,筋トレ,7.29,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-12,美容,32.92,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,育児,13.62,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-12,車,85.25,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-12,転職,8.0,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-12,野球,49.88,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,音楽,13.38,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-12,高校生,10.79,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-13,NISA,47.12,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,アイドル,8.38,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,アダルト,36.04,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-13,アニメ,48.25,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,エロ,44.25,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-13,カフェ,52.29,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,グルメ,2.96,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,ゲーム,50.71,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,コーデ,2.88,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,スマホ,41.12,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,ファッション,7.33,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,ホテル,29.83,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,マッチングアプリ,0.38,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,メイク,1.79,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-13,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-13,メンズ美容,1.08,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-12,犬,2.38,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,筋トレ,7.29,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-12,美容,32.92,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,育児,13.62,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-12,車,85.25,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-12,転職,8.0,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-12,野球,49.88,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,音楽,13.38,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-12,高校生,10.79,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-13,NISA,47.12,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,アイドル,8.38,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,アダルト,36.04,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-13,アニメ,48.25,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,エロ,44.25,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-13,カフェ,52.29,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,グルメ,2.96,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,ゲーム,50.71,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,コーデ,2.88,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,スマホ,41.12,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,ファッション,7.33,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,ホテル,29.83,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,マッチングアプリ,0.38,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,メイク,1.79,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-13,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-13,メンズ美容,1.08,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-13,中学生,0.46,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-13,健康,25.71,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,副業,2.42,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,勉強,71.08,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,占い,1.21,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,健康,25.71,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,副業,2.42,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,勉強,71.08,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,占い,1.21,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-13,大学生,5.54,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-13,天気,23.92,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-13,引っ越し,39.17,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,恋愛,9.0,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,推し活,0.96,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,政治,28.62,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,旅行,23.12,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,天気,23.92,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-13,引っ越し,39.17,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,恋愛,9.0,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,推し活,0.96,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-13,政治,28.62,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,旅行,23.12,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-13,歌詞,15.5,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,犬,2.12,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,筋トレ,7.21,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-13,美容,30.54,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,育児,19.62,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-13,車,76.08,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-13,転職,9.79,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-13,野球,30.67,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,音楽,12.21,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-13,高校生,9.67,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-14,NISA,51.42,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,アイドル,4.12,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,アダルト,36.0,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-14,アニメ,55.04,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,エロ,44.79,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-14,カフェ,51.58,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,グルメ,2.83,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,ゲーム,51.58,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,コーデ,2.83,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,スマホ,41.08,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,ファッション,7.5,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,ホテル,32.67,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,マッチングアプリ,0.38,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,メイク,1.75,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-14,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-14,メンズ美容,1.0,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-13,犬,2.12,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,筋トレ,7.21,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-13,美容,30.54,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,育児,19.62,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-13,車,76.08,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-13,転職,9.79,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-13,野球,30.67,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,音楽,12.21,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-13,高校生,9.67,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-14,NISA,51.42,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,アイドル,4.12,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,アダルト,36.0,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-14,アニメ,55.04,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,エロ,44.79,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-14,カフェ,51.58,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,グルメ,2.83,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,ゲーム,51.58,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,コーデ,2.83,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,スマホ,41.08,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,ファッション,7.5,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,ホテル,32.67,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,マッチングアプリ,0.38,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,メイク,1.75,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-14,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-14,メンズ美容,1.0,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-14,中学生,0.54,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-14,健康,24.42,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,副業,2.75,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,勉強,71.29,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,占い,1.12,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,健康,24.42,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,副業,2.75,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,勉強,71.29,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,占い,1.12,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-14,大学生,6.38,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-14,天気,29.75,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-14,引っ越し,37.21,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,恋愛,8.88,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,政治,30.38,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,旅行,22.54,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,天気,29.75,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-14,引っ越し,37.21,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,恋愛,8.88,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-14,政治,30.38,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,旅行,22.54,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-14,歌詞,15.79,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,犬,2.08,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,筋トレ,6.96,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-14,美容,31.46,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,育児,20.29,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-14,車,72.96,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-14,転職,9.58,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-14,野球,40.33,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,音楽,12.42,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-14,高校生,9.83,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-15,NISA,51.08,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,アイドル,3.75,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,アダルト,35.21,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-15,アニメ,55.42,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,エロ,43.92,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-15,カフェ,51.92,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,グルメ,2.75,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,ゲーム,52.08,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,コーデ,2.88,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,スマホ,40.38,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,ファッション,7.5,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,ホテル,29.88,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,マッチングアプリ,0.42,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,メイク,1.88,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-15,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-15,メンズ美容,0.96,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-14,犬,2.08,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,筋トレ,6.96,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-14,美容,31.46,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,育児,20.29,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-14,車,72.96,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-14,転職,9.58,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-14,野球,40.33,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,音楽,12.42,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-14,高校生,9.83,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-15,NISA,51.08,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,アイドル,3.75,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,アダルト,35.21,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-15,アニメ,55.42,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,エロ,43.92,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-15,カフェ,51.92,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,グルメ,2.75,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,ゲーム,52.08,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,コーデ,2.88,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,スマホ,40.38,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,ファッション,7.5,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,ホテル,29.88,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,マッチングアプリ,0.42,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,メイク,1.88,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-15,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-15,メンズ美容,0.96,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-15,中学生,0.75,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-15,健康,23.92,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,副業,2.58,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,勉強,69.83,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,占い,1.12,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,健康,23.92,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,副業,2.58,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,勉強,69.83,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,占い,1.12,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-15,大学生,5.42,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-15,天気,26.75,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-15,引っ越し,35.0,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,恋愛,9.33,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,政治,28.71,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,旅行,23.17,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,天気,26.75,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-15,引っ越し,35.0,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,恋愛,9.33,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-15,政治,28.71,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,旅行,23.17,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-15,歌詞,16.12,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,犬,2.08,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,筋トレ,6.83,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-15,美容,31.96,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,育児,20.12,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-15,車,74.33,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-15,転職,9.67,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-15,野球,35.17,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,音楽,12.08,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-15,高校生,9.62,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-16,NISA,56.79,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,アイドル,3.92,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,アダルト,35.42,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-16,アニメ,49.96,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,エロ,44.08,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-16,カフェ,53.42,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,グルメ,3.08,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,ゲーム,53.0,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,コーデ,3.12,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,スマホ,40.42,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,ファッション,7.75,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,ホテル,29.33,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,マッチングアプリ,0.38,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,メイク,1.96,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-16,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-16,メンズ美容,0.96,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-15,犬,2.08,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,筋トレ,6.83,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-15,美容,31.96,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,育児,20.12,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-15,車,74.33,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-15,転職,9.67,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-15,野球,35.17,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,音楽,12.08,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-15,高校生,9.62,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-16,NISA,56.79,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,アイドル,3.92,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,アダルト,35.42,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-16,アニメ,49.96,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,エロ,44.08,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-16,カフェ,53.42,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,グルメ,3.08,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,ゲーム,53.0,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,コーデ,3.12,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,スマホ,40.42,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,ファッション,7.75,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,ホテル,29.33,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,マッチングアプリ,0.38,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,メイク,1.96,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-16,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-16,メンズ美容,0.96,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-16,中学生,0.71,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-16,健康,24.21,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,副業,2.58,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,勉強,68.58,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,占い,1.12,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,健康,24.21,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,副業,2.58,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,勉強,68.58,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,占い,1.12,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-16,大学生,5.12,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-16,天気,20.04,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-16,引っ越し,35.38,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,恋愛,9.75,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,政治,27.96,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,旅行,22.58,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,天気,20.04,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-16,引っ越し,35.38,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,恋愛,9.75,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-16,政治,27.96,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,旅行,22.58,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-16,歌詞,16.17,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,犬,2.0,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,筋トレ,6.62,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-16,美容,32.21,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,育児,19.04,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-16,車,75.21,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-16,転職,9.5,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-16,野球,38.08,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,音楽,12.96,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-16,高校生,9.79,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-17,NISA,51.62,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,アイドル,4.0,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,アダルト,35.96,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-17,アニメ,49.83,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,エロ,45.79,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-17,カフェ,56.38,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,グルメ,3.38,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,ゲーム,55.54,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,コーデ,3.17,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,スマホ,39.12,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,ファッション,7.62,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,ホテル,29.67,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,マッチングアプリ,0.33,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,メイク,1.96,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-17,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-17,メンズ美容,1.0,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-16,犬,2.0,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,筋トレ,6.62,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-16,美容,32.21,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,育児,19.04,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-16,車,75.21,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-16,転職,9.5,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-16,野球,38.08,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,音楽,12.96,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-16,高校生,9.79,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-17,NISA,51.62,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,アイドル,4.0,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,アダルト,35.96,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-17,アニメ,49.83,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,エロ,45.79,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-17,カフェ,56.38,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,グルメ,3.38,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,ゲーム,55.54,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,コーデ,3.17,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,スマホ,39.12,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,ファッション,7.62,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,ホテル,29.67,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,マッチングアプリ,0.33,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,メイク,1.96,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-17,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-17,メンズ美容,1.0,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-17,中学生,0.46,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-17,健康,21.54,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,副業,2.12,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,勉強,60.33,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,占い,1.0,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,健康,21.54,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,副業,2.12,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,勉強,60.33,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,占い,1.0,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-17,大学生,4.67,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-17,天気,21.33,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-17,引っ越し,32.29,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,恋愛,9.33,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,政治,23.5,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,旅行,21.08,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,天気,21.33,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-17,引っ越し,32.29,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,恋愛,9.33,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-17,政治,23.5,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,旅行,21.08,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-17,歌詞,16.58,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,犬,2.04,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,筋トレ,5.92,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-17,美容,30.92,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,育児,17.38,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-17,車,76.17,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-17,転職,8.04,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-17,野球,40.62,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,音楽,11.75,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-17,高校生,9.04,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
-2026-04-18,NISA,50.0,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.8,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,アイドル,3.17,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.8,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,アダルト,21.17,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.8,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
-2026-04-18,アニメ,40.33,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.8,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,エロ,31.83,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.8,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
-2026-04-18,カフェ,85.33,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,グルメ,4.33,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.8,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ゲーム,58.83,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.8,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,コーデ,3.67,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.8,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,スマホ,43.5,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.8,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ファッション,8.17,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.8,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,ホテル,30.83,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.8,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,マッチングアプリ,0.0,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.65,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,メイク,2.0,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.65,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
-2026-04-18,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,美容・メイク,0.8,keyword_fallback,コスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
-2026-04-18,メンズ美容,1.17,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
+2026-04-17,犬,2.04,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,筋トレ,5.92,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-17,美容,30.92,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,育児,17.38,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-17,車,76.17,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-17,転職,8.04,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-17,野球,40.62,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,音楽,11.75,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-17,高校生,9.04,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-18,NISA,50.0,interest_over_time,,,,nisa,nisa,sudachi,お金（投資・節約）,0.95,keyword_fallback,nisa,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,アイドル,3.17,interest_over_time,,,,アイドル,アイドル,sudachi,芸能・推し,0.95,keyword_fallback,アイドル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,アダルト,21.17,interest_over_time,,,,アダルト,アダルト,sudachi,アダルト・性,0.95,keyword_fallback,アダルト,男性寄り,0.75,keyword_signal,アダルト,世代不明,0.25,keyword_signal,
+2026-04-18,アニメ,40.33,interest_over_time,,,,アニメ,アニメ,sudachi,アニメ・漫画,0.95,keyword_fallback,アニメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,エロ,31.83,interest_over_time,,,,エロ,エロ,sudachi,アダルト・性,0.95,keyword_fallback,エロ,男性寄り,0.75,keyword_signal,エロ,世代不明,0.25,keyword_signal,
+2026-04-18,カフェ,85.33,interest_over_time,,,,カフェ,カフェ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,カフェ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,グルメ,4.33,interest_over_time,,,,グルメ,グルメ,sudachi,食（カフェ・グルメ）,0.95,keyword_fallback,グルメ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ゲーム,58.83,interest_over_time,,,,ゲーム,ゲーム,sudachi,ゲーム,0.95,keyword_fallback,ゲーム,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,コーデ,3.67,interest_over_time,,,,コーデ,コーデ,sudachi,ファッション,0.95,keyword_fallback,コーデ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,スマホ,43.5,interest_over_time,,,,スマホ,スマホ,sudachi,ガジェット・家電,0.95,keyword_fallback,スマホ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ファッション,8.17,interest_over_time,,,,ファッション,ファッション,sudachi,ファッション,0.95,keyword_fallback,ファッション,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,ホテル,30.83,interest_over_time,,,,ホテル,ホテル,sudachi,旅行,0.95,keyword_fallback,ホテル,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,マッチングアプリ,0.0,interest_over_time,,,,マッチングアプリ,マッチング|アプリ,sudachi,恋愛,0.95,keyword_fallback,マッチングアプリ,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,メイク,2.0,interest_over_time,,,,メイク,メーク,sudachi,美容・メイク,0.95,keyword_fallback,メイク,女性寄り,0.6,keyword_signal,メイク,世代不明,0.25,keyword_signal,
+2026-04-18,メンズコスメ,0.0,interest_over_time,,,,メンズコスメ,メンズ|コスメ,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズコスメ,男性寄り,0.95,keyword_signal,メンズ|メンズコスメ,世代不明,0.25,keyword_signal,
+2026-04-18,メンズ美容,1.17,interest_over_time,,,,メンズ美容,メンズ|美容,sudachi,メンズ美容・身だしなみ,0.95,keyword_fallback,メンズ美容,男性寄り,0.95,keyword_signal,メンズ|メンズ美容,世代不明,0.25,keyword_signal,
 2026-04-18,中学生,1.0,interest_over_time,,,,中学生,中学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|中学生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,学生|中学生
-2026-04-18,健康,17.0,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.8,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,副業,2.0,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.8,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,勉強,64.17,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.8,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,占い,1.0,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.8,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.8,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,健康,17.0,interest_over_time,,,,健康,健康,sudachi,健康・医療,0.95,keyword_fallback,健康,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,副業,2.0,interest_over_time,,,,副業,副業,sudachi,副業・稼ぐ,0.95,keyword_fallback,副業,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,勉強,64.17,interest_over_time,,,,勉強,勉強,sudachi,学び・資格,0.95,keyword_fallback,勉強,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,占い,1.0,interest_over_time,,,,占い,占い,sudachi,占い・スピリチュアル,0.95,keyword_fallback,占い,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,在宅ワーク,0.0,interest_over_time,,,,在宅ワーク,在宅ワーク,sudachi,副業・稼ぐ,0.95,keyword_fallback,在宅ワーク,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,大学生,4.0,interest_over_time,,,,大学生,大学生,sudachi,学校・学生生活,0.95,keyword_fallback,学生|大学生,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,大学生|大学
-2026-04-18,天気,15.5,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.8,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.8,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
-2026-04-18,引っ越し,37.67,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.8,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,恋愛,7.33,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.8,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,政治,19.67,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.8,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,旅行,21.17,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.8,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,天気,15.5,interest_over_time,,,,天気,天気,sudachi,日常・雑談,0.95,keyword_fallback,天気,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,就活,0.0,interest_over_time,,,,就活,就活,sudachi,仕事・キャリア,0.95,keyword_fallback,就活,中立・不明,0.25,keyword_signal,,20代,0.95,keyword_signal,就活
+2026-04-18,引っ越し,37.67,interest_over_time,,,,引っ越し,引っ越し,sudachi,住まい・暮らし,0.95,keyword_fallback,引っ越し,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,恋愛,7.33,interest_over_time,,,,恋愛,恋愛,sudachi,恋愛,0.95,keyword_fallback,恋愛,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,推し活,1.0,interest_over_time,,,,推し活,推し活,sudachi,芸能・推し,0.65,keyword_fallback,推し,中立・不明,0.25,keyword_signal,,20代,0.75,keyword_signal,推し活
+2026-04-18,政治,19.67,interest_over_time,,,,政治,政治,sudachi,政治・社会,0.95,keyword_fallback,政治,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,旅行,21.17,interest_over_time,,,,旅行,旅行,sudachi,旅行,0.95,keyword_fallback,旅行,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
 2026-04-18,歌詞,15.5,interest_over_time,,,,歌詞,歌詞,sudachi,音楽,0.95,keyword_fallback,歌|歌詞,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,犬,2.0,interest_over_time,,,,犬,犬,sudachi,ペット,0.8,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,筋トレ,5.5,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.8,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
-2026-04-18,美容,35.5,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.8,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,育児,12.17,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.8,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
-2026-04-18,車,89.67,interest_over_time,,,,車,車,sudachi,車・バイク,0.8,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
-2026-04-18,転職,6.17,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.8,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
-2026-04-18,野球,59.83,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.8,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,音楽,12.67,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.8,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
-2026-04-18,高校生,9.33,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.8,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校
+2026-04-18,犬,2.0,interest_over_time,,,,犬,犬,sudachi,ペット,0.95,keyword_fallback,犬,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,筋トレ,5.5,interest_over_time,,,,筋トレ,筋トレ,sudachi,筋トレ・フィットネス,0.95,keyword_fallback,筋トレ,男性寄り,0.75,keyword_signal,筋トレ,世代不明,0.25,keyword_signal,
+2026-04-18,美容,35.5,interest_over_time,,,,美容,美容,sudachi,美容・メイク,0.95,keyword_fallback,美容,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,育児,12.17,interest_over_time,,,,育児,育児,sudachi,育児・家庭,0.95,keyword_fallback,育児,女性寄り,0.75,keyword_signal,育児,30代,0.75,keyword_signal,育児
+2026-04-18,車,89.67,interest_over_time,,,,車,車,sudachi,車・バイク,0.95,keyword_fallback,車,男性寄り,0.75,keyword_signal,車,世代不明,0.25,keyword_signal,
+2026-04-18,転職,6.17,interest_over_time,,,,転職,転職,sudachi,仕事・キャリア,0.95,keyword_fallback,転職,中立・不明,0.25,keyword_signal,,30代,0.75,keyword_signal,転職
+2026-04-18,野球,59.83,interest_over_time,,,,野球,野球,sudachi,スポーツ,0.95,keyword_fallback,野球,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,音楽,12.67,interest_over_time,,,,音楽,音楽,sudachi,音楽,0.95,keyword_fallback,音楽,中立・不明,0.25,keyword_signal,,世代不明,0.25,keyword_signal,
+2026-04-18,高校生,9.33,interest_over_time,,,,高校生,高校生,sudachi,学校・学生生活,0.95,keyword_fallback,高校生,中立・不明,0.25,keyword_signal,,10代・学生,0.95,keyword_signal,高校生|高校

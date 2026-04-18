@@ -104,7 +104,10 @@ class KeywordTopicClassifier:
                 if not keyword_pattern:
                     continue
                 compact_pattern = _compact(keyword_pattern)
-                if keyword_pattern in token_set:
+                if keyword_pattern == text or compact_pattern == compact_text:
+                    score += 3.0
+                    matches.append(keyword_pattern)
+                elif keyword_pattern in token_set:
                     score += 2.0
                     matches.append(keyword_pattern)
                 elif compact_pattern in compact_token_set:

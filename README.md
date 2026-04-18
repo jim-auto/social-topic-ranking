@@ -190,6 +190,8 @@ python -m src.main --input data/sample_trends.csv --build-site
 - 健康・医療
 - 車・バイク
 - ガジェット・家電
+- SNS・ネット文化
+- 遊び・レジャー
 - 学校・学生生活
 - 副業・稼ぐ
 - 学び・資格
