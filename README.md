@@ -194,4 +194,5 @@ python -m src.main --input data/sample_trends.csv --build-site
 - 育児・家庭
 - 政治・社会
 - ペット
+- 占い・スピリチュアル
 - アダルト・性

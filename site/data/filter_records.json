@@ -9,8 +9,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "バイト 副業",
-    "score": 82.0,
+    "keyword": "副業 バイト",
+    "score": 80.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -18,23 +18,15 @@
   {
     "date": "2026-04-18",
     "keyword": "バイト",
-    "score": 82.0,
+    "score": 79.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "おすすめ 副業",
-    "score": 71.0,
-    "topic": "副業・稼ぐ",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "確定 申告 副業",
-    "score": 64.0,
+    "keyword": "副業 おすすめ",
+    "score": 62.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -42,14 +34,22 @@
   {
     "date": "2026-04-18",
     "keyword": "確定 申告",
-    "score": 58.0,
+    "score": 57.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "fiverr",
+    "keyword": "副業 確定 申告",
+    "score": 56.0,
+    "topic": "副業・稼ぐ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "google マップ 副業",
     "score": 100.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -65,7 +65,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "google マップ 副業",
+    "keyword": "fiverr",
     "score": 100.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -74,7 +74,7 @@
   {
     "date": "2026-04-18",
     "keyword": "自衛隊 副業",
-    "score": 100.0,
+    "score": 90.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -82,7 +82,7 @@
   {
     "date": "2026-04-18",
     "keyword": "自衛 官 副業",
-    "score": 60.0,
+    "score": 80.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -105,23 +105,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "mbti",
-    "score": 89.0,
-    "topic": "恋愛",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "恋愛 病院",
-    "score": 89.0,
-    "topic": "恋愛",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "恋愛 mbti",
+    "keyword": "mbti 恋愛",
     "score": 88.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -129,8 +113,24 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "mbti",
+    "score": 87.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "恋愛 病院",
+    "score": 84.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "恋愛 タイプ",
-    "score": 68.0,
+    "score": 67.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -194,7 +194,7 @@
   {
     "date": "2026-04-18",
     "keyword": "無料 動画",
-    "score": 42.0,
+    "score": 43.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -202,7 +202,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アダルト グッズ",
-    "score": 4.0,
+    "score": 5.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -226,7 +226,7 @@
   {
     "date": "2026-04-18",
     "keyword": "湘南 美容",
-    "score": 87.0,
+    "score": 86.0,
     "topic": "美容・メイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -234,7 +234,7 @@
   {
     "date": "2026-04-18",
     "keyword": "美容 クリニック",
-    "score": 75.0,
+    "score": 69.0,
     "topic": "美容・メイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -242,15 +242,7 @@
   {
     "date": "2026-04-18",
     "keyword": "湘南 美容 外科",
-    "score": 57.0,
-    "topic": "美容・メイク",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "美容 学校",
-    "score": 31.0,
+    "score": 58.0,
     "topic": "美容・メイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -258,7 +250,15 @@
   {
     "date": "2026-04-18",
     "keyword": "美容 皮膚 科",
-    "score": 29.0,
+    "score": 30.0,
+    "topic": "美容・メイク",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "美容 学校",
+    "score": 30.0,
     "topic": "美容・メイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -267,6 +267,30 @@
     "date": "2026-04-18",
     "keyword": "安達 結 希 母親 美容 師",
     "score": 100.0,
+    "topic": "美容・メイク",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ビオルチア まつ毛 美容 液",
+    "score": 90.0,
+    "topic": "美容・メイク",
+    "audience_segment": "女性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "美容 師 英語",
+    "score": 40.0,
+    "topic": "美容・メイク",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "エレン 美容 室",
+    "score": 40.0,
     "topic": "美容・メイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -282,7 +306,7 @@
   {
     "date": "2026-04-18",
     "keyword": "美容 室 メンズ",
-    "score": 46.0,
+    "score": 51.0,
     "topic": "美容・メイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -290,7 +314,7 @@
   {
     "date": "2026-04-18",
     "keyword": "美容 室",
-    "score": 46.0,
+    "score": 50.0,
     "topic": "美容・メイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -298,7 +322,7 @@
   {
     "date": "2026-04-18",
     "keyword": "美容 院 メンズ",
-    "score": 39.0,
+    "score": 42.0,
     "topic": "美容・メイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -306,7 +330,7 @@
   {
     "date": "2026-04-18",
     "keyword": "美容 院",
-    "score": 37.0,
+    "score": 40.0,
     "topic": "美容・メイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -314,15 +338,23 @@
   {
     "date": "2026-04-18",
     "keyword": "メンズ カット",
-    "score": 9.0,
+    "score": 10.0,
     "topic": "ファッション",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "豊橋 美容 院 メンズ",
+    "keyword": "天王寺 美容 院 メンズ",
     "score": 100.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "四日市 美容 院 メンズ",
+    "score": 40.0,
     "topic": "美容・メイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -338,7 +370,7 @@
   {
     "date": "2026-04-18",
     "keyword": "楽天 ファッション",
-    "score": 84.0,
+    "score": 81.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -346,7 +378,7 @@
   {
     "date": "2026-04-18",
     "keyword": "レディース ファッション",
-    "score": 48.0,
+    "score": 46.0,
     "topic": "ファッション",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -354,7 +386,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ファッション ブランド",
-    "score": 47.0,
+    "score": 45.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -370,14 +402,30 @@
   {
     "date": "2026-04-18",
     "keyword": "女性 ファッション",
-    "score": 28.0,
+    "score": 26.0,
     "topic": "ファッション",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
+    "keyword": "ビーチ ファッション で 水着 の 上 から 巻く 大判 の 布 を 何 という",
+    "score": 100.0,
+    "topic": "アダルト・性",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "nigo ファッション",
+    "score": 100.0,
+    "topic": "ファッション",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "今田 美桜 ファッション",
     "score": 100.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
@@ -393,26 +441,10 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "今田 美桜 ファッション",
-    "score": 100.0,
-    "topic": "ファッション",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "楽天 ファッション cm",
     "score": 100.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "楽天 ファッション cm 女優",
-    "score": 100.0,
-    "topic": "ファッション",
-    "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
   },
   {
@@ -434,15 +466,15 @@
   {
     "date": "2026-04-18",
     "keyword": "コン カフェ",
-    "score": 41.0,
+    "score": 40.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "カフェ 近く",
-    "score": 38.0,
+    "keyword": "近く カフェ",
+    "score": 39.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -450,14 +482,14 @@
   {
     "date": "2026-04-18",
     "keyword": "カフェ オレ",
-    "score": 25.0,
+    "score": 26.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "京都 カフェ",
+    "keyword": "コラボ カフェ",
     "score": 22.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
@@ -530,7 +562,7 @@
   {
     "date": "2026-04-18",
     "keyword": "海外 旅行",
-    "score": 93.0,
+    "score": 89.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -538,7 +570,7 @@
   {
     "date": "2026-04-18",
     "keyword": "旅行 おすすめ",
-    "score": 56.0,
+    "score": 55.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -546,15 +578,7 @@
   {
     "date": "2026-04-18",
     "keyword": "日本 旅行",
-    "score": 40.0,
-    "topic": "旅行",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "旅行 保険",
-    "score": 37.0,
+    "score": 41.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -562,6 +586,14 @@
   {
     "date": "2026-04-18",
     "keyword": "韓国",
+    "score": 35.0,
+    "topic": "旅行",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "韓国 旅行",
     "score": 33.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
@@ -602,14 +634,6 @@
   {
     "date": "2026-04-18",
     "keyword": "修学 旅行 英語",
-    "score": 90.0,
-    "topic": "旅行",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "旅行 業務 従事 者",
     "score": 80.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
@@ -617,7 +641,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "推し",
+    "keyword": "京都 小学生 行方 不明 旅行",
+    "score": 60.0,
+    "topic": "旅行",
+    "audience_segment": "中立・不明",
+    "generation_segment": "10代・学生"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "推し 活",
     "score": 100.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
@@ -625,8 +657,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "推し 活",
-    "score": 99.0,
+    "keyword": "推し",
+    "score": 98.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -665,22 +697,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "lowya 推し 活 収納",
-    "score": 100.0,
-    "topic": "住まい・暮らし",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "joysound 推し 活 ルーム",
-    "score": 100.0,
-    "topic": "芸能・推し",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "推し 活 expo",
     "score": 100.0,
     "topic": "芸能・推し",
@@ -689,16 +705,32 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ビック エコー 推し 活 ルーム",
-    "score": 50.0,
-    "topic": "芸能・推し",
+    "keyword": "lowya 推し 活 収納",
+    "score": 100.0,
+    "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
     "keyword": "百 均 推し 活 グッズ",
-    "score": 50.0,
+    "score": 60.0,
+    "topic": "芸能・推し",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "joysound 推し 活 ルーム",
+    "score": 60.0,
+    "topic": "芸能・推し",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ビック エコー 推し 活 ルーム",
+    "score": 60.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -714,7 +746,7 @@
   {
     "date": "2026-04-18",
     "keyword": "音楽 番組",
-    "score": 90.0,
+    "score": 93.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -722,7 +754,7 @@
   {
     "date": "2026-04-18",
     "keyword": "音楽 無料",
-    "score": 88.0,
+    "score": 89.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -730,7 +762,7 @@
   {
     "date": "2026-04-18",
     "keyword": "youtube 音楽",
-    "score": 84.0,
+    "score": 85.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -746,7 +778,7 @@
   {
     "date": "2026-04-18",
     "keyword": "音楽 用語",
-    "score": 63.0,
+    "score": 62.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -785,7 +817,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "日本 音楽 著作 権 協会",
+    "keyword": "トモコレ わくわく 生活 音楽 堂",
     "score": 100.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
@@ -793,7 +825,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "トモコレ わくわく 生活 音楽 堂",
+    "keyword": "日本 音楽 著作 権 協会",
     "score": 100.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
@@ -810,14 +842,6 @@
   {
     "date": "2026-04-18",
     "keyword": "アニメ 2026",
-    "score": 84.0,
-    "topic": "アニメ・漫画",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "コナン アニメ",
     "score": 78.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
@@ -826,15 +850,23 @@
   {
     "date": "2026-04-18",
     "keyword": "アニメ 映画",
-    "score": 68.0,
+    "score": 73.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
+    "keyword": "コナン アニメ",
+    "score": 71.0,
+    "topic": "アニメ・漫画",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "d アニメ ストア",
-    "score": 46.0,
+    "score": 44.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -842,7 +874,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アニメ ランキング",
-    "score": 38.0,
+    "score": 37.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -889,7 +921,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "逃げ 上手 の 若君",
+    "keyword": "逃げ 上手 の 若君 アニメ",
     "score": 100.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
@@ -897,7 +929,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "無料 ゲーム",
+    "keyword": "ゲーム 無料",
     "score": 100.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
@@ -906,14 +938,14 @@
   {
     "date": "2026-04-18",
     "keyword": "カード ゲーム",
-    "score": 33.0,
+    "score": 34.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ゲーム google",
+    "keyword": "google ゲーム",
     "score": 22.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
@@ -922,7 +954,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ゲーム センター",
-    "score": 22.0,
+    "score": 21.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -938,7 +970,15 @@
   {
     "date": "2026-04-18",
     "keyword": "クレーン ゲーム",
-    "score": 18.0,
+    "score": 17.0,
+    "topic": "ゲーム",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ポケモン カード ゲーム mega 拡張 パック アビスアイ box",
+    "score": 100.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -962,14 +1002,6 @@
   {
     "date": "2026-04-18",
     "keyword": "ソ連 ゲーム",
-    "score": 100.0,
-    "topic": "ゲーム",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "タイピング ゲーム",
     "score": 100.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
@@ -1002,7 +1034,7 @@
   {
     "date": "2026-04-18",
     "keyword": "高校 野球",
-    "score": 47.0,
+    "score": 51.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
@@ -1010,7 +1042,7 @@
   {
     "date": "2026-04-18",
     "keyword": "野球 速報",
-    "score": 33.0,
+    "score": 35.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1018,7 +1050,7 @@
   {
     "date": "2026-04-18",
     "keyword": "プロ 野球 速報",
-    "score": 21.0,
+    "score": 23.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1033,8 +1065,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "春季 大会 高校 野球",
-    "score": 9.0,
+    "keyword": "高校 野球 春季 大会",
+    "score": 10.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
@@ -1065,6 +1097,14 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "群馬 高校 野球",
+    "score": 100.0,
+    "topic": "スポーツ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "10代・学生"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "群馬 県 高校 野球",
     "score": 100.0,
     "topic": "スポーツ",
@@ -1073,19 +1113,11 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "山口 県 高校 野球",
+    "keyword": "プロ 野球 審判",
     "score": 100.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
-    "generation_segment": "10代・学生"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "埼玉 県 高校 野球 春季 大会 2026",
-    "score": 100.0,
-    "topic": "スポーツ",
-    "audience_segment": "中立・不明",
-    "generation_segment": "10代・学生"
+    "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
@@ -1113,7 +1145,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "胸 筋 トレ",
+    "keyword": "筋 トレ メニュー",
     "score": 3.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "男性寄り",
@@ -1121,7 +1153,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "筋 トレ メニュー",
+    "keyword": "胸 筋 トレ",
     "score": 3.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "男性寄り",
@@ -1137,6 +1169,14 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "石井 ゆかり 筋 トレ",
+    "score": 40.0,
+    "topic": "筋トレ・フィットネス",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "健康 保険",
     "score": 100.0,
     "topic": "健康・医療",
@@ -1146,7 +1186,7 @@
   {
     "date": "2026-04-18",
     "keyword": "健康 診断",
-    "score": 79.0,
+    "score": 78.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1185,14 +1225,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "国民 健康 保険 未納 メール",
-    "score": 100.0,
-    "topic": "健康・医療",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "国民 健康 保険 課 納付 推進 係",
     "score": 100.0,
     "topic": "健康・医療",
@@ -1201,7 +1233,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "国民 健康 保険 料 未納 差額 に 係る 納付 督促 の お知らせ",
+    "keyword": "国民 健康 保険 未納 メール",
     "score": 100.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
@@ -1209,7 +1241,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "国民 健康 保険 詐欺 メール",
+    "keyword": "国民 健康 保険 料 未納 差額 に 係る 納付 督促 の お知らせ",
     "score": 100.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
@@ -1233,7 +1265,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "車 中古",
+    "keyword": "近 大 健康 診断",
+    "score": 100.0,
+    "topic": "健康・医療",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "中古 車",
     "score": 100.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -1242,7 +1282,7 @@
   {
     "date": "2026-04-18",
     "keyword": "トヨタ 車",
-    "score": 22.0,
+    "score": 23.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -1250,7 +1290,7 @@
   {
     "date": "2026-04-18",
     "keyword": "車 保険",
-    "score": 18.0,
+    "score": 17.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -1266,15 +1306,23 @@
   {
     "date": "2026-04-18",
     "keyword": "車 中泊",
-    "score": 13.0,
+    "score": 14.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "車 検証",
-    "score": 12.0,
+    "keyword": "ホンダ 車",
+    "score": 11.0,
+    "topic": "車・バイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "安達 容疑 者 車",
+    "score": 100.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -1289,7 +1337,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "破天荒 夫婦 グリーン 車",
+    "keyword": "車 上 狙い",
     "score": 100.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -1297,7 +1345,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "車 上 狙い",
+    "keyword": "破天荒 夫婦 グリーン 車",
     "score": 100.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -1321,14 +1369,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "高級 車",
-    "score": 60.0,
-    "topic": "車・バイク",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "スマホ 画面",
     "score": 100.0,
     "topic": "ガジェット・家電",
@@ -1338,7 +1378,7 @@
   {
     "date": "2026-04-18",
     "keyword": "スマホ 充電",
-    "score": 68.0,
+    "score": 69.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1354,7 +1394,15 @@
   {
     "date": "2026-04-18",
     "keyword": "スマホ おすすめ",
-    "score": 52.0,
+    "score": 54.0,
+    "topic": "ガジェット・家電",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "android スマホ",
+    "score": 51.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1369,14 +1417,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "android スマホ",
-    "score": 50.0,
-    "topic": "ガジェット・家電",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "スマホ の タッチ 決済 乗車 で 最大 8 還元",
     "score": 100.0,
     "topic": "ガジェット・家電",
@@ -1385,24 +1425,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "やわらか スマホ",
-    "score": 100.0,
-    "topic": "ガジェット・家電",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "スマホ 位置 情報",
-    "score": 90.0,
-    "topic": "ガジェット・家電",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "京セラ スマホ",
-    "score": 40.0,
+    "score": 100.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1426,15 +1450,7 @@
   {
     "date": "2026-04-18",
     "keyword": "求人",
-    "score": 86.0,
-    "topic": "仕事・キャリア",
-    "audience_segment": "中立・不明",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "転職 面接",
-    "score": 78.0,
+    "score": 83.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
@@ -1442,7 +1458,15 @@
   {
     "date": "2026-04-18",
     "keyword": "転職 エージェント",
-    "score": 76.0,
+    "score": 78.0,
+    "topic": "仕事・キャリア",
+    "audience_segment": "中立・不明",
+    "generation_segment": "30代"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "転職 面接",
+    "score": 72.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
@@ -1450,7 +1474,7 @@
   {
     "date": "2026-04-18",
     "keyword": "転職 サイト",
-    "score": 64.0,
+    "score": 65.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
@@ -1473,8 +1497,16 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "転職 フェア 大阪",
+    "score": 100.0,
+    "topic": "仕事・キャリア",
+    "audience_segment": "中立・不明",
+    "generation_segment": "30代"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "マイナビ 転職 フェア",
-    "score": 80.0,
+    "score": 100.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
@@ -1482,15 +1514,15 @@
   {
     "date": "2026-04-18",
     "keyword": "サンリオ 転職",
-    "score": 70.0,
+    "score": 80.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
   },
   {
     "date": "2026-04-18",
-    "keyword": "キャリカミ 転職",
-    "score": 40.0,
+    "keyword": "隣 の エンジニア さん が 転職 したい そう です",
+    "score": 70.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
@@ -1506,7 +1538,15 @@
   {
     "date": "2026-04-18",
     "keyword": "英語",
-    "score": 95.0,
+    "score": 98.0,
+    "topic": "学び・資格",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "勉強 アプリ",
+    "score": 48.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1514,18 +1554,10 @@
   {
     "date": "2026-04-18",
     "keyword": "受験 勉強",
-    "score": 46.0,
+    "score": 47.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "勉強 アプリ",
-    "score": 45.0,
-    "topic": "学び・資格",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
@@ -1538,7 +1570,7 @@
   {
     "date": "2026-04-18",
     "keyword": "勉強 カフェ",
-    "score": 27.0,
+    "score": 28.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1562,8 +1594,16 @@
   {
     "date": "2026-04-18",
     "keyword": "英語 リスニング 勉強 法",
-    "score": 50.0,
+    "score": 60.0,
     "topic": "学び・資格",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "生成 ai パスポート 勉強 方法",
+    "score": 40.0,
+    "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -1577,16 +1617,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "nisa 楽天",
-    "score": 73.0,
+    "keyword": "投資",
+    "score": 74.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "投資",
-    "score": 66.0,
+    "keyword": "nisa 楽天",
+    "score": 72.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1594,7 +1634,7 @@
   {
     "date": "2026-04-18",
     "keyword": "sbi",
-    "score": 53.0,
+    "score": 54.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1602,7 +1642,7 @@
   {
     "date": "2026-04-18",
     "keyword": "nisa sbi",
-    "score": 51.0,
+    "score": 53.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1610,7 +1650,7 @@
   {
     "date": "2026-04-18",
     "keyword": "nisa 口座",
-    "score": 44.0,
+    "score": 46.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1618,14 +1658,6 @@
   {
     "date": "2026-04-18",
     "keyword": "吉村 洋文",
-    "score": 100.0,
-    "topic": "お金（投資・節約）",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "牛乳 石鹸",
     "score": 100.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
@@ -1641,6 +1673,14 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "牛乳 石鹸",
+    "score": 100.0,
+    "topic": "お金（投資・節約）",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "新 nisa オルカン",
     "score": 100.0,
     "topic": "お金（投資・節約）",
@@ -1649,16 +1689,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "nisa 改正",
-    "score": 90.0,
+    "keyword": "nisa オルカン",
+    "score": 100.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "nisa オルカン",
-    "score": 70.0,
+    "keyword": "nisa 改正",
+    "score": 80.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1674,7 +1714,7 @@
   {
     "date": "2026-04-18",
     "keyword": "引っ越し 費用",
-    "score": 71.0,
+    "score": 72.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1682,7 +1722,7 @@
   {
     "date": "2026-04-18",
     "keyword": "引っ越し 手続き",
-    "score": 66.0,
+    "score": 67.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1690,7 +1730,7 @@
   {
     "date": "2026-04-18",
     "keyword": "引っ越し 挨拶",
-    "score": 63.0,
+    "score": 64.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1698,7 +1738,7 @@
   {
     "date": "2026-04-18",
     "keyword": "引っ越し 業者",
-    "score": 63.0,
+    "score": 60.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1706,7 +1746,7 @@
   {
     "date": "2026-04-18",
     "keyword": "引っ越し 見積もり",
-    "score": 61.0,
+    "score": 54.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1721,8 +1761,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "生活 保護 引っ越し 費用",
-    "score": 50.0,
+    "keyword": "スーモ 引っ越し 見積もり",
+    "score": 40.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1738,7 +1778,7 @@
   {
     "date": "2026-04-18",
     "keyword": "育児 給付 金",
-    "score": 50.0,
+    "score": 51.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -1746,7 +1786,7 @@
   {
     "date": "2026-04-18",
     "keyword": "育児 休業 給付",
-    "score": 44.0,
+    "score": 47.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -1754,7 +1794,7 @@
   {
     "date": "2026-04-18",
     "keyword": "育児 休業 給付 金",
-    "score": 39.0,
+    "score": 43.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -1762,7 +1802,7 @@
   {
     "date": "2026-04-18",
     "keyword": "育児 休暇",
-    "score": 21.0,
+    "score": 22.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -1770,7 +1810,7 @@
   {
     "date": "2026-04-18",
     "keyword": "育児 手当",
-    "score": 16.0,
+    "score": 17.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -1785,7 +1825,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "楽天 育児 の 日",
+    "keyword": "育児 の 日 楽天",
     "score": 100.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
@@ -1802,23 +1842,7 @@
   {
     "date": "2026-04-18",
     "keyword": "育児 休業 取得 率",
-    "score": 80.0,
-    "topic": "育児・家庭",
-    "audience_segment": "女性寄り",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "育児 ノイローゼ チェック",
-    "score": 60.0,
-    "topic": "育児・家庭",
-    "audience_segment": "女性寄り",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "叱ら ない 育児",
-    "score": 40.0,
+    "score": 90.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -1833,16 +1857,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "日本 政治",
-    "score": 86.0,
-    "topic": "政治・社会",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "日本 の 政治",
-    "score": 46.0,
+    "score": 48.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1850,14 +1866,6 @@
   {
     "date": "2026-04-18",
     "keyword": "政治 経済 学部",
-    "score": 32.0,
-    "topic": "政治・社会",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "国際 政治",
     "score": 31.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -1865,8 +1873,24 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "国際 政治",
+    "score": 30.0,
+    "topic": "政治・社会",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "政治 ニュース",
-    "score": 28.0,
+    "score": 27.0,
+    "topic": "政治・社会",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "政治 活動",
+    "score": 26.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -1874,6 +1898,14 @@
   {
     "date": "2026-04-18",
     "keyword": "政令 で 定める 政治 的 行為",
+    "score": 100.0,
+    "topic": "政治・社会",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "自衛隊 法 政治 的 行為 の 制限",
     "score": 100.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -1890,14 +1922,6 @@
   {
     "date": "2026-04-18",
     "keyword": "自衛隊 政治 活動",
-    "score": 100.0,
-    "topic": "政治・社会",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "自衛隊 法 政治 的 行為 の 制限",
     "score": 100.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -1945,6 +1969,14 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "小型 犬",
+    "score": 69.0,
+    "topic": "ペット",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "警察 犬",
     "score": 68.0,
     "topic": "ペット",
@@ -1953,23 +1985,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "小型 犬",
-    "score": 68.0,
-    "topic": "ペット",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "犬 イラスト",
-    "score": 51.0,
+    "score": 53.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ポメラニアン 警察 犬",
+    "keyword": "警察 犬 ポメラニアン",
     "score": 100.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
@@ -2001,7 +2025,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "犬 たけのこ",
+    "keyword": "たけのこ 犬",
     "score": 100.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
@@ -2017,7 +2041,71 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "明日 の 天気",
+    "keyword": "めざまし 占い",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い 無料",
+    "score": 96.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "しいたけ 占い",
+    "score": 75.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い 今日",
+    "score": 73.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "動物 占い",
+    "score": 61.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い ツクール",
+    "score": 58.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "にゃんこ 先生 占い",
+    "score": 50.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "カード 占い",
+    "score": 50.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "明日 天気",
     "score": 100.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
@@ -2025,8 +2113,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "明日 天気",
-    "score": 97.0,
+    "keyword": "明日 の 天気",
+    "score": 99.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2034,7 +2122,7 @@
   {
     "date": "2026-04-18",
     "keyword": "天気 予報",
-    "score": 71.0,
+    "score": 72.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2042,7 +2130,7 @@
   {
     "date": "2026-04-18",
     "keyword": "今日 天気",
-    "score": 25.0,
+    "score": 26.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2050,14 +2138,14 @@
   {
     "date": "2026-04-18",
     "keyword": "今日 の 天気",
-    "score": 23.0,
+    "score": 24.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "東京 天気",
+    "keyword": "天気 東京",
     "score": 17.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
@@ -2082,7 +2170,7 @@
   {
     "date": "2026-04-18",
     "keyword": "弘前 天気",
-    "score": 90.0,
+    "score": 100.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2090,7 +2178,7 @@
   {
     "date": "2026-04-18",
     "keyword": "甲子園 天気",
-    "score": 70.0,
+    "score": 60.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2105,8 +2193,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "北九州 天気",
-    "score": 50.0,
+    "keyword": "熊本 天気",
+    "score": 40.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2129,14 +2217,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "求人 在宅 ワーク",
-    "score": 27.0,
-    "topic": "仕事・キャリア",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "求人",
     "score": 26.0,
     "topic": "仕事・キャリア",
@@ -2145,33 +2225,41 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "在宅 仕事",
-    "score": 6.0,
+    "keyword": "在宅 ワーク 求人",
+    "score": 25.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "在宅 データ 入力",
-    "score": 6.0,
+    "keyword": "在宅 バイト",
+    "score": 7.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "主婦 ジョブ",
-    "score": 100.0,
+    "keyword": "在宅 ワーク バイト",
+    "score": 7.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "マッチング",
-    "score": 100.0,
-    "topic": "恋愛",
+    "keyword": "ココナラ",
+    "score": 40.0,
+    "topic": "副業・稼ぐ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "完全 在宅 ワーク 全国 どこでも データ 入力",
+    "score": 40.0,
+    "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -2185,8 +2273,16 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "マッチング",
+    "score": 100.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "マッチング アプリ おすすめ",
-    "score": 6.0,
+    "score": 5.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2194,6 +2290,14 @@
   {
     "date": "2026-04-18",
     "keyword": "無料 マッチング アプリ",
+    "score": 4.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "既婚 者 マッチング アプリ",
     "score": 4.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -2209,15 +2313,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "マッチング アプリ 既婚 者",
-    "score": 4.0,
-    "topic": "恋愛",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "マッチング アプリ 一 言 目",
+    "keyword": "マッチング アプリ 写真 プロ",
     "score": 100.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -2225,7 +2321,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "マッチング アプリ 写真 プロ",
+    "keyword": "マッチング アプリ 一 言 目",
     "score": 80.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -2234,10 +2330,18 @@
   {
     "date": "2026-04-18",
     "keyword": "マッチング アプリ おすすめ 50 代",
-    "score": 60.0,
+    "score": 70.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "50代以上"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "マッチング アプリ メッセージ コツ",
+    "score": 60.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
@@ -2249,7 +2353,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ブライダル ネット",
+    "keyword": "シングル マザー マッチング アプリ",
     "score": 40.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -2257,15 +2361,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "タップル 料金",
-    "score": 40.0,
-    "topic": "恋愛",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "動画 エロ",
+    "keyword": "エロ 動画",
     "score": 100.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
@@ -2274,7 +2370,7 @@
   {
     "date": "2026-04-18",
     "keyword": "エロ 漫画",
-    "score": 58.0,
+    "score": 61.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -2282,7 +2378,7 @@
   {
     "date": "2026-04-18",
     "keyword": "無料 エロ",
-    "score": 31.0,
+    "score": 32.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -2297,7 +2393,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "エロ 画像",
+    "keyword": "無料 エロ 動画",
     "score": 19.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
@@ -2305,8 +2401,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "エロ 無料 動画",
-    "score": 19.0,
+    "keyword": "エロ 画像",
+    "score": 18.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -2330,7 +2426,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アート メイク",
-    "score": 57.0,
+    "score": 59.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -2338,7 +2434,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アイ メイク",
-    "score": 44.0,
+    "score": 47.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -2346,14 +2442,6 @@
   {
     "date": "2026-04-18",
     "keyword": "メイク アップ",
-    "score": 35.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "メイク 落とし",
     "score": 34.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
@@ -2361,16 +2449,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "メイク ブラシ",
-    "score": 21.0,
+    "keyword": "メイク 落とし",
+    "score": 31.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "クライシス メイク アップ",
-    "score": 100.0,
+    "keyword": "メイク ブラシ",
+    "score": 22.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -2385,7 +2473,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ブス の 美 ボディ メイク",
+    "keyword": "メイク マイ デイ",
     "score": 100.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
@@ -2393,7 +2481,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "メイク マイ デイ",
+    "keyword": "ブス の 美 ボディ メイク",
     "score": 100.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
@@ -2417,6 +2505,62 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "rmk メイク レッスン",
+    "score": 100.0,
+    "topic": "美容・メイク",
+    "audience_segment": "女性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "メンズ パーマ",
+    "score": 100.0,
+    "topic": "ファッション",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "コスメ パーマ メンズ",
+    "score": 95.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "コスメ パーマ",
+    "score": 93.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "メンズ コスメ プレゼント",
+    "score": 88.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "アット コスメ",
+    "score": 74.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "コスメ デコルテ",
+    "score": 64.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "メンズ コーデ",
     "score": 100.0,
     "topic": "ファッション",
@@ -2426,7 +2570,7 @@
   {
     "date": "2026-04-18",
     "keyword": "シャツ コーデ",
-    "score": 90.0,
+    "score": 86.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2434,7 +2578,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ジャケット コーデ",
-    "score": 43.0,
+    "score": 44.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2457,7 +2601,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "シャツ コーデ メンズ",
+    "keyword": "メンズ シャツ コーデ",
     "score": 19.0,
     "topic": "ファッション",
     "audience_segment": "男性寄り",
@@ -2481,16 +2625,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ジュビリー ブルー コーデ",
-    "score": 100.0,
-    "topic": "ファッション",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "アーク ナイツ コーデ",
-    "score": 90.0,
+    "score": 100.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2501,6 +2637,14 @@
     "score": 60.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "メンズ 夏 コーデ",
+    "score": 50.0,
+    "topic": "ファッション",
+    "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
   },
   {
@@ -2522,7 +2666,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ホットペッパー",
-    "score": 70.0,
+    "score": 68.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2530,7 +2674,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ホットペッパー グルメ",
-    "score": 70.0,
+    "score": 66.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2538,7 +2682,7 @@
   {
     "date": "2026-04-18",
     "keyword": "せっかく グルメ",
-    "score": 21.0,
+    "score": 22.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2546,7 +2690,7 @@
   {
     "date": "2026-04-18",
     "keyword": "東京 グルメ",
-    "score": 21.0,
+    "score": 20.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2569,7 +2713,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "グルメ シティ 小林 店",
+    "keyword": "異 世界 召喚 グルメ マジカル テーブル クロス",
     "score": 100.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
@@ -2585,8 +2729,16 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "グルメ シティ 小林 店",
+    "score": 100.0,
+    "topic": "食（カフェ・グルメ）",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "神宮 球場 グルメ",
-    "score": 80.0,
+    "score": 100.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2595,14 +2747,6 @@
     "date": "2026-04-18",
     "keyword": "京都 おすすめ グルメ",
     "score": 70.0,
-    "topic": "食（カフェ・グルメ）",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "グルメ ジャーニー ポイ 活",
-    "score": 50.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2618,7 +2762,7 @@
   {
     "date": "2026-04-18",
     "keyword": "大阪 ホテル",
-    "score": 61.0,
+    "score": 56.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2626,7 +2770,7 @@
   {
     "date": "2026-04-18",
     "keyword": "京都 ホテル",
-    "score": 46.0,
+    "score": 44.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2634,7 +2778,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ビジネス ホテル",
-    "score": 42.0,
+    "score": 39.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2642,7 +2786,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ホテル 予約",
-    "score": 38.0,
+    "score": 39.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2650,7 +2794,7 @@
   {
     "date": "2026-04-18",
     "keyword": "プリンス ホテル",
-    "score": 35.0,
+    "score": 33.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2681,16 +2825,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "リーガ ロイヤル ホテル 東京",
-    "score": 70.0,
-    "topic": "旅行",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "焼津 グランド ホテル",
-    "score": 50.0,
+    "score": 40.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2706,15 +2842,15 @@
   {
     "date": "2026-04-18",
     "keyword": "韓国 アイドル",
-    "score": 42.0,
+    "score": 43.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "グラビア",
-    "score": 34.0,
+    "keyword": "グラビア アイドル",
+    "score": 35.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -2729,8 +2865,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "グラビア アイドル",
-    "score": 33.0,
+    "keyword": "グラビア",
+    "score": 32.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -2738,7 +2874,7 @@
   {
     "date": "2026-04-18",
     "keyword": "地下 アイドル",
-    "score": 22.0,
+    "score": 21.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2746,14 +2882,6 @@
   {
     "date": "2026-04-18",
     "keyword": "ラスト シーン アイドル",
-    "score": 100.0,
-    "topic": "芸能・推し",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "アイマス 好き な アイドル",
     "score": 100.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
@@ -2793,6 +2921,14 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "アイマス ポータル 好き な アイドル",
+    "score": 100.0,
+    "topic": "芸能・推し",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "幸せ 歌詞",
     "score": 100.0,
     "topic": "音楽",
@@ -2801,8 +2937,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "アイドル 歌詞",
-    "score": 87.0,
+    "keyword": "歌詞 検索",
+    "score": 93.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2810,7 +2946,7 @@
   {
     "date": "2026-04-18",
     "keyword": "花束 歌詞",
-    "score": 87.0,
+    "score": 92.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2818,6 +2954,14 @@
   {
     "date": "2026-04-18",
     "keyword": "ダーリン 歌詞",
+    "score": 90.0,
+    "topic": "音楽",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "アイドル 歌詞",
     "score": 86.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
@@ -2826,15 +2970,7 @@
   {
     "date": "2026-04-18",
     "keyword": "好き すぎ て 滅 歌詞",
-    "score": 80.0,
-    "topic": "音楽",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "歌詞 検索",
-    "score": 79.0,
+    "score": 86.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2889,7 +3025,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "漫画 無料",
+    "keyword": "無料 漫画",
     "score": 100.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
@@ -2906,7 +3042,7 @@
   {
     "date": "2026-04-18",
     "keyword": "少女 漫画",
-    "score": 10.0,
+    "score": 11.0,
     "topic": "アニメ・漫画",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -2922,7 +3058,7 @@
   {
     "date": "2026-04-18",
     "keyword": "九条 の 大罪 漫画",
-    "score": 7.0,
+    "score": 8.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2930,7 +3066,7 @@
   {
     "date": "2026-04-18",
     "keyword": "コナン 漫画",
-    "score": 7.0,
+    "score": 8.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -2969,16 +3105,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "箱 の 男 漫画 ネタバレ",
+    "keyword": "コナン 漫画",
     "score": 60.0,
     "topic": "アニメ・漫画",
-    "audience_segment": "男性寄り",
+    "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "箱 の 男 漫画 最終 回 ネタバレ",
-    "score": 50.0,
+    "keyword": "箱 の 男 漫画 ネタバレ",
+    "score": 60.0,
     "topic": "アニメ・漫画",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -3002,7 +3138,7 @@
   {
     "date": "2026-04-18",
     "keyword": "switch ゲーム",
-    "score": 79.0,
+    "score": 76.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3010,7 +3146,7 @@
   {
     "date": "2026-04-18",
     "keyword": "switch2",
-    "score": 71.0,
+    "score": 69.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3018,7 +3154,7 @@
   {
     "date": "2026-04-18",
     "keyword": "nintendo",
-    "score": 66.0,
+    "score": 62.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3026,7 +3162,7 @@
   {
     "date": "2026-04-18",
     "keyword": "nintendo switch",
-    "score": 63.0,
+    "score": 61.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3090,23 +3226,23 @@
   {
     "date": "2026-04-18",
     "keyword": "高校 サッカー",
-    "score": 91.0,
+    "score": 88.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
   },
   {
     "date": "2026-04-18",
-    "keyword": "サッカー 日本 代表",
-    "score": 73.0,
+    "keyword": "日本 代表",
+    "score": 71.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "日本 代表",
-    "score": 72.0,
+    "keyword": "日本 代表 サッカー",
+    "score": 69.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3114,7 +3250,7 @@
   {
     "date": "2026-04-18",
     "keyword": "女子 サッカー",
-    "score": 56.0,
+    "score": 53.0,
     "topic": "スポーツ",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -3122,7 +3258,7 @@
   {
     "date": "2026-04-18",
     "keyword": "サッカー 選手",
-    "score": 45.0,
+    "score": 43.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3133,14 +3269,6 @@
     "score": 100.0,
     "topic": "スポーツ",
     "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "植田 玲雄 サッカー",
-    "score": 100.0,
-    "topic": "スポーツ",
-    "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
@@ -3177,6 +3305,14 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "なでしこ ジャパン",
+    "score": 100.0,
+    "topic": "食（カフェ・グルメ）",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "パーソナル ジム",
     "score": 100.0,
     "topic": "筋トレ・フィットネス",
@@ -3186,7 +3322,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ゴールド ジム",
-    "score": 72.0,
+    "score": 73.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3194,7 +3330,7 @@
   {
     "date": "2026-04-18",
     "keyword": "スポーツ ジム",
-    "score": 71.0,
+    "score": 69.0,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3202,7 +3338,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ボクシング",
-    "score": 51.0,
+    "score": 53.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3210,7 +3346,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ボクシング ジム",
-    "score": 50.0,
+    "score": 51.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3219,6 +3355,14 @@
     "date": "2026-04-18",
     "keyword": "フィットネス ジム",
     "score": 39.0,
+    "topic": "筋トレ・フィットネス",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ジム ファーリー",
+    "score": 100.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3234,6 +3378,14 @@
   {
     "date": "2026-04-18",
     "keyword": "大橋 ボクシング ジム",
+    "score": 100.0,
+    "topic": "筋トレ・フィットネス",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "bz クラブ ジム",
     "score": 100.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "中立・不明",
@@ -3257,22 +3409,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "bz クラブ ジム",
-    "score": 70.0,
-    "topic": "筋トレ・フィットネス",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "六島 ボクシング ジム",
-    "score": 60.0,
-    "topic": "筋トレ・フィットネス",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "大学 病院",
     "score": 100.0,
     "topic": "健康・医療",
@@ -3282,7 +3418,7 @@
   {
     "date": "2026-04-18",
     "keyword": "動物 病院",
-    "score": 97.0,
+    "score": 95.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3290,7 +3426,7 @@
   {
     "date": "2026-04-18",
     "keyword": "中央 病院",
-    "score": 80.0,
+    "score": 75.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3298,7 +3434,7 @@
   {
     "date": "2026-04-18",
     "keyword": "市立 病院",
-    "score": 39.0,
+    "score": 38.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3306,7 +3442,7 @@
   {
     "date": "2026-04-18",
     "keyword": "市民 病院",
-    "score": 37.0,
+    "score": 36.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3314,7 +3450,7 @@
   {
     "date": "2026-04-18",
     "keyword": "整形 外科",
-    "score": 25.0,
+    "score": 23.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3377,8 +3513,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "中古 バイク",
-    "score": 48.0,
+    "keyword": "バイク 中古",
+    "score": 49.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -3386,14 +3522,22 @@
   {
     "date": "2026-04-18",
     "keyword": "バイク 免許",
-    "score": 39.0,
+    "score": 40.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "原付",
+    "keyword": "クロス バイク",
+    "score": 35.0,
+    "topic": "車・バイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ホンダ バイク",
     "score": 34.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -3402,14 +3546,6 @@
   {
     "date": "2026-04-18",
     "keyword": "ホンダ",
-    "score": 34.0,
-    "topic": "車・バイク",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "クロス バイク",
     "score": 34.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -3458,7 +3594,7 @@
   {
     "date": "2026-04-18",
     "keyword": "iphone ケース",
-    "score": 74.0,
+    "score": 72.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3466,7 +3602,7 @@
   {
     "date": "2026-04-18",
     "keyword": "iphone 機種 変更",
-    "score": 55.0,
+    "score": 59.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3474,7 +3610,7 @@
   {
     "date": "2026-04-18",
     "keyword": "iphone 探す",
-    "score": 47.0,
+    "score": 45.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3482,7 +3618,7 @@
   {
     "date": "2026-04-18",
     "keyword": "iphone 16",
-    "score": 46.0,
+    "score": 45.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3490,7 +3626,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アップル",
-    "score": 45.0,
+    "score": 44.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3505,7 +3641,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ハローワーク",
+    "keyword": "ハローワーク 求人",
     "score": 100.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
@@ -3513,7 +3649,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "パート 求人",
+    "keyword": "ハローワーク",
     "score": 98.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
@@ -3521,8 +3657,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ハローワーク 求人",
-    "score": 97.0,
+    "keyword": "パート 求人",
+    "score": 96.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3530,15 +3666,15 @@
   {
     "date": "2026-04-18",
     "keyword": "事務 求人",
-    "score": 80.0,
+    "score": 82.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "求人 正社員",
-    "score": 79.0,
+    "keyword": "正社員 求人",
+    "score": 78.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3546,7 +3682,15 @@
   {
     "date": "2026-04-18",
     "keyword": "バイト 求人",
-    "score": 69.0,
+    "score": 67.0,
+    "topic": "仕事・キャリア",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "覆面 調査 求人",
+    "score": 100.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3561,7 +3705,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "公開 求人 アーク ナイツ",
+    "keyword": "アーク ナイツ 公開 求人",
     "score": 100.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
@@ -3593,14 +3737,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "zozotown 求人",
-    "score": 90.0,
-    "topic": "仕事・キャリア",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "翻訳 英語",
     "score": 100.0,
     "topic": "学び・資格",
@@ -3609,7 +3745,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "日本 語 英語",
+    "keyword": "英語 日本 語",
     "score": 18.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
@@ -3618,7 +3754,7 @@
   {
     "date": "2026-04-18",
     "keyword": "大学 英語",
-    "score": 15.0,
+    "score": 16.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "20代"
@@ -3633,8 +3769,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "英語 勉強",
-    "score": 6.0,
+    "keyword": "日本 語 英語 翻訳",
+    "score": 5.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3657,8 +3793,16 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "nhk ラジオ ビジネス 英語",
+    "score": 100.0,
+    "topic": "学び・資格",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "文字数 カウント 英語",
-    "score": 80.0,
+    "score": 70.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3666,14 +3810,6 @@
   {
     "date": "2026-04-18",
     "keyword": "英語 ノート",
-    "score": 80.0,
-    "topic": "学び・資格",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "nhk ラジオ ビジネス 英語",
     "score": 70.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
@@ -3689,8 +3825,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "バレーボール 英語",
-    "score": 70.0,
+    "keyword": "オムライス 英語",
+    "score": 60.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3714,7 +3850,7 @@
   {
     "date": "2026-04-18",
     "keyword": "株式 投資",
-    "score": 24.0,
+    "score": 23.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3730,14 +3866,14 @@
   {
     "date": "2026-04-18",
     "keyword": "不動産 投資",
-    "score": 19.0,
+    "score": 18.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "nisa 成長 投資 枠",
+    "keyword": "投資 信託 と は",
     "score": 11.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
@@ -3802,7 +3938,7 @@
   {
     "date": "2026-04-18",
     "keyword": "賃貸 物件",
-    "score": 53.0,
+    "score": 50.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3810,15 +3946,15 @@
   {
     "date": "2026-04-18",
     "keyword": "ペット 可 賃貸",
-    "score": 36.0,
+    "score": 37.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "賃貸 東京",
-    "score": 35.0,
+    "keyword": "東京 賃貸",
+    "score": 34.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3826,14 +3962,14 @@
   {
     "date": "2026-04-18",
     "keyword": "賃貸 住宅",
-    "score": 33.0,
+    "score": 32.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "賃貸 アパート",
+    "keyword": "一軒家 賃貸",
     "score": 27.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
@@ -3850,7 +3986,7 @@
   {
     "date": "2026-04-18",
     "keyword": "妊娠 検査",
-    "score": 54.0,
+    "score": 47.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -3858,7 +3994,7 @@
   {
     "date": "2026-04-18",
     "keyword": "妊娠 検査 薬",
-    "score": 36.0,
+    "score": 37.0,
     "topic": "健康・医療",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -3866,7 +4002,7 @@
   {
     "date": "2026-04-18",
     "keyword": "妊娠 後期",
-    "score": 26.0,
+    "score": 29.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -3881,24 +4017,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "妊娠 超 初期",
+    "keyword": "妊娠 確率",
     "score": 19.0,
-    "topic": "育児・家庭",
-    "audience_segment": "女性寄り",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ゆき くん 母親 妊娠 中",
-    "score": 100.0,
-    "topic": "育児・家庭",
-    "audience_segment": "女性寄り",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "青山 テルマ 妊娠",
-    "score": 100.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -3929,9 +4049,25 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "青山 テルマ 妊娠",
+    "score": 100.0,
+    "topic": "育児・家庭",
+    "audience_segment": "女性寄り",
+    "generation_segment": "30代"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "京都 母親 妊娠",
     "score": 100.0,
     "topic": "旅行",
+    "audience_segment": "女性寄り",
+    "generation_segment": "30代"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ゆき くん 母親 妊娠 中",
+    "score": 100.0,
+    "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
   },
@@ -3946,15 +4082,7 @@
   {
     "date": "2026-04-18",
     "keyword": "市議会 議員 選挙",
-    "score": 67.0,
-    "topic": "政治・社会",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "練馬 区長 選挙",
-    "score": 46.0,
+    "score": 66.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -3969,15 +4097,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "弘前 市長 選挙",
-    "score": 12.0,
+    "keyword": "練馬 区長 選挙",
+    "score": 41.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ハンガリー",
+    "keyword": "ハンガリー 選挙",
     "score": 11.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -3985,8 +4113,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ハンガリー 選挙 結果",
-    "score": 100.0,
+    "keyword": "弘前 市長 選挙",
+    "score": 11.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4017,7 +4145,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "弘前 市長 選挙 結果",
+    "keyword": "富岡 市長 選挙 結果",
     "score": 100.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -4025,7 +4153,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "練馬 区長 選挙 開票 速報",
+    "keyword": "弘前 市長 選挙 速報",
+    "score": 100.0,
+    "topic": "政治・社会",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "練馬 区長 選挙 速報",
     "score": 100.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -4042,7 +4178,7 @@
   {
     "date": "2026-04-18",
     "keyword": "保護 猫",
-    "score": 73.0,
+    "score": 70.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4050,7 +4186,7 @@
   {
     "date": "2026-04-18",
     "keyword": "猫 イラスト",
-    "score": 57.0,
+    "score": 56.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4066,7 +4202,7 @@
   {
     "date": "2026-04-18",
     "keyword": "黒 猫 と 魔女 の 教室",
-    "score": 45.0,
+    "score": 44.0,
     "topic": "ペット",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -4074,15 +4210,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ねこ",
-    "score": 43.0,
-    "topic": "ペット",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "猫 股 娘 よろず 撃退 行",
-    "score": 100.0,
+    "score": 42.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4092,6 +4220,14 @@
     "keyword": "猫 ブラッシング ゲーム",
     "score": 100.0,
     "topic": "ゲーム",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "猫 股 娘 よろず 撃退 行",
+    "score": 100.0,
+    "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -4121,15 +4257,111 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "黒 猫 と 魔女 の 教室",
+    "keyword": "もしも 猫 展",
     "score": 100.0,
     "topic": "ペット",
-    "audience_segment": "女性寄り",
+    "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ヤフー ニュース",
+    "keyword": "スピリチュアル 意味",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ニキビ スピリチュアル",
+    "score": 40.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "スピリチュアル ブログ",
+    "score": 33.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "スピリチュアル 占い",
+    "score": 33.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "耳鳴り スピリチュアル",
+    "score": 27.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "耳鳴り",
+    "score": 27.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "スピリチュアル ティーチング",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "クロアゲハ スピリチュアル",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "蜂 スピリチュアル 意味",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "アゲハ 蝶 スピリチュアル",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "鼻 の 頭 ニキビ スピリチュアル",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "トカゲ スピリチュアル",
+    "score": 90.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ニュース ヤフー",
     "score": 100.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
@@ -4145,8 +4377,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "速報 ニュース",
-    "score": 21.0,
+    "keyword": "ニュース 速報",
+    "score": 20.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4161,15 +4393,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ニュース ライブドア",
-    "score": 12.0,
+    "keyword": "ライブドア ニュース",
+    "score": 13.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "京都 ニュース",
+    "keyword": "ニュース 京都",
     "score": 11.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
@@ -4209,19 +4441,19 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "ニュース 京都",
+    "score": 100.0,
+    "topic": "旅行",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "京都 小学生 行方 不明 最新 ニュース",
     "score": 100.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "京都 ニュース",
-    "score": 100.0,
-    "topic": "旅行",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
@@ -4241,7 +4473,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ポイ 活 おすすめ",
+    "keyword": "おすすめ ポイ 活",
     "score": 8.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -4249,7 +4481,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ポイ 活 ゲーム",
+    "keyword": "ゲーム ポイ 活",
     "score": 6.0,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
@@ -4257,7 +4489,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ドコモ ポイ 活",
+    "keyword": "ポイ 活 max",
     "score": 5.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -4265,8 +4497,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ポイ 活 max",
-    "score": 5.0,
+    "keyword": "ポイ 活 ドコモ",
+    "score": 4.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4282,7 +4514,7 @@
   {
     "date": "2026-04-18",
     "keyword": "おじ ぽ",
-    "score": 90.0,
+    "score": 100.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4290,7 +4522,7 @@
   {
     "date": "2026-04-18",
     "keyword": "クラシ ルリ ワード",
-    "score": 90.0,
+    "score": 70.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4298,8 +4530,24 @@
   {
     "date": "2026-04-18",
     "keyword": "グルメ ジャーニー ポイ 活",
-    "score": 40.0,
+    "score": 60.0,
     "topic": "食（カフェ・グルメ）",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "歩数 ポイ 活",
+    "score": 40.0,
+    "topic": "副業・稼ぐ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "パズル & サバイバル",
+    "score": 40.0,
+    "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -4314,7 +4562,7 @@
   {
     "date": "2026-04-18",
     "keyword": "東京 デート",
-    "score": 51.0,
+    "score": 46.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4329,16 +4577,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "デート おすすめ",
-    "score": 30.0,
+    "keyword": "映画 デート",
+    "score": 29.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "映画 デート",
-    "score": 30.0,
+    "keyword": "デート おすすめ",
+    "score": 29.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4346,7 +4594,7 @@
   {
     "date": "2026-04-18",
     "keyword": "映画",
-    "score": 29.0,
+    "score": 28.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4362,6 +4610,14 @@
   {
     "date": "2026-04-18",
     "keyword": "バチェラー デート 審査",
+    "score": 60.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "5 月 デート スポット",
     "score": 50.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -4370,30 +4626,22 @@
   {
     "date": "2026-04-18",
     "keyword": "ゴールデンウィーク デート",
-    "score": 50.0,
+    "score": 40.0,
     "topic": "恋愛",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "渋谷 スカイ",
-    "score": 50.0,
-    "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
     "keyword": "ブラインド デート と は",
-    "score": 50.0,
+    "score": 40.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "5 月 デート スポット",
+    "keyword": "京都 デート スポット",
     "score": 40.0,
     "topic": "恋愛",
     "audience_segment": "中立・不明",
@@ -4410,7 +4658,7 @@
   {
     "date": "2026-04-18",
     "keyword": "fanza エロ",
-    "score": 90.0,
+    "score": 89.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -4418,7 +4666,7 @@
   {
     "date": "2026-04-18",
     "keyword": "fanza 同人",
-    "score": 52.0,
+    "score": 50.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -4426,7 +4674,7 @@
   {
     "date": "2026-04-18",
     "keyword": "fanza dmm",
-    "score": 39.0,
+    "score": 38.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -4434,7 +4682,7 @@
   {
     "date": "2026-04-18",
     "keyword": "fanza 漫画",
-    "score": 35.0,
+    "score": 36.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -4442,7 +4690,7 @@
   {
     "date": "2026-04-18",
     "keyword": "dlsite",
-    "score": 34.0,
+    "score": 35.0,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -4458,7 +4706,7 @@
   {
     "date": "2026-04-18",
     "keyword": "コスメ デコルテ",
-    "score": 100.0,
+    "score": 97.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -4466,7 +4714,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アット コスメ",
-    "score": 87.0,
+    "score": 83.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -4474,14 +4722,6 @@
   {
     "date": "2026-04-18",
     "keyword": "韓国 コスメ",
-    "score": 24.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "コスメ キッチン",
     "score": 22.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
@@ -4489,8 +4729,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "コスメ デコルテ パウダー",
+    "keyword": "コスメ キッチン",
     "score": 21.0,
+    "topic": "美容・メイク",
+    "audience_segment": "女性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "コスメ デコルテ パウダー",
+    "score": 19.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -4522,14 +4770,6 @@
   {
     "date": "2026-04-18",
     "keyword": "コスメ デコルテ フェイス パウダー ミニ",
-    "score": 80.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "コスメ デコルテ フェイス パウダー 色 選び",
     "score": 70.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
@@ -4545,15 +4785,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ひげ",
-    "score": 100.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
+    "keyword": "コスメ デコルテ フェイス パウダー 色 選び",
+    "score": 60.0,
+    "topic": "美容・メイク",
+    "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "脱毛",
+    "keyword": "ひげ",
     "score": 100.0,
     "topic": "メンズ美容・身だしなみ",
     "audience_segment": "男性寄り",
@@ -4570,7 +4810,7 @@
   {
     "date": "2026-04-18",
     "keyword": "メンズエミナル",
-    "score": 1.0,
+    "score": 0.0,
     "topic": "メンズ美容・身だしなみ",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -4585,23 +4825,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "スニーカー メンズ",
-    "score": 71.0,
-    "topic": "ファッション",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "ニューバランス スニーカー",
-    "score": 69.0,
-    "topic": "ファッション",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ニューバランス",
     "score": 68.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
@@ -4609,15 +4833,31 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ナイキ",
-    "score": 50.0,
+    "keyword": "メンズ スニーカー",
+    "score": 67.0,
+    "topic": "ファッション",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ニューバランス",
+    "score": 64.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "nike",
+    "keyword": "nike スニーカー",
+    "score": 48.0,
+    "topic": "ファッション",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ナイキ スニーカー",
     "score": 48.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
@@ -4633,14 +4873,6 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "nike jordan air 1 mid スニーカー",
-    "score": 100.0,
-    "topic": "ファッション",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "hameleon スニーカー",
     "score": 100.0,
     "topic": "ファッション",
@@ -4649,7 +4881,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ノース フェイス サンダル スニーカー",
+    "keyword": "nike jordan air 1 mid スニーカー",
     "score": 100.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
@@ -4657,7 +4889,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "スニーカー ホカ",
+    "keyword": "ホカ スニーカー",
     "score": 100.0,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
@@ -4673,7 +4905,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "近く ラーメン",
+    "keyword": "ノース フェイス サンダル スニーカー",
+    "score": 100.0,
+    "topic": "ファッション",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ラーメン 近く",
     "score": 100.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
@@ -4682,7 +4922,7 @@
   {
     "date": "2026-04-18",
     "keyword": "味噌 ラーメン",
-    "score": 91.0,
+    "score": 99.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4690,7 +4930,7 @@
   {
     "date": "2026-04-18",
     "keyword": "家系 ラーメン",
-    "score": 89.0,
+    "score": 94.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4698,7 +4938,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ラーメン 二郎",
-    "score": 85.0,
+    "score": 90.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4706,7 +4946,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ラーメン ショップ",
-    "score": 70.0,
+    "score": 75.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4714,7 +4954,7 @@
   {
     "date": "2026-04-18",
     "keyword": "カップ ラーメン",
-    "score": 66.0,
+    "score": 71.0,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4778,7 +5018,7 @@
   {
     "date": "2026-04-18",
     "keyword": "大 江戸 温泉",
-    "score": 65.0,
+    "score": 66.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4794,15 +5034,7 @@
   {
     "date": "2026-04-18",
     "keyword": "草津 温泉",
-    "score": 38.0,
-    "topic": "旅行",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "有馬 温泉",
-    "score": 32.0,
+    "score": 39.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4810,14 +5042,22 @@
   {
     "date": "2026-04-18",
     "keyword": "温泉 近く",
-    "score": 30.0,
+    "score": 31.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ライブ カメラ",
+    "keyword": "有馬 温泉",
+    "score": 31.0,
+    "topic": "旅行",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "bts ライブ",
     "score": 100.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
@@ -4825,8 +5065,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "bts ライブ",
-    "score": 98.0,
+    "keyword": "ライブ カメラ",
+    "score": 93.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4834,7 +5074,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ライブ チャット",
-    "score": 82.0,
+    "score": 78.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4842,15 +5082,15 @@
   {
     "date": "2026-04-18",
     "keyword": "ライブ ビュー イング",
-    "score": 50.0,
+    "score": 53.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ライブ ビュー イング bts",
-    "score": 41.0,
+    "keyword": "bts ライブ ビュー イング",
+    "score": 39.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4858,7 +5098,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ラブ ライブ",
-    "score": 34.0,
+    "score": 33.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4922,7 +5162,7 @@
   {
     "date": "2026-04-18",
     "keyword": "海外 アーティスト",
-    "score": 69.0,
+    "score": 67.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4930,23 +5170,23 @@
   {
     "date": "2026-04-18",
     "keyword": "女性 アーティスト",
-    "score": 58.0,
+    "score": 56.0,
     "topic": "音楽",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "音楽 アーティスト",
-    "score": 52.0,
+    "keyword": "人気 アーティスト",
+    "score": 51.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "人気 アーティスト",
-    "score": 52.0,
+    "keyword": "音楽 アーティスト",
+    "score": 50.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4954,15 +5194,7 @@
   {
     "date": "2026-04-18",
     "keyword": "アーティスト ランキング",
-    "score": 47.0,
-    "topic": "音楽",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ビー グラム レコーズ 所属 アーティスト",
-    "score": 100.0,
+    "score": 46.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4970,6 +5202,14 @@
   {
     "date": "2026-04-18",
     "keyword": "椎名 へきる アーティスト 宣言",
+    "score": 100.0,
+    "topic": "音楽",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ビー グラム レコーズ 所属 アーティスト",
     "score": 100.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
@@ -4985,8 +5225,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ストリート アーティスト",
-    "score": 70.0,
+    "keyword": "ワイバン 2026 アーティスト",
+    "score": 100.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -4994,15 +5234,15 @@
   {
     "date": "2026-04-18",
     "keyword": "ワイルド バンチ 2026 アーティスト",
-    "score": 70.0,
+    "score": 90.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ワイバン 2026 アーティスト",
-    "score": 50.0,
+    "keyword": "ストリート アーティスト",
+    "score": 80.0,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5018,7 +5258,7 @@
   {
     "date": "2026-04-18",
     "keyword": "コナン 映画 声優",
-    "score": 21.0,
+    "score": 20.0,
     "topic": "芸能・推し",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5026,7 +5266,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ハイウェイ の 堕 天使 声優",
-    "score": 16.0,
+    "score": 15.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5049,16 +5289,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "コナン ハイウェイ の 堕 天使 声優",
+    "keyword": "ハロウィン の 花嫁 声優",
     "score": 11.0,
-    "topic": "アニメ・漫画",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ハロウィン の 花嫁 クリスティーヌ 声優",
-    "score": 100.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5073,7 +5305,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ハロウィン の 花嫁 声優 ゲスト",
+    "keyword": "エレニカ 声優",
     "score": 100.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
@@ -5081,7 +5313,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ハロウィン の 花嫁 プラーミャ 声優",
+    "keyword": "ハロウィン の 花嫁 クリスティーヌ 声優",
     "score": 100.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
@@ -5097,7 +5329,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "エレニカ 声優",
+    "keyword": "ハロウィン の 花嫁 声優",
+    "score": 100.0,
+    "topic": "アニメ・漫画",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ハロウィン の 花嫁 プラーミャ 声優",
     "score": 100.0,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
@@ -5122,7 +5362,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ps4",
-    "score": 49.0,
+    "score": 48.0,
     "topic": "ゲーム",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5130,14 +5370,6 @@
   {
     "date": "2026-04-18",
     "keyword": "ps5 ソフト",
-    "score": 46.0,
-    "topic": "ゲーム",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ps5 おすすめ",
     "score": 44.0,
     "topic": "ゲーム",
     "audience_segment": "男性寄り",
@@ -5145,8 +5377,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "ps5 pro",
-    "score": 31.0,
+    "keyword": "ps5 おすすめ",
+    "score": 43.0,
+    "topic": "ゲーム",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ゲオ ps5",
+    "score": 29.0,
     "topic": "ゲーム",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5154,6 +5394,14 @@
   {
     "date": "2026-04-18",
     "keyword": "星 の 翼 ps5 アケコン",
+    "score": 100.0,
+    "topic": "ゲーム",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ウィンド ローズ ps5",
     "score": 100.0,
     "topic": "ゲーム",
     "audience_segment": "男性寄り",
@@ -5170,14 +5418,6 @@
   {
     "date": "2026-04-18",
     "keyword": "windrose ps5",
-    "score": 100.0,
-    "topic": "ゲーム",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ウィンド ローズ ps5",
     "score": 100.0,
     "topic": "ゲーム",
     "audience_segment": "男性寄り",
@@ -5210,7 +5450,7 @@
   {
     "date": "2026-04-18",
     "keyword": "女子 ゴルフ",
-    "score": 64.0,
+    "score": 67.0,
     "topic": "スポーツ",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -5218,7 +5458,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ゴルフ 天気",
-    "score": 38.0,
+    "score": 40.0,
     "topic": "スポーツ",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5226,7 +5466,7 @@
   {
     "date": "2026-04-18",
     "keyword": "マスターズ",
-    "score": 19.0,
+    "score": 20.0,
     "topic": "スポーツ",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5265,7 +5505,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "利根 パーク ゴルフ 場",
+    "keyword": "フォルクスワーゲ ン ゴルフ gti",
     "score": 100.0,
     "topic": "スポーツ",
     "audience_segment": "男性寄り",
@@ -5273,7 +5513,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "フォルクスワーゲ ン ゴルフ gti",
+    "keyword": "利根 パーク ゴルフ 場",
     "score": 100.0,
     "topic": "スポーツ",
     "audience_segment": "男性寄り",
@@ -5306,7 +5546,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ソイ プロテイン",
-    "score": 95.0,
+    "score": 90.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5322,15 +5562,7 @@
   {
     "date": "2026-04-18",
     "keyword": "マイ プロテイン",
-    "score": 81.0,
-    "topic": "筋トレ・フィットネス",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ザバス プロテイン",
-    "score": 65.0,
+    "score": 80.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5339,6 +5571,14 @@
     "date": "2026-04-18",
     "keyword": "ザバス",
     "score": 65.0,
+    "topic": "筋トレ・フィットネス",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ザバス プロテイン",
+    "score": 64.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5378,7 +5618,7 @@
   {
     "date": "2026-04-18",
     "keyword": "嫁 に もろ て プロテイン マグ ケーキ",
-    "score": 90.0,
+    "score": 100.0,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5402,7 +5642,7 @@
   {
     "date": "2026-04-18",
     "keyword": "花粉 薬",
-    "score": 95.0,
+    "score": 92.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5410,23 +5650,23 @@
   {
     "date": "2026-04-18",
     "keyword": "妊娠 検査 薬",
-    "score": 74.0,
+    "score": 75.0,
     "topic": "健康・医療",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
   },
   {
     "date": "2026-04-18",
-    "keyword": "花粉 症",
-    "score": 68.0,
+    "keyword": "花粉 症 薬",
+    "score": 69.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "花粉 症 薬",
-    "score": 68.0,
+    "keyword": "花粉 症",
+    "score": 67.0,
     "topic": "健康・医療",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5449,7 +5689,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "車 中古 車",
+    "keyword": "車 中古",
     "score": 100.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -5457,8 +5697,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "車 中古",
-    "score": 100.0,
+    "keyword": "車 中古 車",
+    "score": 98.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -5473,7 +5713,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "トヨタ 中古 車",
+    "keyword": "中古 車 トヨタ",
     "score": 10.0,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
@@ -5506,7 +5746,7 @@
   {
     "date": "2026-04-18",
     "keyword": "家電 リサイクル",
-    "score": 65.0,
+    "score": 63.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5514,7 +5754,7 @@
   {
     "date": "2026-04-18",
     "keyword": "小型 家電",
-    "score": 48.0,
+    "score": 51.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5529,16 +5769,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "家電 買取",
-    "score": 24.0,
+    "keyword": "小型 家電 回収",
+    "score": 29.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "小型 家電 回収 ボックス",
-    "score": 22.0,
+    "keyword": "家電 買取",
+    "score": 25.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5561,7 +5801,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "家電 せどり",
+    "keyword": "家電 修理 今井 さん",
     "score": 100.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
@@ -5569,7 +5809,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "家電 修理 今井 さん",
+    "keyword": "家電 せどり",
     "score": 100.0,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
@@ -5585,7 +5825,15 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "平均 年収",
+    "keyword": "家電 機器",
+    "score": 40.0,
+    "topic": "ガジェット・家電",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "年収 平均",
     "score": 100.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
@@ -5594,7 +5842,7 @@
   {
     "date": "2026-04-18",
     "keyword": "年収 手取り",
-    "score": 49.0,
+    "score": 43.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5602,14 +5850,6 @@
   {
     "date": "2026-04-18",
     "keyword": "年収 ランキング",
-    "score": 24.0,
-    "topic": "仕事・キャリア",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "世帯 年収",
     "score": 23.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
@@ -5617,8 +5857,16 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "世帯 年収",
+    "score": 20.0,
+    "topic": "仕事・キャリア",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "年収 1000 万",
-    "score": 19.0,
+    "score": 18.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5626,7 +5874,7 @@
   {
     "date": "2026-04-18",
     "keyword": "年収 500 万",
-    "score": 14.0,
+    "score": 12.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5635,22 +5883,6 @@
     "date": "2026-04-18",
     "keyword": "ゆい ぴす 年収",
     "score": 100.0,
-    "topic": "仕事・キャリア",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "マキロイ 年収",
-    "score": 100.0,
-    "topic": "仕事・キャリア",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "松山 英樹 年収",
-    "score": 80.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5666,7 +5898,15 @@
   {
     "date": "2026-04-18",
     "keyword": "sansan 年収",
-    "score": 70.0,
+    "score": 60.0,
+    "topic": "仕事・キャリア",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "松山 英樹 年収",
+    "score": 60.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5690,7 +5930,7 @@
   {
     "date": "2026-04-18",
     "keyword": "高校 受験",
-    "score": 46.0,
+    "score": 47.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
@@ -5729,7 +5969,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "下剋上 受験",
+    "keyword": "下克上 受験",
     "score": 100.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
@@ -5737,7 +5977,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "下克上 受験",
+    "keyword": "下剋上 受験",
     "score": 100.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
@@ -5754,18 +5994,18 @@
   {
     "date": "2026-04-18",
     "keyword": "大学 受験 パスナビ",
-    "score": 70.0,
+    "score": 100.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "グノーブル 中学 受験",
+    "keyword": "英 検 申し込み",
     "score": 60.0,
     "topic": "学び・資格",
     "audience_segment": "中立・不明",
-    "generation_segment": "40代"
+    "generation_segment": "10代・学生"
   },
   {
     "date": "2026-04-18",
@@ -5778,7 +6018,7 @@
   {
     "date": "2026-04-18",
     "keyword": "日経 平均 株価",
-    "score": 96.0,
+    "score": 92.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5786,7 +6026,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ソフトバンク 株価",
-    "score": 26.0,
+    "score": 28.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5802,14 +6042,14 @@
   {
     "date": "2026-04-18",
     "keyword": "jx 金属 株価",
-    "score": 21.0,
+    "score": 22.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "フジクラ 株価",
+    "keyword": "三菱 重工 株価",
     "score": 21.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
@@ -5842,7 +6082,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ionq 株価",
-    "score": 90.0,
+    "score": 60.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5865,7 +6105,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "あつ 森",
+    "keyword": "あつ 森 家具",
     "score": 100.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
@@ -5873,8 +6113,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "あつ 森 家具",
-    "score": 98.0,
+    "keyword": "あつ 森",
+    "score": 95.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5882,7 +6122,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ニトリ 家具",
-    "score": 81.0,
+    "score": 83.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5898,7 +6138,7 @@
   {
     "date": "2026-04-18",
     "keyword": "家具 買取",
-    "score": 72.0,
+    "score": 77.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5906,7 +6146,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ロウヤ",
-    "score": 69.0,
+    "score": 70.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -5921,7 +6161,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "渋谷 家具 屋",
+    "keyword": "ロウヤ 家具 店舗",
     "score": 100.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
@@ -5929,7 +6169,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "家具 ロウヤ 店舗",
+    "keyword": "渋谷 家具 屋",
     "score": 100.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
@@ -5970,7 +6210,7 @@
   {
     "date": "2026-04-18",
     "keyword": "出産 予定 日",
-    "score": 29.0,
+    "score": 30.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -5978,7 +6218,7 @@
   {
     "date": "2026-04-18",
     "keyword": "出産 手当",
-    "score": 26.0,
+    "score": 27.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -5986,7 +6226,7 @@
   {
     "date": "2026-04-18",
     "keyword": "出産 手当 金",
-    "score": 23.0,
+    "score": 24.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -5994,7 +6234,7 @@
   {
     "date": "2026-04-18",
     "keyword": "出産 一時 金",
-    "score": 17.0,
+    "score": 18.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6026,7 +6266,7 @@
   {
     "date": "2026-04-18",
     "keyword": "出産 手当 金 支給 申請 書",
-    "score": 60.0,
+    "score": 50.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6035,14 +6275,6 @@
     "date": "2026-04-18",
     "keyword": "出産 手当 金 申請 書",
     "score": 50.0,
-    "topic": "育児・家庭",
-    "audience_segment": "女性寄り",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "出産 予定 日 早見 表",
-    "score": 40.0,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6066,7 +6298,7 @@
   {
     "date": "2026-04-18",
     "keyword": "殺人 事件",
-    "score": 57.0,
+    "score": 58.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6074,7 +6306,7 @@
   {
     "date": "2026-04-18",
     "keyword": "京都 事件 行方 不明",
-    "score": 44.0,
+    "score": 45.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6090,8 +6322,16 @@
   {
     "date": "2026-04-18",
     "keyword": "小学生 行方 不明 事件",
-    "score": 28.0,
+    "score": 29.0,
     "topic": "政治・社会",
+    "audience_segment": "中立・不明",
+    "generation_segment": "10代・学生"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "京都 小学生 行方 不明 事件 遺体 発見",
+    "score": 100.0,
+    "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "10代・学生"
   },
@@ -6102,14 +6342,6 @@
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "京都 小学生 行方 不明 事件 遺体 発見",
-    "score": 100.0,
-    "topic": "旅行",
-    "audience_segment": "中立・不明",
-    "generation_segment": "10代・学生"
   },
   {
     "date": "2026-04-18",
@@ -6129,7 +6361,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "安城 殺人 事件",
+    "keyword": "ハンミ ちゃん どう なっ た",
     "score": 100.0,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
@@ -6137,9 +6369,9 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "江戸川 区 アイドル 襲撃 事件",
+    "keyword": "ホンダ スーパー ワン 補助 金",
     "score": 100.0,
-    "topic": "芸能・推し",
+    "topic": "車・バイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -6154,7 +6386,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ペット ショップ",
-    "score": 38.0,
+    "score": 35.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6162,7 +6394,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ペット 可 賃貸",
-    "score": 21.0,
+    "score": 20.0,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6170,7 +6402,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ペット ホテル",
-    "score": 19.0,
+    "score": 18.0,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6178,14 +6410,14 @@
   {
     "date": "2026-04-18",
     "keyword": "ペット 保険",
-    "score": 14.0,
+    "score": 13.0,
     "topic": "お金（投資・節約）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "イオン ペット",
+    "keyword": "ペット ボトル 水",
     "score": 8.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
@@ -6233,9 +6465,105 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "アディダス ペット",
+    "keyword": "adidas ペット コレクション",
     "score": 100.0,
     "topic": "ペット",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い タロット",
+    "score": 96.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "タロット カード",
+    "score": 49.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "タロット 無料",
+    "score": 27.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い 無料",
+    "score": 17.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い タロット 無料",
+    "score": 17.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "タロット リバース",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "誕生 日 タロット",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "誕生 日 タロット カード",
+    "score": 100.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "バースデー タロット",
+    "score": 70.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "タロット ティアラ",
+    "score": 50.0,
+    "topic": "占い・スピリチュアル",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "連絡 くる か タロット",
+    "score": 50.0,
+    "topic": "占い・スピリチュアル",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -6249,24 +6577,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "南海 トラフ 地震",
-    "score": 61.0,
-    "topic": "日常・雑談",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
     "keyword": "南海 トラフ",
-    "score": 59.0,
+    "score": 43.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "熊本 地震",
-    "score": 59.0,
+    "keyword": "南海 トラフ 地震",
+    "score": 42.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6274,7 +6594,15 @@
   {
     "date": "2026-04-18",
     "keyword": "地震 情報",
-    "score": 52.0,
+    "score": 42.0,
+    "topic": "日常・雑談",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "熊本 地震",
+    "score": 41.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6282,7 +6610,7 @@
   {
     "date": "2026-04-18",
     "keyword": "リアルタイム 地震",
-    "score": 38.0,
+    "score": 35.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6297,7 +6625,31 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "熊本 地震 本震",
+    "keyword": "最大 震度 5 強 の 地震",
+    "score": 100.0,
+    "topic": "日常・雑談",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "緊急 地震 速報 長野",
+    "score": 100.0,
+    "topic": "日常・雑談",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "長野 県 北部 地震",
+    "score": 100.0,
+    "topic": "日常・雑談",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "長野 北部 地震",
     "score": 100.0,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
@@ -6313,31 +6665,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "熊本 地震 時間",
-    "score": 100.0,
-    "topic": "日常・雑談",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "熊本 地震 から 10 年",
-    "score": 100.0,
-    "topic": "日常・雑談",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "南海 トラフ 巨大 地震",
-    "score": 100.0,
-    "topic": "日常・雑談",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "楽天 アフィリエイト",
+    "keyword": "アフィリエイト 楽天",
     "score": 100.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -6345,7 +6673,7 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "amazon アフィリエイト",
+    "keyword": "アフィリエイト amazon",
     "score": 18.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -6354,7 +6682,7 @@
   {
     "date": "2026-04-18",
     "keyword": "もしも アフィリエイト",
-    "score": 13.0,
+    "score": 14.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6362,15 +6690,7 @@
   {
     "date": "2026-04-18",
     "keyword": "もしも",
-    "score": 13.0,
-    "topic": "副業・稼ぐ",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "dmm アフィリエイト",
-    "score": 11.0,
+    "score": 14.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6378,6 +6698,14 @@
   {
     "date": "2026-04-18",
     "keyword": "アフィリエイト リンク",
+    "score": 11.0,
+    "topic": "副業・稼ぐ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "dmm アフィリエイト",
     "score": 11.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
@@ -6401,8 +6729,16 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "youtube アフィリエイト 邪魔",
+    "keyword": "ラッコ キーワード",
     "score": 90.0,
+    "topic": "副業・稼ぐ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "youtube アフィリエイト 邪魔",
+    "score": 80.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6417,16 +6753,8 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "アド アフィリエイト",
-    "score": 60.0,
-    "topic": "副業・稼ぐ",
-    "audience_segment": "中立・不明",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "brain アフィリエイト",
-    "score": 60.0,
+    "keyword": "pinterest アフィリエイト",
+    "score": 50.0,
     "topic": "副業・稼ぐ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6442,7 +6770,7 @@
   {
     "date": "2026-04-18",
     "keyword": "婚 活 アプリ",
-    "score": 32.0,
+    "score": 33.0,
     "topic": "恋愛",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6450,7 +6778,7 @@
   {
     "date": "2026-04-18",
     "keyword": "婚 活 イベント",
-    "score": 20.0,
+    "score": 21.0,
     "topic": "恋愛",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6466,7 +6794,7 @@
   {
     "date": "2026-04-18",
     "keyword": "婚 活 ブログ",
-    "score": 19.0,
+    "score": 20.0,
     "topic": "恋愛",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6475,14 +6803,6 @@
     "date": "2026-04-18",
     "keyword": "婚 活 バス ツアー",
     "score": 17.0,
-    "topic": "恋愛",
-    "audience_segment": "女性寄り",
-    "generation_segment": "30代"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ザ ノン フィクション 婚 活",
-    "score": 100.0,
     "topic": "恋愛",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6498,15 +6818,15 @@
   {
     "date": "2026-04-18",
     "keyword": "婚 活 バス ツアー 大阪",
-    "score": 90.0,
+    "score": 80.0,
     "topic": "恋愛",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
   },
   {
     "date": "2026-04-18",
-    "keyword": "ザノン フィクション 婚 活",
-    "score": 80.0,
+    "keyword": "婚 活 千本 ノック",
+    "score": 70.0,
     "topic": "恋愛",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6521,179 +6841,19 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "千 速 と 重 悟 の 婚 活 パーティー",
+    "keyword": "ザノン フィクション",
     "score": 60.0,
-    "topic": "恋愛",
+    "topic": "芸能・推し",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
   },
   {
     "date": "2026-04-18",
-    "keyword": "瀬戸 環 奈",
-    "score": 100.0,
-    "topic": "アダルト・性",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "博 多彩 葉",
-    "score": 48.0,
-    "topic": "アダルト・性",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "スキンケア クリニック",
-    "score": 100.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "スキンケア おすすめ",
-    "score": 85.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "化粧 水",
-    "score": 66.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "スキンケア クリーム",
-    "score": 63.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "メンズ スキンケア",
-    "score": 58.0,
-    "topic": "美容・メイク",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "スキンケア 順番",
-    "score": 49.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "スキンケア クリーム ティント",
-    "score": 100.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "アルビオン",
-    "score": 60.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "皮脂 抑制 スキンケア",
+    "keyword": "千 速 と 重 悟 の 婚 活 パーティー",
     "score": 50.0,
-    "topic": "美容・メイク",
+    "topic": "恋愛",
     "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "小学生 スキンケア",
-    "score": 50.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "10代・学生"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "ネクスト スキンケア クリニック",
-    "score": 50.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "松山 油脂",
-    "score": 40.0,
-    "topic": "美容・メイク",
-    "audience_segment": "女性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "aga クリニック",
-    "score": 100.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "aga 治療",
-    "score": 93.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "aga dmm",
-    "score": 27.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "湘南 aga",
-    "score": 23.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "aga オンライン",
-    "score": 19.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "aga おすすめ",
-    "score": 17.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
-  },
-  {
-    "date": "2026-04-18",
-    "keyword": "aga 愛知",
-    "score": 40.0,
-    "topic": "メンズ美容・身だしなみ",
-    "audience_segment": "男性寄り",
-    "generation_segment": "世代不明"
+    "generation_segment": "30代"
   },
   {
     "date": "2026-04-18",
@@ -6706,7 +6866,7 @@
   {
     "date": "2026-04-18",
     "keyword": "switch",
-    "score": 9.0,
+    "score": 9.4,
     "topic": "ゲーム",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6721,24 +6881,56 @@
   },
   {
     "date": "2026-04-18",
-    "keyword": "エロ",
-    "score": 36.0,
+    "keyword": "アダルト",
+    "score": 21.4,
     "topic": "アダルト・性",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "グルメ",
-    "score": 4.0,
+    "keyword": "アニメ",
+    "score": 38.4,
+    "topic": "アニメ・漫画",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "エロ",
+    "score": 8.6,
+    "topic": "アダルト・性",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "カフェ",
+    "score": 83.8,
     "topic": "食（カフェ・グルメ）",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
+    "keyword": "グルメ",
+    "score": 4.4,
+    "topic": "食（カフェ・グルメ）",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "ゲーム",
+    "score": 57.0,
+    "topic": "ゲーム",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "コーデ",
-    "score": 4.0,
+    "score": 3.6,
     "topic": "ファッション",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6746,7 +6938,7 @@
   {
     "date": "2026-04-18",
     "keyword": "サッカー",
-    "score": 14.0,
+    "score": 15.4,
     "topic": "スポーツ",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6754,7 +6946,7 @@
   {
     "date": "2026-04-18",
     "keyword": "ジム",
-    "score": 4.0,
+    "score": 4.4,
     "topic": "筋トレ・フィットネス",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6762,15 +6954,23 @@
   {
     "date": "2026-04-18",
     "keyword": "スマホ",
-    "score": 42.5,
+    "score": 43.6,
     "topic": "ガジェット・家電",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
+    "keyword": "ファッション",
+    "score": 8.0,
+    "topic": "ファッション",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "ホテル",
-    "score": 30.0,
+    "score": 29.6,
     "topic": "旅行",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6786,7 +6986,7 @@
   {
     "date": "2026-04-18",
     "keyword": "メイク",
-    "score": 2.0,
+    "score": 1.0,
     "topic": "美容・メイク",
     "audience_segment": "女性寄り",
     "generation_segment": "世代不明"
@@ -6801,9 +7001,41 @@
   },
   {
     "date": "2026-04-18",
+    "keyword": "メンズ美容",
+    "score": 1.0,
+    "topic": "美容・メイク",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "健康",
+    "score": 13.0,
+    "topic": "健康・医療",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "副業",
+    "score": 2.0,
+    "topic": "副業・稼ぐ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "勉強",
-    "score": 8.5,
+    "score": 8.2,
     "topic": "学び・資格",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "占い",
+    "score": 21.0,
+    "topic": "占い・スピリチュアル",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
@@ -6818,7 +7050,7 @@
   {
     "date": "2026-04-18",
     "keyword": "天気",
-    "score": 24.0,
+    "score": 17.6,
     "topic": "日常・雑談",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6826,23 +7058,47 @@
   {
     "date": "2026-04-18",
     "keyword": "引っ越し",
-    "score": 0.0,
+    "score": 7.4,
     "topic": "住まい・暮らし",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
+    "keyword": "恋愛",
+    "score": 7.0,
+    "topic": "恋愛",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "推し活",
+    "score": 1.4,
+    "topic": "芸能・推し",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "政治",
-    "score": 0.0,
+    "score": 4.2,
     "topic": "政治・社会",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
+    "keyword": "旅行",
+    "score": 20.6,
+    "topic": "旅行",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
     "keyword": "歌詞",
-    "score": 15.0,
+    "score": 25.4,
     "topic": "音楽",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6850,7 +7106,7 @@
   {
     "date": "2026-04-18",
     "keyword": "漫画",
-    "score": 41.5,
+    "score": 39.2,
     "topic": "アニメ・漫画",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
@@ -6858,23 +7114,31 @@
   {
     "date": "2026-04-18",
     "keyword": "犬",
-    "score": 2.5,
+    "score": 71.0,
     "topic": "ペット",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
-    "keyword": "病院",
-    "score": 41.0,
-    "topic": "健康・医療",
+    "keyword": "筋トレ",
+    "score": 4.0,
+    "topic": "筋トレ・フィットネス",
+    "audience_segment": "男性寄り",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "美容",
+    "score": 28.8,
+    "topic": "美容・メイク",
     "audience_segment": "中立・不明",
     "generation_segment": "世代不明"
   },
   {
     "date": "2026-04-18",
     "keyword": "育児",
-    "score": 0.0,
+    "score": 2.2,
     "topic": "育児・家庭",
     "audience_segment": "女性寄り",
     "generation_segment": "30代"
@@ -6882,7 +7146,7 @@
   {
     "date": "2026-04-18",
     "keyword": "車",
-    "score": 87.0,
+    "score": 87.6,
     "topic": "車・バイク",
     "audience_segment": "男性寄り",
     "generation_segment": "世代不明"
@@ -6890,9 +7154,25 @@
   {
     "date": "2026-04-18",
     "keyword": "転職",
-    "score": 6.5,
+    "score": 6.0,
     "topic": "仕事・キャリア",
     "audience_segment": "中立・不明",
     "generation_segment": "30代"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "野球",
+    "score": 55.0,
+    "topic": "スポーツ",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
+  },
+  {
+    "date": "2026-04-18",
+    "keyword": "音楽",
+    "score": 18.6,
+    "topic": "音楽",
+    "audience_segment": "中立・不明",
+    "generation_segment": "世代不明"
   }
 ]
